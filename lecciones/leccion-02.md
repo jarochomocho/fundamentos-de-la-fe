@@ -24,6 +24,17 @@
 
 </details>
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**El que habla aqui es el apostol Pablo, alguien que ya era cristiano y salvo. ¿Que te dice sobre lo que es normal esperar despues de la conversion?**
+
+**Si aun te sigues equivocando y pecando. ¿Esto es senal de fracaso?**
+
+**★** ¿Que pasaria si despues de recibir a Cristo ya no sintieras ninguna tension interna entre tus deseos y lo que Dios quiere? ¿Es una buena o mala senal?
+
+</details>
+
 #### Ideas centrales
 
 Lo que describe Pablo en Romanos 7 no es la experiencia de alguien que no es salvo — es la experiencia real del creyente en conflicto.[^1] Antes de la conversion solo jalaba una direccion. Ahora hay dos fuerzas operando en nosotros.
@@ -32,7 +43,8 @@ La Confesion Escocesa lo describe con precision: despues de que el Senor toma po
 
 Hay tambien algo importante que distinguir: no todo lo que falla en el creyente es pecado. Parte es simplemente ser humano y finito. «El pecado ocurre dentro de la finitud, pero es algo que se elige. La finitud es diferente: no la elegimos; la somos.»[^3] Cargar culpa por la fragilidad humana — el cansancio, la memoria limitada, el juicio imperfecto — es una carga que el evangelio no pone.
 
-#### Errores comunes
+<details>
+<summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
 > **«Si de verdad fueras salvo, ya no lucharias con eso.»** Este es uno de los errores mas daninos en comunidades cristianas. Implica que la ausencia de lucha es senal de madurez. Lo opuesto es mas cercano a la verdad: quien mas crece, mas consciente se vuelve de cuanto le falta.
@@ -42,15 +54,6 @@ Hay tambien algo importante que distinguir: no todo lo que falla en el creyente 
 
 > [!WARNING]
 > **«Todo lo que me sale mal es pecado.»** Confundir finitud con pecado produce un escrupulo que paraliza. El pecado es desobediencia elegida a una verdad moral reconocida — no simplemente ser imperfecto.[^3]
-
-<details>
-<summary><b>Preguntas para grupos pequeños</b></summary>
-
-**El que habla aqui es el apostol Pablo, alguien que ya era cristiano y salvo. ¿Que te dice sobre lo que es normal esperar despues de la conversion?**
-
-**Si aun te sigues equivocando y pecando. ¿Esto es senal de fracaso?**
-
-**★** ¿Que pasaria si despues de recibir a Cristo ya no sintieras ninguna tension interna entre tus deseos y lo que Dios quiere? ¿Es una buena o mala senal?
 
 </details>
 
@@ -69,22 +72,6 @@ Hay tambien algo importante que distinguir: no todo lo que falla en el creyente 
 
 </details>
 
-#### Ideas centrales
-
-El arrepentimiento no es solo el acto que abre la puerta de la conversion — es la practica que sostiene el camino. Como el pecado permanece en el creyente, el arrepentimiento debe renovarse. Origenes lo dijo con claridad: la vida cristiana exige «una continua abnegacion, confesion y penitencia constante.»[^4]
-
-Hay una diferencia entre dos clases de tristeza ante el pecado.[^5] La tristeza mundana solo lamenta las consecuencias — la verguenza, el dano, la perdida. La tristeza segun Dios va a la raiz: produce el deseo ferviente de hacer el bien, el afan de limpiar la propia conciencia, el anhelo de reconciliacion. La primera gira alrededor de uno mismo. La segunda gira hacia Dios.
-
-Crisostomo identifico cinco movimientos concretos en este camino: declarar los propios pecados abiertamente, perdonar a quienes nos deben, la oracion constante, los actos de bondad hacia otros, y la humildad sincera. No es un estado emocional — es una practica con forma.
-
-#### Errores comunes
-
-> [!WARNING]
-> **«El arrepentimiento es solo sentirse muy mal por lo que hice.»** La tristeza sin reforma no es arrepentimiento completo. Hay tres movimientos: reconocer la propia corrupcion, afligirse genuinamente, y esforzarse por la enmienda de vida. Si falta cualquiera de los tres, el arrepentimiento no ha madurado.
-
-> [!WARNING]
-> **«Arrepentirme tanto significa que no tengo fe suficiente.»** El arrepentimiento continuo no contradice la seguridad — la acompana. No es dudar del perdon; es tomarlo en serio.
-
 <details>
 <summary><b>Preguntas para grupos pequeños</b></summary>
 
@@ -93,6 +80,25 @@ Crisostomo identifico cinco movimientos concretos en este camino: declarar los p
 **Cuando te equivocas, ¿tu tristeza tiende a girar hacia Dios o hacia ti mismo — hacia la reconciliacion o la verguenza?**
 
 **★** ¿Podria alguien arrepentirse demasiado — hasta el punto de que el arrepentimiento se vuelva un problema en si mismo? ¿Donde estaria ese limite?
+
+</details>
+
+#### Ideas centrales
+
+El arrepentimiento no es solo el acto que abre la puerta de la conversion — es la practica que sostiene el camino. Como el pecado permanece en el creyente, el arrepentimiento debe renovarse. Origenes lo dijo con claridad: la vida cristiana exige «una continua abnegacion, confesion y penitencia constante.»[^4]
+
+Hay una diferencia entre dos clases de tristeza ante el pecado.[^5] La tristeza mundana solo lamenta las consecuencias — la verguenza, el dano, la perdida. La tristeza segun Dios va a la raiz: produce el deseo ferviente de hacer el bien, el afan de limpiar la propia conciencia, el anhelo de reconciliacion. La primera gira alrededor de uno mismo. La segunda gira hacia Dios.
+
+Crisostomo identifico cinco movimientos concretos en este camino: declarar los propios pecados abiertamente, perdonar a quienes nos deben, la oracion constante, los actos de bondad hacia otros, y la humildad sincera. No es un estado emocional — es una practica con forma.
+
+<details>
+<summary><b>Errores comunes</b></summary>
+
+> [!WARNING]
+> **«El arrepentimiento es solo sentirse muy mal por lo que hice.»** La tristeza sin reforma no es arrepentimiento completo. Hay tres movimientos: reconocer la propia corrupcion, afligirse genuinamente, y esforzarse por la enmienda de vida. Si falta cualquiera de los tres, el arrepentimiento no ha madurado.
+
+> [!WARNING]
+> **«Arrepentirme tanto significa que no tengo fe suficiente.»** El arrepentimiento continuo no contradice la seguridad — la acompana. No es dudar del perdon; es tomarlo en serio.
 
 </details>
 
@@ -113,6 +119,17 @@ Crisostomo identifico cinco movimientos concretos en este camino: declarar los p
 
 </details>
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**Pablo ora pidiendo que Dios los haga santos — no que ellos se hagan santos. ¿Que cambia en la manera de entender el proceso si el sujeto activo es Dios y no tu?**
+
+**En que area de tu vida sientes que el proceso esta activo — que algo esta cambiando aunque sea lentamente? ¿Y en que area sientes que esta estancado?**
+
+**★** Si la santificacion es un proceso gradual que dura toda la vida, ¿como sabrias si estas avanzando? ¿Que se veria diferente en alguien que lleva diez anos en ese proceso?
+
+</details>
+
 #### Ideas centrales
 
 La salvacion tiene tres tiempos que no deben confundirse.[^6] Hemos sido salvados del castigo del pecado — eso es la justificacion, ya ocurrio. Estamos siendo salvados del poder del pecado — eso es la santificacion, ocurre ahora. Seremos salvados de los restos del pecado — eso es la glorificacion, aun no ha llegado. Esperar que lo que ya esta completo en la justificacion ocurra de inmediato en la santificacion es confundir los tiempos.
@@ -123,7 +140,8 @@ La obra mas tipica de la gracia es gradual, madurando como crece un organismo.[^
 
 Leon I lo resumio con una imagen que une todo: «La misericordia quiere que seais misericordiosos, la justicia que seais justos, para que el Creador se vea en su criatura y la imagen de Dios se refleje en el espejo del corazon humano.»[^11] Ese es el destino del proceso — no la perfeccion moral como logro, sino la imagen de Dios restaurada como don.
 
-#### Errores comunes
+<details>
+<summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
 > **«Cada vez que peco pierdo la salvacion y tengo que volver a ganarla.»** Esto convierte la vida cristiana en una montana rusa segun la conducta del dia. Romanos 8:1 no tiene condiciones de desempeno. Lo que puede fluctuar es la calidad de la comunion — pero no el estatus de hijo.
@@ -133,15 +151,6 @@ Leon I lo resumio con una imagen que une todo: «La misericordia quiere que seai
 
 > [!WARNING]
 > **«Ya no peco — eso quedo atras cuando me converti.»** La primera tesis de Lutero: «Toda la vida de los creyentes es una vida de arrepentimiento.»[^12] Fingir que ya no hay lucha no es madurez — es el comienzo de la hipocresia.
-
-<details>
-<summary><b>Preguntas para grupos pequeños</b></summary>
-
-**Pablo ora pidiendo que Dios los haga santos — no que ellos se hagan santos. ¿Que cambia en la manera de entender el proceso si el sujeto activo es Dios y no tu?**
-
-**En que area de tu vida sientes que el proceso esta activo — que algo esta cambiando aunque sea lentamente? ¿Y en que area sientes que esta estancado?**
-
-**★** Si la santificacion es un proceso gradual que dura toda la vida, ¿como sabrias si estas avanzando? ¿Que se veria diferente en alguien que lleva diez anos en ese proceso?
 
 </details>
 

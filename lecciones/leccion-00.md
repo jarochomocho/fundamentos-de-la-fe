@@ -32,13 +32,16 @@ La condición humana está destinada a orientarse hacia algún centro de valor �
 
 Juan Damasceno lo expresó así: "Dios ha implantado el conocimiento de su existencia en todos por naturaleza. La creación, su conservación y su gobierno proclaman la majestad de la naturaleza divina."[^3] No se trata de una idea que algunos tienen y otros no — es algo escrito en la estructura de ser humano.
 
-#### Errores comunes
+<details>
+<summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
 > **«Yo no soy religioso — no creo en nada.»** No existe esa posición. La pregunta no es si creer sino en qué. Quien dice no creer en Dios generalmente cree con igual fervor en la razón, en la ciencia, en la bondad humana, en el progreso — esas son sus dioses. La pregunta no es si hay un centro de valor en la vida, sino si ese centro puede sostener el peso que se le pone encima.
 
 > [!WARNING]
 > **«La religión es un invento humano para explicar lo que no entendemos.»** Incluso si uno acepta que las formas religiosas son construcciones humanas, la pregunta que permanece es por qué todas las culturas humanas en toda la historia han construido exactamente esas construcciones. El hambre de Dios que produce esas construcciones requiere su propia explicación.[^1]
+
+</details>
 
 ---
 
@@ -57,6 +60,17 @@ Juan Damasceno lo expresó así: "Dios ha implantado el conocimiento de su exist
 
 </details>
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**¿Qué otras religiones o filosofías conoces que descansen en un evento histórico verificable — no solo una enseñanza o un maestro?**
+
+**Si la resurrección no ocurrió y el cristianismo fuera solo una filosofía de vida, ¿seguirías siguiéndolo? ¿Por qué sí o por qué no?**
+
+**★** Pablo no dice "nuestra fe sería débil" — dice vana, vacía, inútil. ¿Por qué crees que usa esa palabra tan fuerte?
+
+</details>
+
 #### Ideas centrales
 
 Todas las religiones hacen las mismas preguntas: ¿Quién soy? ¿Cómo llegó a existir el mundo? ¿Qué es el bien y el mal? ¿Ante quién soy responsable en última instancia? ¿Viviré después de la muerte? El cristianismo no entra en un terreno de cuestionamiento donde nadie más ha entrado. El islam, el budismo, el hinduismo — todos hacen preguntas profundas y serias.
@@ -65,13 +79,16 @@ Pablo en Atenas no comenzó negando la búsqueda religiosa de los atenienses —
 
 La diferencia del cristianismo no está en hacer mejores preguntas — está en la naturaleza de la respuesta. Otras tradiciones religiosas ofrecen sabiduría, sistemas éticos, técnicas de contemplación, caminos de perfección moral. El cristianismo afirma algo radicalmente diferente: que la respuesta a la búsqueda humana no es un método ni un sistema sino una persona que entró a la historia.
 
-#### Errores comunes
+<details>
+<summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
 > **«Todas las religiones llevan al mismo lugar — son caminos diferentes hacia la misma cumbre.»** Esta posición suena tolerante pero es en realidad condescendiente con todas las religiones — las vacía de sus afirmaciones específicas y las convierte en variaciones de una misma idea difusa. El budismo y el cristianismo, por ejemplo, no dicen lo mismo sobre el yo, sobre la salvación ni sobre Dios. Tratarlos como equivalentes es no tomarse en serio lo que cada uno afirma.
 
 > [!WARNING]
 > **«El cristianismo es una religión más — ¿por qué sería diferente?»** Porque hace una afirmación que ninguna otra religión hace de la misma manera: que Dios mismo entró a la historia en una persona específica, en un lugar específico, en un momento datable. Eso no es una variación de una idea universal. Es un acontecimiento que o bien ocurrió o no ocurrió.
+
+</details>
 
 ---
 
@@ -81,6 +98,17 @@ La diferencia del cristianismo no está en hacer mejores preguntas — está en 
 
 > "Entonces la Palabra se hizo hombre y vino a vivir entre nosotros. Estaba lleno de amor inagotable y fidelidad. Y hemos visto su gloria, la gloria del único Hijo del Padre."  — Juan 1:14 (NTV)
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**El nombre "cristiano" no fue auto-impuesto — se lo pusieron otros porque notaron algo. ¿Qué habrían notado exactamente?**
+
+**¿Qué diferencia hay entre identificarse con una religión y parecerse a una persona?**
+
+**★** Esta semana, ¿hubo algo en cómo actuaste que solo se explica por seguir a Cristo?
+
+</details>
+
 #### Ideas centrales
 
 Los grandes maestros religiosos se caracterizan por su modestia. Sócrates decía no saber nada. Buda enseñó un camino de iluminación. Mahoma se presentó como mensajero. Jesús hace algo radicalmente diferente — habla constantemente de sí mismo con una autoridad sin precedente: «Yo soy el camino, la verdad y la vida» (Juan 14:6). «El que me ha visto a mí, ha visto al Padre» (Juan 14:9). «Yo y el Padre somos uno» (Juan 10:30).[^5]
@@ -89,13 +117,16 @@ El escándalo de estas palabras es claro: «Estas afirmaciones suenan absurdas a
 
 La afirmación cristiana no es que Jesús enseñó ideas importantes sobre Dios. Es que Jesús es Dios entrando a la historia. Y eso cambia completamente la naturaleza de lo que se ofrece. No es sabiduría para considerar. Es una persona a quien encontrar.
 
-#### Errores comunes
+<details>
+<summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
 > **«Jesús fue un gran maestro moral — no hace falta creer que era Dios.»** Esta posición no puede sostenerse leyendo los evangelios. Un hombre que dice ser uno con el Padre, que perdona pecados como si fuera Dios, que promete que vendrá a juzgar a todos los seres humanos — ese hombre o es lo que dice ser, o es un lunático, o es un mentiroso. No existe la opción de un Jesús simplemente admirable pero meramente humano.
 
 > [!WARNING]
 > **«Nadie sabe realmente cómo fue Jesús — los evangelios fueron escritos mucho después.»** La investigación histórica más seria confirma que los documentos del Nuevo Testamento son los más antiguos y mejor atestiguados del mundo antiguo. Los testigos oculares vivían cuando se escribieron.
+
+</details>
 
 ---
 
@@ -105,6 +136,17 @@ La afirmación cristiana no es que Jesús enseñó ideas importantes sobre Dios.
 
 > "¡En ningún otro hay salvación! Dios no ha dado ningún otro nombre bajo el cielo mediante el cual podamos ser salvos."  — Hechos 4:12 (NTV)
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**¿Qué significa exactamente "confesar" — es solo decirlo con la boca, o implica algo más?**
+
+**¿Has confesado que Jesús es el Hijo de Dios como una convicción real — o lo has repetido porque es lo que se dice en la iglesia?**
+
+**★** Juan dice que Dios "permanece" en quien confiesa. ¿Qué diferencia hay entre conocer datos sobre Cristo y que Dios permanezca en ti?
+
+</details>
+
 #### Ideas centrales
 
 La diferencia entre el cristianismo y cualquier otro sistema religioso o filosófico se concentra en este punto: el cristianismo no ofrece un método para mejorar, sino un encuentro con alguien que actúa. No es que Jesús enseñó el camino hacia Dios — es que Jesús es el camino. No señaló la puerta — él mismo es la puerta.
@@ -113,7 +155,8 @@ La diferencia entre el cristianismo y cualquier otro sistema religioso o filosó
 
 Agustín lo vivió antes de formularlo: «Nos hiciste para ti, y nuestro corazón está inquieto hasta que descanse en ti» (Confesiones 1.1).[^8] La inquietud que todo ser humano experimenta — ese hambre de algo que ninguna cosa finita puede saciar — encuentra su respuesta no en una idea sino en una persona.
 
-#### Errores comunes
+<details>
+<summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
 > **«La salvación es solo seguir las enseñanzas de Jesús — una vida mejor.»** Las enseñanzas de Jesús sin su persona son inalcanzables e insostenibles. El Sermón del Monte, leído honestamente, no produce consuelo sino desesperanza — exige una perfección que ningún ser humano puede sostener por esfuerzo propio.
@@ -121,11 +164,26 @@ Agustín lo vivió antes de formularlo: «Nos hiciste para ti, y nuestro corazó
 > [!WARNING]
 > **«El cristianismo es excluyente — ¿cómo puede un solo camino ser el verdadero?»** Si Cristo resucitó, eso no es una verdad para los que prefieren creerla — es un hecho que interpela a todos. La pregunta no es si eso es excluyente, sino si es verdad.
 
+</details>
+
 ---
 
 > **Para llevar**
 >
 > Todo el mundo está buscando. El altar al «Dios Desconocido» que Pablo encontró en Atenas existe en cada cultura, en cada época, en cada corazón humano — ese hambre de algo que ninguna cosa finita puede saciar. El cristianismo no dice que esa búsqueda es equivocada. Dice que la búsqueda encontró lo que buscaba — no en una idea ni en un sistema sino en una persona que entró a la historia, vivió entre nosotros, murió y resucitó. Agustín lo dijo hace dieciséis siglos y sigue siendo cierto: «Nos hiciste para ti, y nuestro corazón está inquieto hasta que descanse en ti.»
+
+**Versículo para memorizar:** 1 Juan 4:15
+
+---
+
+> *"La religión dice: haz esto y serás aceptado. El evangelio dice: eres aceptado, por eso haz esto."*
+> *— Timothy Keller*
+
+> *"No somos llamados a predicar algunas cosas de Cristo, o sobre Cristo, sino al mismo Cristo."*
+> *— Charles Spurgeon*
+
+> *"Aquellos que tienen el nombre de Cristo deben llevar sus características."*
+> *— Ignacio de Antioquía*
 
 ---
 

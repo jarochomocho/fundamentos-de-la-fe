@@ -25,6 +25,17 @@
 
 </details>
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**¿Cual es la diferencia entre alguien que esta muy enfermo y alguien que esta muerto? ¿Que puede hacer uno que el otro no puede?**
+
+**Si estar muerto en pecado le pasa a todos por igual — a los que van a la iglesia y a los que no — ¿que hace diferente a alguien que crecio en la iglesia toda su vida de alguien que nunca entro a una?**
+
+**★** Piensa en algun momento de tu vida donde sentiste que tu no necesitabas a Dios tanto como otras personas — porque no eras tan malo comparado con alguien mas. ¿Con quien te comparabas?
+
+</details>
+
 #### Ideas centrales
 
 Ser salvo solo tiene sentido si primero se entiende estar perdido. La palabra griega para pecado — hamartia — significa errar el blanco.[^1] Pero no es una falla de punteria ocasional: es que el timon del alma esta deshabilitado y conduce persistentemente fuera de curso. No es alguien que apunta mal, es alguien que ya no puede orientarse.
@@ -35,7 +46,8 @@ Pablo describe la condicion humana como estar «vendida como esclava al pecado»
 
 El estandar que usa Pablo no es comparativo — no es «mas pecador que el vecino» — sino absoluto: todos quedan cortos frente a la gloria de Dios. Eso incluye al mas religioso y al mas irreligioso por igual.
 
-#### Errores comunes
+<details>
+<summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
 > **«Pecar es caer en vicios externos — tomar, mentir, perder el control.»** El criterio no es la apariencia del acto sino si hay o no confianza y conexion con Dios. Toda accion que carezca de esa orientacion hacia Dios es, por definicion, hamartia — estar fuera de lugar. Alguien puede evitar todos los vicios y aun asi vivir completamente desconectado del Dador de vida.
@@ -48,15 +60,6 @@ El estandar que usa Pablo no es comparativo — no es «mas pecador que el vecin
 
 > [!WARNING]
 > **«El problema es el ambiente, la familia, la crianza.»** El contexto influye pero no determina. El pecado no es causado por los padres, la herencia o el temperamento — es finalmente una decision de la propia libertad. Asumir responsabilidad personal es el corazon del arrepentimiento.
-
-<details>
-<summary><b>Preguntas para grupos pequeños</b></summary>
-
-**¿Cual es la diferencia entre alguien que esta muy enfermo y alguien que esta muerto? ¿Que puede hacer uno que el otro no puede?**
-
-**Si estar muerto en pecado le pasa a todos por igual — a los que van a la iglesia y a los que no — ¿que hace diferente a alguien que crecio en la iglesia toda su vida de alguien que nunca entro a una?**
-
-**★** Piensa en algun momento de tu vida donde sentiste que tu no necesitabas a Dios tanto como otras personas — porque no eras tan malo comparado con alguien mas. ¿Con quien te comparabas?
 
 </details>
 
@@ -76,22 +79,6 @@ El estandar que usa Pablo no es comparativo — no es «mas pecador que el vecin
 
 </details>
 
-#### Ideas centrales
-
-La palabra de la cruz no es «te amare si saltas este aro» — es que «cuando aun eramos debiles, a su tiempo, Cristo murio por los impios» (Romanos 5:6).[^5] El amor de Dios no espera condiciones favorables. No es respuesta al merito — es iniciativa pura.
-
-Lo que Dios nos da es por gracia. Hay diferencia entre justicia, misericordia y gracia. Justicia es recibir lo que merecemos. Misericordia es no recibir lo que merecemos. Gracia es recibir lo que no merecemos. La salvacion es gracia — Dios no solo suspendio la condena, nos hizo hijos. No es que simplemente no castigo; es que ademas adopto.
-
-Cirilo de Jerusalen lo dijo con precision: «A Dios le corresponde conceder la gracia, pero a vosotros recibirla y custodiarla.»[^6] El orden importa: Dios concede primero.
-
-#### Errores comunes
-
-> [!WARNING]
-> **«Yo llegue a Dios por mi cuenta — fue mi decision sola.»** Incluso la capacidad de decidir fue posibilitada por la gracia que ya estaba trabajando antes. La decision fue real — pero no surgio de la nada.
-
-> [!WARNING]
-> **«Dios me amara cuando me porte mejor.»** Esto invierte el evangelio completamente. Romanos 5:8 es explicito: Cristo murio por nosotros cuando todavia eramos pecadores. El amor de Dios no es la recompensa por la mejora — es la fuente que la hace posible.
-
 <details>
 <summary><b>Preguntas para grupos pequeños</b></summary>
 
@@ -100,6 +87,25 @@ Cirilo de Jerusalen lo dijo con precision: «A Dios le corresponde conceder la g
 **Si Dios nos amo siendo pecadores, alguien podria preguntar: ¿entonces para que arrepentirse? ¿Como le explicarias a esa persona que el amor incondicional de Dios no significa que da igual como vivimos?**
 
 **★** Cuando tienes una buena semana — estas leyendo la Biblia, no peleaste con nadie, te portaste bien — ¿te sientes mas cerca de Dios que cuando tuviste una semana dificil? ¿Que nos dice eso de lo que creemos en el fondo sobre como funciona el amor de Dios?
+
+</details>
+
+#### Ideas centrales
+
+La palabra de la cruz no es «te amare si saltas este aro» — es que «cuando aun eramos debiles, a su tiempo, Cristo murio por los impios» (Romanos 5:6).[^5] El amor de Dios no espera condiciones favorables. No es respuesta al merito — es iniciativa pura.
+
+Lo que Dios nos da es por gracia. Hay diferencia entre justicia, misericordia y gracia. Justicia es recibir lo que merecemos. Misericordia es no recibir lo que merecemos. Gracia es recibir lo que no merecemos. La salvacion es gracia — Dios no solo suspendio la condena, nos hizo hijos. No es que simplemente no castigo; es que ademas adopto.
+
+Cirilo de Jerusalen lo dijo con precision: «A Dios le corresponde conceder la gracia, pero a vosotros recibirla y custodiarla.»[^6] El orden importa: Dios concede primero.
+
+<details>
+<summary><b>Errores comunes</b></summary>
+
+> [!WARNING]
+> **«Yo llegue a Dios por mi cuenta — fue mi decision sola.»** Incluso la capacidad de decidir fue posibilitada por la gracia que ya estaba trabajando antes. La decision fue real — pero no surgio de la nada.
+
+> [!WARNING]
+> **«Dios me amara cuando me porte mejor.»** Esto invierte el evangelio completamente. Romanos 5:8 es explicito: Cristo murio por nosotros cuando todavia eramos pecadores. El amor de Dios no es la recompensa por la mejora — es la fuente que la hace posible.
 
 </details>
 
@@ -117,6 +123,17 @@ Cirilo de Jerusalen lo dijo con precision: «A Dios le corresponde conceder la g
 
 </details>
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**Pablo dice que la salvacion tiene dos partes: la gracia de Dios y la fe del ser humano. Pero luego dice "esto no es de vosotros, es don de Dios." ¿Que parte pone Dios y que parte ponemos nosotros — o las dos vienen de Dios?**
+
+**Si la salvacion es completamente un regalo y no tiene nada que ver con lo que hacemos, ¿que le respondarias a alguien que dice: "entonces da igual como me porto, total Dios ya me perdono"? ¿Donde esta el error en ese razonamiento?**
+
+**★** ¿Hay algo que haces seguido — ir a la iglesia, orar, diezmar, servir — que en algun lugar dentro de ti sientes que te hace estar mas seguro con Dios o mas merecedor de su ayuda? ¿De donde crees que viene esa idea?
+
+</details>
+
 #### Ideas centrales
 
 La palabra griega metanoia no significa «sentirse mal» — significa dar vuelta, cambiar de direccion completamente.[^7] El remordimiento sin cambio de direccion no es metanoia. El arrepentimiento viene acompanado de una voluntad de encontrarnos con Dios y corregir las cosas que estan mal en nosotros.
@@ -127,22 +144,14 @@ Calvino advirtio: «A falta de un hambre profunda por un cambio fundamental de v
 
 Santiago 2:19 muestra el limite del asentimiento solo: «los demonios creen que hay un solo Dios, y tiemblan.» Tienen la informacion — les falta la confianza personal en Cristo y la decision de someterse a el. El conocimiento sin entrega no salva.
 
-#### Errores comunes
+<details>
+<summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
 > **«El arrepentimiento es solo para cuando haces algo muy grave.»** La primera tesis de Lutero es que «toda la vida de los creyentes es una vida de arrepentimiento.»[^9] No porque nunca avancen, sino porque el crecimiento produce mayor consciencia de la distancia que aun falta.
 
 > [!WARNING]
 > **«Creer es estar de acuerdo con que Dios existe.»** Creer sin cambio no es metanoia completa. Hasta el diablo cree en Dios. Lo que falta es el tercer movimiento — la decision de la voluntad de caminar diferente.
-
-<details>
-<summary><b>Preguntas para grupos pequeños</b></summary>
-
-**Pablo dice que la salvacion tiene dos partes: la gracia de Dios y la fe del ser humano. Pero luego dice "esto no es de vosotros, es don de Dios." ¿Que parte pone Dios y que parte ponemos nosotros — o las dos vienen de Dios?**
-
-**Si la salvacion es completamente un regalo y no tiene nada que ver con lo que hacemos, ¿que le respondarias a alguien que dice: "entonces da igual como me porto, total Dios ya me perdono"? ¿Donde esta el error en ese razonamiento?**
-
-**★** ¿Hay algo que haces seguido — ir a la iglesia, orar, diezmar, servir — que en algun lugar dentro de ti sientes que te hace estar mas seguro con Dios o mas merecedor de su ayuda? ¿De donde crees que viene esa idea?
 
 </details>
 
@@ -162,20 +171,6 @@ Santiago 2:19 muestra el limite del asentimiento solo: «los demonios creen que 
 
 </details>
 
-#### Ideas centrales
-
-La fe salvadora no es solo informacion aceptada. Melanchton lo describio con precision: «La fe significa asentimiento a la promesa de Dios — que esta en el intelecto — y con este asentimiento esta necesariamente conectada la confianza — que es la voluntad — queriendo y aceptando la reconciliacion prometida.»[^10] Involucra la persona entera: la mente que asiente, el corazon que confia, la voluntad que decide.
-
-La justificacion es la declaracion de Dios de que el creyente es tratado como justo — no porque sea perfecto sino porque confia en Cristo. Lutero la describe como «la base de la vida cristiana, no el fin sino el comienzo del camino.»[^11] Romanos 8:1 no dice «hay cada vez menos condenacion» — dice que ya no la hay.[^12] El veredicto no crece; lo que crece es la vida que sigue.
-
-#### Errores comunes
-
-> [!WARNING]
-> **«La salvacion se puede perder cada vez que peco.»** Esto convierte la vida cristiana en una montana rusa segun la conducta del dia. "Ya no hay condenacion para los que pertenecen a Cristo Jesus" (Romanos 8:1, NTV) — sin condiciones de desempeno. Lo que puede fluctuar es la calidad de la comunion — pero no el estatus de hijo.
-
-> [!WARNING]
-> **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion y la rechazo de plano: "¿Debemos seguir pecando para que Dios pueda mostrarnos mas y mas su gracia maravillosa? ¡Por supuesto que no!" (Romanos 6:1-2, NTV). La gracia no es licencia — es liberacion. Quien genuinamente entendio de que fue librado no quiere volver a eso.
-
 <details>
 <summary><b>Preguntas para grupos pequeños</b></summary>
 
@@ -184,6 +179,23 @@ La justificacion es la declaracion de Dios de que el creyente es tratado como ju
 **Si alguien lleva anos yendo a la iglesia y su vida no muestra ningun cambio — sigue igual de enojado, igual de deshonesto, igual que antes — ¿que cosas se pueden concluir de eso y que cosas no se pueden concluir?**
 
 **★** Cuando piensas en ti mismo, ¿que te viene primero a la cabeza: "soy un pecador que esta tratando de mejorar" o "soy hijo de Dios que todavia lucha con cosas"? ¿Sientes que hay diferencia entre las dos formas de verse — o te parece que es lo mismo?
+
+</details>
+
+#### Ideas centrales
+
+La fe salvadora no es solo informacion aceptada. Melanchton lo describio con precision: «La fe significa asentimiento a la promesa de Dios — que esta en el intelecto — y con este asentimiento esta necesariamente conectada la confianza — que es la voluntad — queriendo y aceptando la reconciliacion prometida.»[^10] Involucra la persona entera: la mente que asiente, el corazon que confia, la voluntad que decide.
+
+La justificacion es la declaracion de Dios de que el creyente es tratado como justo — no porque sea perfecto sino porque confia en Cristo. Lutero la describe como «la base de la vida cristiana, no el fin sino el comienzo del camino.»[^11] Romanos 8:1 no dice «hay cada vez menos condenacion» — dice que ya no la hay.[^12] El veredicto no crece; lo que crece es la vida que sigue.
+
+<details>
+<summary><b>Errores comunes</b></summary>
+
+> [!WARNING]
+> **«La salvacion se puede perder cada vez que peco.»** Esto convierte la vida cristiana en una montana rusa segun la conducta del dia. "Ya no hay condenacion para los que pertenecen a Cristo Jesus" (Romanos 8:1, NTV) — sin condiciones de desempeno. Lo que puede fluctuar es la calidad de la comunion — pero no el estatus de hijo.
+
+> [!WARNING]
+> **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion y la rechazo de plano: "¿Debemos seguir pecando para que Dios pueda mostrarnos mas y mas su gracia maravillosa? ¡Por supuesto que no!" (Romanos 6:1-2, NTV). La gracia no es licencia — es liberacion. Quien genuinamente entendio de que fue librado no quiere volver a eso.
 
 </details>
 

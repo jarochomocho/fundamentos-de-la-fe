@@ -31,11 +31,16 @@ Y no solo escucha — interviene. La base de toda oracion cristiana es la interc
 
 Gregorio Nacianceno lo capturo en una de las imagenes mas reveladoras del Nuevo Testamento: «El ora, pero escucha la oracion.» El mismo que es Senor es tambien el que intercede. Eso cambia completamente el tono con que el creyente se acerca.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«Si Dios ya sabe todo, ¿para que orar? De todas formas hara lo que quiera.»** Precisamente porque Dios si responde, la oracion es el canal por el que los fieles participan de la obra de Dios en la historia. Jesus mismo enseno a pedir — eso solo tiene sentido si el pedir importa.
 
 > [!WARNING]
 > **«Orar es hablar en el aire — nadie responde realmente.»** La tradicion clasica no trata la oracion como un monologo emocional sino como un dialogo real. Dios responde — no siempre de la manera esperada, pero si de maneras que la fe aprende a reconocer.
+
+</details>
 
 ---
 
@@ -59,11 +64,16 @@ Esto cambia radicalmente el tono de la oracion. No es presentarse ante un juez s
 
 Cuando ese grito «¡Abba, Padre!» surge espontaneamente de lo profundo del corazon, eso mismo es evidencia de que la gracia esta actuando. La oracion no solo habla a Dios — revela lo que Dios ya ha hecho adentro.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«Para orar bien hay que usar palabras especiales o una formula correcta.»** La ensenanza clasica apunta exactamente en la direccion opuesta. La senal mas genuina de la vida en el Espiritu es ese grito simple — «¡Padre!» — que brota del corazon. La oracion mas autentica no siempre es la mas elaborada.
 
 > [!WARNING]
 > **«Dios solo escucha a los que se portan bien — si falle esta semana, para que orar.»** Esto invierte el evangelio. La base de acceso al Padre no es la conducta del creyente sino la intercesion de Cristo. Hebreos 4:16 no dice «acercate si mereces» — dice «acerquemonos con toda confianza.»
+
+</details>
 
 ---
 
@@ -89,11 +99,16 @@ Esto tiene una consecuencia practica enorme: la oracion no fracasa por falta de 
 
 La oracion tambien forma. Gregorio de Nisa senalo que la peticion «venga tu reino» en el Padre Nuestro puede entenderse como una peticion por el Espiritu Santo — «que el Espiritu venga sobre nosotros y nos purifique.» Pedir el reino es pedir ser transformado para participar en el.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«No se orar — no tengo las palabras correctas.»** Precisamente para eso existe la promesa de Romanos 8:26. La incapacidad de articular no es un obstaculo — puede ser el lugar donde la oracion mas genuina ocurre.
 
 > [!WARNING]
 > **«Tengo que sentir algo especial para que la oracion cuente.»** La tradicion clasica no ancla la eficacia de la oracion en los sentimientos del creyente sino en la fidelidad de Dios y la intercesion del Espiritu.
+
+</details>
 
 ---
 
@@ -119,11 +134,16 @@ El Padre Nuestro tiene una estructura que la tradicion clasica ha preservado: pr
 
 El Segundo Concilio de Mileto fue explicito: el Padre Nuestro presupone que el pecado continuara en los creyentes — por eso se pide perdon diariamente. La oracion no es solo para los momentos de crisis sino el ritmo regular de la vida cristiana.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«Ore y no paso nada — Dios no escucho.»** La oracion no es un mecanismo de causa y efecto inmediato. Teodoreto lo senala con precision: «Si alguien pide algo que no contribuye a su bien, no lo obtendra, porque no es bueno para el obtenerlo.» La fe aprende a distinguir entre «Dios no escucho» y «Dios respondio de manera diferente.»
 
 > [!WARNING]
 > **«La oracion es para pedir cosas — si no necesito nada, no tengo que orar.»** La oracion que reduce todo a peticiones pierde la mayor parte de su naturaleza. La adoracion, la accion de gracias, la confesion y la intercesion por otros son parte integral de la vida de oracion.
+
+</details>
 
 ---
 

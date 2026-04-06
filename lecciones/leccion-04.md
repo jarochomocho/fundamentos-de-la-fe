@@ -31,11 +31,16 @@ La fe viva es como una carrera de larga distancia, no un sprint. El crecimiento 
 
 Esto tiene una consecuencia practica: el creyente nuevo no debe medirse con el creyente de veinte anos. El punto de comparacion no es el vecino mas maduro — es la direccion en la que se esta creciendo.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«Si de verdad me converti, ya deberia ser una persona completamente diferente.»** La conversion marca un nuevo comienzo, no una llegada. Aunque el veredicto de la justificacion es instantaneo, la transformacion del caracter es gradual — como un organismo que crece.
 
 > [!WARNING]
 > **«El crecimiento espiritual es automatico — si tengo el Espiritu, solo es cuestion de tiempo.»** El crecimiento en la gracia no ocurre a traves de un inactivismo silencioso. El Espiritu obra — pero lo hace a traves de la cooperacion activa de la voluntad.
+
+</details>
 
 ---
 
@@ -61,11 +66,16 @@ La orientacion hacia la carne debe morir diariamente. Gregorio Nacianceno lo adv
 
 La entrega no es un acto unico sino una disposicion continua. Agustin lo dijo con claridad: «Dios puede obrar en nuestros actos sin nuestra ayuda. Pero cuando queremos el acto, el coopera con nosotros.»
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«La vida cristiana es basicamente no hacer cosas malas.»** La mortificacion — hacer morir lo viejo — es solo la mitad del movimiento. La vivificacion — alimentar activamente lo nuevo — es igualmente necesaria. Una vida definida solo por lo que evita, sin cultivar activamente la oracion, la Palabra, la comunidad, no esta creciendo — esta simplemente esperando.
 
 > [!WARNING]
 > **«Con solo pedirle a Dios, el me cambia sin que yo tenga que hacer nada distinto.»** Lutero fue claro: la participacion activa de la voluntad no es un obstaculo a la gracia sino el canal por el que la gracia obra.
+
+</details>
 
 ---
 
@@ -91,11 +101,16 @@ La Palabra es «la espada del Espiritu» (Efesios 6:17) que corta los autoengano
 
 Tomas de Aquino describio la gracia santificante como aquella que actua «para generar patrones sostenidos y estables de respuesta, que se fomentan mediante la oracion y la Eucaristia de maneras que tienden a reflejar la filiacion divina.» Los medios de gracia no son opcionales para el crecimiento — son la estructura sobre la que crece.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«La oracion y leer la Biblia son para los muy espirituales — yo apenas soy nuevo.»** Precisamente porque son nuevos, los medios de gracia son mas urgentes, no menos. El recien nacido necesita leche inmediatamente — no despues de crecer.
 
 > [!WARNING]
 > **«Mientras ore y lea la Biblia, todo va bien — no importa mucho lo demas.»** Los medios de gracia son canales, no formulas magicas. Leer la Biblia sin que la Palabra interpele la vida concreta, o orar sin disposicion de entrega real, es usar los medios sin recibirlos.
+
+</details>
 
 ---
 
@@ -121,11 +136,16 @@ El combate diario no es senal de que algo salio mal — es la forma normal de la
 
 Es mas sabio que el Espiritu trabaje gradualmente para revelar la gama completa del pecado. El yo no se ve inundado de repente por todo lo que falta — el pecado se revela suave y gradualmente. Ese mismo descubrimiento progresivo es evidencia de que el Espiritu esta trabajando, no de que la salvacion fallo.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«Cuanto mas maduro eres, menos luchas.»** Lo opuesto es mas preciso. Leon I escribio que «ninguno de nosotros es tan perfecto y santo que no pueda ser mas perfecto.» Los que mas crecen son los mas conscientes de cuanto les falta — no porque esten peor, sino porque ven mas claro.
 
 > [!WARNING]
 > **«Si sigo fallando en lo mismo, no tiene sentido seguir intentando.»** La tradicion clasica distingue entre caer en el camino y dar media vuelta. Caer no es apostasia — es parte de la carrera larga. Lo que importa es la direccion.
+
+</details>
 
 ---
 

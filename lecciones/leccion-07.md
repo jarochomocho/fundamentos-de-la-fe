@@ -31,11 +31,16 @@ La iglesia no surge de la iniciativa humana ni de un acuerdo voluntario entre pe
 
 La imagen es organica: pretender ser cristiano sin iglesia es como pretender que el pancreas puede funcionar bien extraido del cuerpo.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«Yo tengo mi relacion con Dios — no necesito la iglesia.»** Esta premisa asume que la fe cristiana es esencialmente privada e individual. Pero el Nuevo Testamento no describe creyentes aislados — describe un cuerpo. El dia de Pentecostes el Espiritu descendio sobre una asamblea reunida, no sobre personas dispersas.
 
 > [!WARNING]
 > **«La iglesia esta llena de hipocritas — me alejo de eso.»** La iglesia visible siempre ha tenido trigo y cizana. Pero la respuesta clasica no es abandonarla — es reformarla y mantenerse en ella. La imperfeccion de la iglesia no la invalida; la hace humana.
+
+</details>
 
 ---
 
@@ -61,11 +66,16 @@ Crisostomo resumio la relacion de Cristo con su iglesia en una cadena de metafor
 
 Esto tiene una consecuencia practica: pertenecer a la iglesia no es solo asistir a reuniones — es participar de la vida del cuerpo de Cristo. Quien esta en la iglesia esta en Cristo de una manera que no puede replicarse en aislamiento.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«La iglesia es solo una organizacion humana — Cristo y yo no necesitamos intermediarios.»** La iglesia no es un intermediario entre Cristo y el creyente — es el cuerpo a traves del cual Cristo mismo actua. El Espiritu que mora en el creyente individual es el mismo Espiritu que forma la comunidad. No son realidades separables.
 
 > [!WARNING]
 > **«Puedo seguir a Cristo sin seguir a ninguna iglesia en particular.»** Cristo formo deliberadamente una comunidad permanente. La frase «mi iglesia» en Mateo 16:18 es personal e intencional. Jesus no dejo a sus discipulos como individuos autonomos — los formo como cuerpo, les dio sacramentos, los organizo para la mision.
+
+</details>
 
 ---
 
@@ -91,11 +101,16 @@ La Palabra predicada es el medio por el que la fe nace y crece. «La Palabra es 
 
 Los sacramentos — el bautismo y la Cena del Senor — no son rituales vacios sino actos que hacen visible y tangible lo que la Palabra proclama. El bautismo incorpora al cuerpo; la Cena sostiene la vida del cuerpo. La disciplina no es castigo sino cuidado — la iglesia que no llama a sus miembros a rendir cuentas ante la Palabra no esta amando sino abandonando.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«El bautismo y la Cena son solo simbolos — no importa tanto hacerlos.»** La tradicion clasica es clara: donde nadie es bautizado no hay iglesia, y donde no se celebra la Eucaristia los miembros no estan siendo alimentados como cuerpo de Cristo. Los sacramentos no son opcionales precisamente porque fueron instituidos por el Senor para su iglesia.
 
 > [!WARNING]
 > **«La predicacion es solo para los que no conocen la Biblia — si ya leo, no la necesito.»** La Palabra predicada en comunidad hace algo que la lectura individual no puede hacer sola: la aplica a una comunidad concreta en un momento concreto, bajo la guia del Espiritu, con la responsabilidad de rendir cuentas.
+
+</details>
 
 ---
 
@@ -119,11 +134,16 @@ Una — porque hay un solo Senor, una sola fe, un solo bautismo. La division de 
 
 La iglesia visible siempre ha sido imperfecta — y es algo que el nuevo creyente necesita escuchar. Corinto tenia divisiones graves — y Pablo seguia llamandola iglesia de Dios. Galacia tenia desviaciones doctrinales serias — y el Espiritu seguia obrando ahi. La imperfeccion no invalida la iglesia; la reforma si la renueva.
 
+<details>
+<summary><b>Errores comunes</b></summary>
+
 > [!WARNING]
 > **«Todas las iglesias son iguales — da lo mismo a cual pertenezco.»** No todas las expresiones de iglesia mantienen igual fidelidad a la Palabra, los sacramentos y la disciplina. La tradicion ofrece una regla practica: «Cuanto mas puramente se predique la Palabra de Dios en una iglesia y cuanto mas se acerque a la norma de la Escritura, mas pura sera la iglesia.»
 
 > [!WARNING]
 > **«La iglesia verdadera es solo la invisible — la visible con sus fallas no importa tanto.»** La tradicion clasica rechazo este escape. La iglesia invisible — todos los verdaderos creyentes — existe dentro de la iglesia visible con sus imperfecciones. No hay acceso a la primera sin participacion en la segunda.
+
+</details>
 
 ---
 

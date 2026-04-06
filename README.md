@@ -14,24 +14,6 @@ Un recorrido por las verdades esenciales del cristianismo.
 
 ---
 
-## Por que este curso
-
-He tenido el privilegio de predicar en grupos muy distintos entre si — distintas ciudades, distintas tradiciones, distintas historias. Con el tiempo me di cuenta de que la fortaleza no esta en lo que nos separa, sino en lo que nos une. Y lo que nos une es mucho mas de lo que pensamos.
-
-El problema pocas veces es la denominacion. Catolico, metodista, bautista, presbiteriano — si la gente ha nacido de nuevo, el Espiritu Santo no solo nos lleva a toda verdad, sino que nos ayuda a tendernos la mano como hermanos. Es lo que los puritanos llamaban *ecclesiola in ecclesiam* — la iglesia pequena dentro de la iglesia grande — o lo que Lutero llamaba la iglesia invisible: el cuerpo real de Cristo, mas alla de cualquier estructura humana.
-
-> *Un solo cuerpo y un solo Espiritu, como fuisteis tambien llamados en una misma esperanza de vuestra vocacion; un solo Senor, una sola fe, un solo bautismo.* — Efesios 4:4-5
-
-La Biblia es la base de este material porque es el vinculo que compartimos: tanto catolicos como protestantes creemos que *toda la Escritura es inspirada por Dios* (2 Ti 3:16). Pero no solo citamos la Biblia — recurrimos tambien a confesiones, catecismos, padres de la iglesia y demas fuentes que recoge Oden en su obra.
-
-Confieso que no quise confiar en mis propias ideas. Por eso me amarre a lo que Thomas Oden expone en *Cristianismo Clasico*, un libro escrito con el proposito de aportar lo menos posible de si mismo. En ese espiritu, lo que buscamos aqui es ser una sintesis de lo que ha sido creido *en todas partes, siempre y por todos* — el principio que Vicente de Lerins propuso en el siglo V como regla para distinguir la fe verdadera (*quod ubique, quod semper, quod ab omnibus*).
-
-Este proyecto vive en un repositorio y no en un documento cerrado porque prometo seguir actualizandolo — con videos, audios y todo recurso que encuentre util.
-
-Mi esperanza es sencilla: que este material sirva como punto de partida para quien quiera crecer en su fe, tener confianza en Cristo y hacer comunidad con aquellos que hemos nacido de nuevo — de todo pueblo, lengua, nacion y denominacion cristiana.
-
----
-
 ## Lecciones
 
 | # | Leccion | Audio | Video |
@@ -49,8 +31,7 @@ Mi esperanza es sencilla: que este material sirva como punto de partida para qui
 
 ---
 
-<details>
-<summary><b>Como usar este material</b></summary>
+## Como usar este material
 
 ### Para instructores
 
@@ -68,7 +49,23 @@ Cada seccion de las lecciones 01-03 incluye un bloque colapsable de **preguntas 
 
 El **versiculo para memorizar** aparece al inicio de cada leccion — escribelo cada dia de la semana e intenta repetirlo de memoria al final.
 
-</details>
+---
+
+## Por que este curso
+
+He tenido el privilegio de predicar en grupos muy distintos entre si — distintas ciudades, distintas tradiciones, distintas historias. Con el tiempo me di cuenta de que la fortaleza no esta en lo que nos separa, sino en lo que nos une. Y lo que nos une es mucho mas de lo que pensamos.
+
+El problema pocas veces es la denominacion. Catolico, metodista, bautista, presbiteriano — si la gente ha nacido de nuevo, el Espiritu Santo no solo nos lleva a toda verdad, sino que nos ayuda a tendernos la mano como hermanos. Es lo que los puritanos llamaban *ecclesiola in ecclesiam* — la iglesia pequena dentro de la iglesia grande — o lo que Lutero llamaba la iglesia invisible: el cuerpo real de Cristo, mas alla de cualquier estructura humana.
+
+> *Un solo cuerpo y un solo Espiritu, como fuisteis tambien llamados en una misma esperanza de vuestra vocacion; un solo Senor, una sola fe, un solo bautismo.* — Efesios 4:4-5
+
+La Biblia es la base de este material porque es el vinculo que compartimos: tanto catolicos como protestantes creemos que *toda la Escritura es inspirada por Dios* (2 Ti 3:16). Pero no solo citamos la Biblia — recurrimos tambien a confesiones, catecismos, padres de la iglesia y demas fuentes que recoge Oden en su obra.
+
+Confieso que no quise confiar en mis propias ideas. Por eso me amarre a lo que Thomas Oden expone en *Cristianismo Clasico*, un libro escrito con el proposito de aportar lo menos posible de si mismo. En ese espiritu, lo que buscamos aqui es ser una sintesis de lo que ha sido creido *en todas partes, siempre y por todos* — el principio que Vicente de Lerins propuso en el siglo V como regla para distinguir la fe verdadera (*quod ubique, quod semper, quod ab omnibus*).
+
+Este proyecto vive en un repositorio y no en un documento cerrado porque prometo seguir actualizandolo — con videos, audios y todo recurso que encuentre util.
+
+Mi esperanza es sencilla: que este material sirva como punto de partida para quien quiera crecer en su fe, tener confianza en Cristo y hacer comunidad con aquellos que hemos nacido de nuevo — de todo pueblo, lengua, nacion y denominacion cristiana.
 
 ---
 
