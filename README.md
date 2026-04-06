@@ -16,17 +16,19 @@ Un recorrido por las verdades esenciales del cristianismo.
 
 ## Por que este curso
 
-Desde que me vi en la necesidad de predicar en grupos de identidad bastante diversa y en contextos muy distintos, he entendido con el tiempo que hay fortaleza en encontrar los lazos en comun que tenemos todos los cristianos.
+He tenido el privilegio de predicar en grupos muy distintos entre si — distintas ciudades, distintas tradiciones, distintas historias. Con el tiempo me di cuenta de que la fortaleza no esta en lo que nos separa, sino en lo que nos une. Y lo que nos une es mucho mas de lo que pensamos.
 
-En realidad el problema pocas veces es la denominacion que alguien profesa dentro del cristianismo, ya sea catolica, metodista, bautista o presbiteriana. Si la gente ha nacido de nuevo, el Espiritu Santo no solo nos llevara a toda verdad, sino que tambien nos ayudara a tendernos la mano como hermanos — como la *ecclesiola in ecclesiam* que mencionaban los grupos puritanos, o la iglesia invisible de Martin Lutero.
+El problema pocas veces es la denominacion. Catolico, metodista, bautista, presbiteriano — si la gente ha nacido de nuevo, el Espiritu Santo no solo nos lleva a toda verdad, sino que nos ayuda a tendernos la mano como hermanos. Es lo que los puritanos llamaban *ecclesiola in ecclesiam* — la iglesia pequena dentro de la iglesia grande — o lo que Lutero llamaba la iglesia invisible: el cuerpo real de Cristo, mas alla de cualquier estructura humana.
 
-La Biblia es la base de este material porque es precisamente el vinculo en comun que tenemos: tanto catolicos como protestantes creemos que es inspirada por Dios. Mas que un ejercicio de convertir a la gente a cierta denominacion, lo que buscamos es rescatar lo que la Palabra tiene para nosotros. Aunque no solo citamos la Biblia — tambien recurrimos a confesiones, catecismos, padres de la iglesia y demas fuentes que se incluyen en el libro de Oden.
+> *Un solo cuerpo y un solo Espiritu, como fuisteis tambien llamados en una misma esperanza de vuestra vocacion; un solo Senor, una sola fe, un solo bautismo.* — Efesios 4:4-5
 
-Para evitar apoyarme en mis propias ideas me he amarrado a hablar de lo que Oden expone en su libro *Cristianismo Clasico*, con el mismo espiritu con el que el trata de aportar poco de si mismo. Nosotros tratamos de ser una sintesis de lo que han creido todos, en todas partes, al mismo tiempo — siguiendo la regla de Lerins.
+La Biblia es la base de este material porque es el vinculo que compartimos: tanto catolicos como protestantes creemos que *toda la Escritura es inspirada por Dios* (2 Ti 3:16). Pero no solo citamos la Biblia — recurrimos tambien a confesiones, catecismos, padres de la iglesia y demas fuentes que recoge Oden en su obra.
 
-Este proyecto vive en un repositorio a manera de wiki y no en un documento cerrado, porque prometo ir actualizandolo con videos de YouTube, audios y demas recursos que encuentre utiles.
+Confieso que no quise confiar en mis propias ideas. Por eso me amarre a lo que Thomas Oden expone en *Cristianismo Clasico*, un libro escrito con el proposito de aportar lo menos posible de si mismo. En ese espiritu, lo que buscamos aqui es ser una sintesis de lo que ha sido creido *en todas partes, siempre y por todos* — el principio que Vicente de Lerins propuso en el siglo V como regla para distinguir la fe verdadera (*quod ubique, quod semper, quod ab omnibus*).
 
-Espero que este material pueda ser un punto de partida para aquel que quiere hacer crecer su medida de fe, tener confianza en Cristo y hacer comunidad entre aquellos que hemos nacido de nuevo dentro de todo pueblo, lengua, nacion y denominacion cristiana.
+Este proyecto vive en un repositorio y no en un documento cerrado porque prometo seguir actualizandolo — con videos, audios y todo recurso que encuentre util.
+
+Mi esperanza es sencilla: que este material sirva como punto de partida para quien quiera crecer en su fe, tener confianza en Cristo y hacer comunidad con aquellos que hemos nacido de nuevo — de todo pueblo, lengua, nacion y denominacion cristiana.
 
 ---
 
@@ -67,6 +69,12 @@ Cada seccion de las lecciones 01-03 incluye un bloque colapsable de **preguntas 
 El **versiculo para memorizar** aparece al inicio de cada leccion — escribelo cada dia de la semana e intenta repetirlo de memoria al final.
 
 </details>
+
+---
+
+## Agradecimientos
+
+Este curso no existiria sin el trabajo de [Mizraim Pinon](https://www.youtube.com/@MizraimPi%C3%B1%C3%B3n), quien fue el punto de partida para este material. En gran parte conservo el orden de sus lecciones, y su labor ha sido una inspiracion constante para seguir proponiendo recursos para los cristianos en todos lados — y para hacer mejores affogatos.
 
 ---
 
