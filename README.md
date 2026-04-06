@@ -23,7 +23,7 @@ Un recorrido por las verdades esenciales del cristianismo.
 | 06 | [La oracion](lecciones/leccion-06.md) | — | — |
 | 07 | [La iglesia](lecciones/leccion-07.md) | — | — |
 
-> Las lecciones 01-03 incluyen **guia de estudio** integrada con pasajes, preguntas de discusion y reflexiones.
+> Las lecciones 01-03 incluyen **preguntas para grupos pequeños** integradas en cada seccion.
 
 ---
 
@@ -37,13 +37,12 @@ Los archivos en `lecciones/` contienen el material doctrinal completo para cada 
 - **Versiculos ancla** con versiculos de apoyo
 - **Ideas centrales** sintetizadas desde Oden
 - **Errores comunes** que anticipan objeciones frecuentes
+- **Preguntas para grupos pequeños** (lecciones 01-03) — colapsables al final de cada seccion
 - **Para llevar** — un parrafo de cierre que resume la leccion
-
-Las lecciones 01-03 ya incluyen la **guia de estudio** integrada al inicio, con pasajes para que los alumnos escriban, preguntas de discusion y reflexiones.
 
 ### Para alumnos
 
-Comienza leyendo la seccion **Guia de estudio** al inicio de cada leccion. Busca los pasajes en tu Biblia, escribelos, y responde las preguntas. Las **reflexiones ★** son preguntas mas profundas que puedes meditar durante la semana.
+Cada seccion de las lecciones 01-03 incluye un bloque colapsable de **preguntas para grupos pequeños** con preguntas de discusion y reflexiones ★ para meditar durante la semana.
 
 El **versiculo para memorizar** aparece al inicio de cada leccion — escribelo cada dia de la semana e intenta repetirlo de memoria al final.
 

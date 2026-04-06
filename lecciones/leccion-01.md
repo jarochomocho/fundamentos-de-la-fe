@@ -11,88 +11,6 @@
 
 ---
 
-## Guia de estudio
-
-*Usa esta hoja durante la sesion para escribir los versiculos, responder las preguntas y tomar notas.*
-
-### Pasaje 1: Efesios 2:1-2
-
-> *(Escribelo aqui)*
-
-**¿Cual es la diferencia entre alguien que esta muy enfermo y alguien que esta muerto? ¿Que puede hacer uno que el otro no puede?**
-
-**Si estar muerto en pecado le pasa a todos por igual — a los que van a la iglesia y a los que no — ¿que hace diferente a alguien que crecio en la iglesia toda su vida de alguien que nunca entro a una?**
-
-<details>
-<summary>Reflexion ★</summary>
-
-Piensa en algun momento de tu vida donde sentiste que tu no necesitabas a Dios tanto como otras personas — porque no eras tan malo comparado con alguien mas. ¿Con quien te comparabas?
-
-</details>
-
-*Tambien lee: Romanos 5:12 · Romanos 3:23*
-
----
-
-### Pasaje 2: Romanos 5:8
-
-> *(Escribelo aqui)*
-
-**Pablo mete en la misma oracion el amor de Dios y el pecado del ser humano. Segun este versiculo, ¿Dios espero a que cambiaramos para amarnos, o nos amo primero tal como eramos?**
-
-**Si Dios nos amo siendo pecadores, alguien podria preguntar: ¿entonces para que arrepentirse? ¿Como le explicarias a esa persona que el amor incondicional de Dios no significa que da igual como vivimos?**
-
-<details>
-<summary>Reflexion ★</summary>
-
-Cuando tienes una buena semana — estas leyendo la Biblia, no peleaste con nadie, te portaste bien — ¿te sientes mas cerca de Dios que cuando tuviste una semana dificil? ¿Que nos dice eso de lo que creemos en el fondo sobre como funciona el amor de Dios?
-
-</details>
-
-*Tambien lee: Efesios 2:4-5 · Juan 3:16*
-
----
-
-### Pasaje 3: Efesios 2:8-9
-
-> *(Escribelo aqui)*
-
-**Pablo dice que la salvacion tiene dos partes: la gracia de Dios y la fe del ser humano. Pero luego dice "esto no es de vosotros, es don de Dios." ¿Que parte pone Dios y que parte ponemos nosotros — o las dos vienen de Dios?**
-
-**Si la salvacion es completamente un regalo y no tiene nada que ver con lo que hacemos, ¿que le respondarias a alguien que dice: "entonces da igual como me porto, total Dios ya me perdono"? ¿Donde esta el error en ese razonamiento?**
-
-<details>
-<summary>Reflexion ★</summary>
-
-¿Hay algo que haces seguido — ir a la iglesia, orar, diezmar, servir — que en algun lugar dentro de ti sientes que te hace estar mas seguro con Dios o mas merecedor de su ayuda? ¿De donde crees que viene esa idea?
-
-</details>
-
-*Tambien lee: Juan 1:12 · Romanos 10:9-10*
-
----
-
-### Pasaje 4: 2 Corintios 5:17
-
-> *(Escribelo aqui)*
-
-**Pablo dice "las cosas viejas pasaron" como algo que ya ocurrio. ¿Eso quiere decir que el cristiano ya no lucha con nada de lo que luchaba antes — o esta hablando de algo diferente? ¿Que crees que cambio exactamente?**
-
-**Si alguien lleva anos yendo a la iglesia y su vida no muestra ningun cambio — sigue igual de enojado, igual de deshonesto, igual que antes — ¿que cosas se pueden concluir de eso y que cosas no se pueden concluir?**
-
-<details>
-<summary>Reflexion ★</summary>
-
-Cuando piensas en ti mismo, ¿que te viene primero a la cabeza: "soy un pecador que esta tratando de mejorar" o "soy hijo de Dios que todavia lucha con cosas"? ¿Sientes que hay diferencia entre las dos formas de verse — o te parece que es lo mismo?
-
-</details>
-
-*Tambien lee: Juan 1:12 · Juan 5:24 · Galatas 3:26*
-
----
-
-## Contenido
-
 ### La condicion: estar perdido antes de poder ser hallado
 
 **Versiculo ancla**
@@ -131,6 +49,17 @@ El estandar que usa Pablo no es comparativo — no es «mas pecador que el vecin
 > [!WARNING]
 > **«El problema es el ambiente, la familia, la crianza.»** El contexto influye pero no determina. El pecado no es causado por los padres, la herencia o el temperamento — es finalmente una colusion de la propia libertad con el mal. Asumir responsabilidad personal es el corazon del arrepentimiento.
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**¿Cual es la diferencia entre alguien que esta muy enfermo y alguien que esta muerto? ¿Que puede hacer uno que el otro no puede?**
+
+**Si estar muerto en pecado le pasa a todos por igual — a los que van a la iglesia y a los que no — ¿que hace diferente a alguien que crecio en la iglesia toda su vida de alguien que nunca entro a una?**
+
+**★** Piensa en algun momento de tu vida donde sentiste que tu no necesitabas a Dios tanto como otras personas — porque no eras tan malo comparado con alguien mas. ¿Con quien te comparabas?
+
+</details>
+
 ---
 
 ### La gracia que actua primero
@@ -162,6 +91,17 @@ Agustin dijo alguna vez: «Si la fe es simplemente de libre albedrio y no es dad
 
 > [!WARNING]
 > **«Dios me amara cuando me porte mejor.»** Esto invierte el evangelio completamente. Romanos 5:8 es explicito: Cristo murio por nosotros cuando todavia eramos pecadores. El amor de Dios no es la recompensa por la mejora — es la fuente que la hace posible.
+
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**Pablo mete en la misma oracion el amor de Dios y el pecado del ser humano. Segun este versiculo, ¿Dios espero a que cambiaramos para amarnos, o nos amo primero tal como eramos?**
+
+**Si Dios nos amo siendo pecadores, alguien podria preguntar: ¿entonces para que arrepentirse? ¿Como le explicarias a esa persona que el amor incondicional de Dios no significa que da igual como vivimos?**
+
+**★** Cuando tienes una buena semana — estas leyendo la Biblia, no peleaste con nadie, te portaste bien — ¿te sientes mas cerca de Dios que cuando tuviste una semana dificil? ¿Que nos dice eso de lo que creemos en el fondo sobre como funciona el amor de Dios?
+
+</details>
 
 ---
 
@@ -195,6 +135,17 @@ Santiago 2:19 muestra el limite del asentimiento solo: «los demonios creen que 
 > [!WARNING]
 > **«Creer es estar de acuerdo con que Dios existe.»** Creer sin cambio no es metanoia completa. Hasta el diablo cree en Dios. Lo que falta es el tercer movimiento — la decision de la voluntad de caminar diferente.
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**Pablo dice que la salvacion tiene dos partes: la gracia de Dios y la fe del ser humano. Pero luego dice "esto no es de vosotros, es don de Dios." ¿Que parte pone Dios y que parte ponemos nosotros — o las dos vienen de Dios?**
+
+**Si la salvacion es completamente un regalo y no tiene nada que ver con lo que hacemos, ¿que le respondarias a alguien que dice: "entonces da igual como me porto, total Dios ya me perdono"? ¿Donde esta el error en ese razonamiento?**
+
+**★** ¿Hay algo que haces seguido — ir a la iglesia, orar, diezmar, servir — que en algun lugar dentro de ti sientes que te hace estar mas seguro con Dios o mas merecedor de su ayuda? ¿De donde crees que viene esa idea?
+
+</details>
+
 ---
 
 ### La fe y la justificacion: recibir con toda la persona
@@ -224,6 +175,17 @@ La justificacion es la declaracion de Dios de que el creyente es tratado como ju
 
 > [!WARNING]
 > **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion y la rechazo de plano: "¿Debemos seguir pecando para que Dios pueda mostrarnos mas y mas su gracia maravillosa? ¡Por supuesto que no!" (Romanos 6:1-2, NTV). La gracia no es licencia — es liberacion. Quien genuinamente entendio de que fue librado no quiere volver a eso.
+
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**Pablo dice "las cosas viejas pasaron" como algo que ya ocurrio. ¿Eso quiere decir que el cristiano ya no lucha con nada de lo que luchaba antes — o esta hablando de algo diferente? ¿Que crees que cambio exactamente?**
+
+**Si alguien lleva anos yendo a la iglesia y su vida no muestra ningun cambio — sigue igual de enojado, igual de deshonesto, igual que antes — ¿que cosas se pueden concluir de eso y que cosas no se pueden concluir?**
+
+**★** Cuando piensas en ti mismo, ¿que te viene primero a la cabeza: "soy un pecador que esta tratando de mejorar" o "soy hijo de Dios que todavia lucha con cosas"? ¿Sientes que hay diferencia entre las dos formas de verse — o te parece que es lo mismo?
+
+</details>
 
 ---
 

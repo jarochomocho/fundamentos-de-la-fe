@@ -11,88 +11,6 @@
 
 ---
 
-## Guia de estudio
-
-*Usa esta hoja durante la sesion para escribir los versiculos, responder las preguntas y tomar notas. Al final es tuya para llevarte a casa.*
-
-### Pasaje 1: Romanos 8:11
-
-> *(Escribelo aqui)*
-
-**Jesus murio y resucito — eso ya paso. Pero segun este versiculo, ¿quien es el que hace que lo que Cristo hizo se vuelva real dentro de ti?**
-
-**¿Ha habido algun momento en tu vida donde sentiste que alguien mas que tu te sostuvo — que no ibas solo en algo dificil? ¿Como fue eso?**
-
-<details>
-<summary>★ Reflexion</summary>
-
-El mismo Espiritu Santo que resucito a Jesus vive en ti. ¿Que diferencia habria entre alguien que solo conoce la historia de Jesus como dato, y alguien en quien el ya vive? ¿Se verian igual por fuera?
-
-</details>
-
-*Tambien lee: Colosenses 1:13 · Galatas 4:6*
-
----
-
-### Pasaje 2: Ezequiel 36:26
-
-> *(Escribelo aqui)*
-
-**Dios no promete darte una personalidad completamente nueva — promete transformar la que ya tienes. ¿Que diferencia hay entre cambiar a alguien y transformarlo?**
-
-**El fruto del Espiritu Santo — amor, paz, paciencia — no es una lista de cosas que tienes que esforzarte en cumplir. ¿Como explicarias esa diferencia a alguien que piensa que ser cristiano es portarse bien?**
-
-<details>
-<summary>★ Reflexion</summary>
-
-El Espiritu Santo tomo a pescadores y los uso para ganar al mundo; tomo a cobradores de impuestos y los hizo discipulos. ¿Que parte de quien tu eres — tu forma de ser, tu historia, tu trabajo — crees que el podria redirigir sin borrarte?
-
-</details>
-
-*Tambien lee: Galatas 2:20 · 2 Corintios 5:17 · Galatas 5:22*
-
----
-
-### Pasaje 3: Efesios 1:13-14
-
-> *(Escribelo aqui)*
-
-**El Espiritu Santo se describe aqui como un sello y una garantia de parte de Dios. En palabras de todos los dias, ¿que nos esta prometiendo Dios cuando el viene a vivir en nosotros?**
-
-**¿Hay algo que estas enfrentando ahorita donde necesitas recordar que el Espiritu Santo ya vive en ti — que Dios no esta observandote desde lejos sino que esta adentro contigo?**
-
-<details>
-<summary>★ Reflexion</summary>
-
-Si el Espiritu Santo ya vive en ti y no se va cuando te equivocas — solo puede ser entristecido —, ¿por que crees que tanta gente vive como si tuviera que ganarse de nuevo la presencia de Dios cada vez que falla?
-
-</details>
-
-*Tambien lee: 1 Corintios 6:19 · Efesios 4:30*
-
----
-
-### Pasaje 4: Juan 15:4-5
-
-> *(Escribelo aqui)*
-
-**Jesus no dice "esfuerzate mas" sino "permanece en mi". ¿Que diferencia hay entre producir fruto por esfuerzo propio y producirlo porque estas unido a el?**
-
-**¿Como esta tu relacion con Dios hoy — se siente mas como una rama unida al arbol o como alguien tratando de cumplir con un checklist? ¿Que crees que esta pasando ahi?**
-
-<details>
-<summary>★ Reflexion</summary>
-
-Tomas de Aquino dijo que el Espiritu Santo nos hace amigos de Dios — y que lo propio de la amistad es disfrutar estar con el amigo. ¿En que se pareceria y en que seria distinta tu relacion con Dios si la vivieras mas como amistad que como obligacion?
-
-</details>
-
-*Tambien lee: 1 Corintios 6:17 · 1 Juan 3:2*
-
----
-
-## Contenido
-
 ### El Espiritu es quien aplica lo que Cristo hizo
 
 **Versiculo ancla**
@@ -121,6 +39,17 @@ Lo que ocurrio en la cruz fue decisivo — pero todavia tenia que volverse real 
 
 > [!WARNING]
 > **«El Espiritu Santo es basicamente una emocion intensa o una experiencia poderosa.»** El Espiritu obra tanto en momentos notorios como en el trabajo silencioso y cotidiano de transformar motivaciones, sentimientos y conducta.
+
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**Jesus murio y resucito — eso ya paso. Pero segun este versiculo, ¿quien es el que hace que lo que Cristo hizo se vuelva real dentro de ti?**
+
+**¿Ha habido algun momento en tu vida donde sentiste que alguien mas que tu te sostuvo — que no ibas solo en algo dificil? ¿Como fue eso?**
+
+**★** El mismo Espiritu Santo que resucito a Jesus vive en ti. ¿Que diferencia habria entre alguien que solo conoce la historia de Jesus como dato, y alguien en quien el ya vive? ¿Se verian igual por fuera?
+
+</details>
 
 ---
 
@@ -153,6 +82,17 @@ El resultado visible es el fruto: «El fruto del Espiritu es amor, alegria, paz,
 > [!WARNING]
 > **«Si el Espiritu me cambia, yo no tengo que hacer nada.»** El Espiritu no coacciona — atrae, persuade, habilita. La cooperacion activa de la voluntad es parte del proceso, no un obstaculo a la obra del Espiritu.
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**Dios no promete darte una personalidad completamente nueva — promete transformar la que ya tienes. ¿Que diferencia hay entre cambiar a alguien y transformarlo?**
+
+**El fruto del Espiritu Santo — amor, paz, paciencia — no es una lista de cosas que tienes que esforzarte en cumplir. ¿Como explicarias esa diferencia a alguien que piensa que ser cristiano es portarse bien?**
+
+**★** El Espiritu Santo tomo a pescadores y los uso para ganar al mundo; tomo a cobradores de impuestos y los hizo discipulos. ¿Que parte de quien tu eres — tu forma de ser, tu historia, tu trabajo — crees que el podria redirigir sin borrarte?
+
+</details>
+
 ---
 
 ### El Espiritu mora y sella
@@ -184,6 +124,17 @@ Eso tiene una consecuencia practica: el creyente no esta solo en la lucha. El mi
 > [!WARNING]
 > **«Necesito una segunda experiencia especial para recibir el Espiritu despues de la conversion.»** La ensenanza clasica consensual es que el Espiritu se recibe con la fe y el nuevo nacimiento. No hay una segunda capa reservada para creyentes avanzados.
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**El Espiritu Santo se describe aqui como un sello y una garantia de parte de Dios. En palabras de todos los dias, ¿que nos esta prometiendo Dios cuando el viene a vivir en nosotros?**
+
+**¿Hay algo que estas enfrentando ahorita donde necesitas recordar que el Espiritu Santo ya vive en ti — que Dios no esta observandote desde lejos sino que esta adentro contigo?**
+
+**★** Si el Espiritu Santo ya vive en ti y no se va cuando te equivocas — solo puede ser entristecido —, ¿por que crees que tanta gente vive como si tuviera que ganarse de nuevo la presencia de Dios cada vez que falla?
+
+</details>
+
 ---
 
 ### Vivir en union con Cristo por el Espiritu
@@ -214,6 +165,17 @@ Tomas de Aquino describio el resultado de esa union con una palabra que pocas ve
 
 > [!WARNING]
 > **«Dios esta lejos y me observa desde afuera para ver como me porto.»** La ensenanza clasica es radicalmente distinta: Dios viene a habitar adentro. «Vuestro cuerpo es templo del Espiritu Santo» — no un observatorio externo sino una morada interior.
+
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**Jesus no dice "esfuerzate mas" sino "permanece en mi". ¿Que diferencia hay entre producir fruto por esfuerzo propio y producirlo porque estas unido a el?**
+
+**¿Como esta tu relacion con Dios hoy — se siente mas como una rama unida al arbol o como alguien tratando de cumplir con un checklist? ¿Que crees que esta pasando ahi?**
+
+**★** Tomas de Aquino dijo que el Espiritu Santo nos hace amigos de Dios — y que lo propio de la amistad es disfrutar estar con el amigo. ¿En que se pareceria y en que seria distinta tu relacion con Dios si la vivieras mas como amistad que como obligacion?
+
+</details>
 
 ---
 

@@ -11,69 +11,6 @@
 
 ---
 
-## Guia de estudio
-
-*Usa esta hoja durante la sesion para escribir los versiculos, responder las preguntas y tomar notas. Al final es tuya para llevarte a casa.*
-
-### Pasaje 1: Romanos 7:18-19
-
-> *(Escribelo aqui)*
-
-**El que habla aqui es el apostol Pablo, alguien que ya era cristiano y salvo. ¿Que te dice sobre lo que es normal esperar despues de la conversion?**
-
-**Si aun te sigues equivocando y pecando. ¿Esto es senal de fracaso?**
-
-<details>
-<summary>★ Reflexion</summary>
-
-¿Que pasaria si despues de recibir a Cristo ya no sintieras ninguna tension interna entre tus deseos y lo que Dios quiere? ¿Es una buena o mala senal?
-
-</details>
-
-*Tambien lee: Galatas 5:17 · Romanos 7:25*
-
----
-
-### Pasaje 2: 2 Corintios 7:10
-
-> *(Escribelo aqui)*
-
-**Pablo distingue dos tipos de tristeza. ¿Cual es la diferencia entre la tristeza que produce muerte y la que produce salvacion? ¿En que se notan en la practica?**
-
-**Cuando te equivocas, ¿tu tristeza tiende a girar hacia Dios o hacia ti mismo — hacia la reconciliacion o la verguenza?**
-
-<details>
-<summary>★ Reflexion</summary>
-
-¿Podria alguien arrepentirse demasiado — hasta el punto de que el arrepentimiento se vuelva un problema en si mismo? ¿Donde estaria ese limite?
-
-</details>
-
-*Tambien lee: 1 Juan 1:9*
-
----
-
-### Pasaje 3: 1 Tesalonicenses 5:23
-
-> *(Escribelo aqui)*
-
-**Pablo ora pidiendo que Dios los haga santos — no que ellos se hagan santos. ¿Que cambia en la manera de entender el proceso si el sujeto activo es Dios y no tu?**
-
-**En que area de tu vida sientes que el proceso esta activo — que algo esta cambiando aunque sea lentamente? ¿Y en que area sientes que esta estancado?**
-
-<details>
-<summary>★ Reflexion</summary>
-
-Si la santificacion es un proceso gradual que dura toda la vida, ¿como sabrias si estas avanzando? ¿Que se veria diferente en alguien que lleva diez anos en ese proceso?
-
-</details>
-
-*Tambien lee: Romanos 6:14 · 2 Corintios 3:18*
-
----
-
-## Contenido
-
 ### El deseo que persiste despues de la conversion
 
 **Versiculo ancla**
@@ -106,6 +43,17 @@ Hay tambien algo importante que distinguir: no todo lo que falla en el creyente 
 > [!WARNING]
 > **«Todo lo que me sale mal es pecado.»** Confundir finitud con pecado produce un escrupulo que paraliza. El pecado es desobediencia elegida a una verdad moral reconocida — no simplemente ser imperfecto.
 
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**El que habla aqui es el apostol Pablo, alguien que ya era cristiano y salvo. ¿Que te dice sobre lo que es normal esperar despues de la conversion?**
+
+**Si aun te sigues equivocando y pecando. ¿Esto es senal de fracaso?**
+
+**★** ¿Que pasaria si despues de recibir a Cristo ya no sintieras ninguna tension interna entre tus deseos y lo que Dios quiere? ¿Es una buena o mala senal?
+
+</details>
+
 ---
 
 ### El arrepentimiento que se renueva
@@ -134,6 +82,17 @@ Crisostomo identifico cinco movimientos concretos en este camino: declarar los p
 
 > [!WARNING]
 > **«Arrepentirme tanto significa que no tengo fe suficiente.»** El arrepentimiento continuo no contradice la seguridad — la acompana. No es dudar del perdon; es tomarlo en serio.
+
+<details>
+<summary><b>Preguntas para grupos pequeños</b></summary>
+
+**Pablo distingue dos tipos de tristeza. ¿Cual es la diferencia entre la tristeza que produce muerte y la que produce salvacion? ¿En que se notan en la practica?**
+
+**Cuando te equivocas, ¿tu tristeza tiende a girar hacia Dios o hacia ti mismo — hacia la reconciliacion o la verguenza?**
+
+**★** ¿Podria alguien arrepentirse demasiado — hasta el punto de que el arrepentimiento se vuelva un problema en si mismo? ¿Donde estaria ese limite?
+
+</details>
 
 ---
 
@@ -170,6 +129,17 @@ Leon I lo resumio con una imagen que une todo: «La misericordia quiere que seai
 
 > [!WARNING]
 > **«Ya no peco — eso quedo atras cuando me converti.»** La primera tesis de Lutero: «Toda la vida de los creyentes es una vida de arrepentimiento.» Fingir que ya no hay lucha no es madurez — es el comienzo de la hipocresia.
+
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
+
+**Pablo ora pidiendo que Dios los haga santos — no que ellos se hagan santos. ¿Que cambia en la manera de entender el proceso si el sujeto activo es Dios y no tu?**
+
+**En que area de tu vida sientes que el proceso esta activo — que algo esta cambiando aunque sea lentamente? ¿Y en que area sientes que esta estancado?**
+
+**★** Si la santificacion es un proceso gradual que dura toda la vida, ¿como sabrias si estas avanzando? ¿Que se veria diferente en alguien que lleva diez anos en ese proceso?
+
+</details>
 
 ---
 
