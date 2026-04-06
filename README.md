@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/img/logo.jpeg" alt="Fundamentos de la Fe" width="300">
+</p>
+
 # Fundamentos de la Fe
 
 Un recorrido por las verdades esenciales del cristianismo.
