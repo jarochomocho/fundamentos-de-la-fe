@@ -27,11 +27,11 @@
 
 #### Ideas centrales
 
-Ser salvo solo tiene sentido si primero se entiende estar perdido. La palabra griega para pecado — hamartia — significa errar el blanco. Pero no es una falla de punteria ocasional: es que el timon del alma esta deshabilitado y conduce persistentemente fuera de curso. No es alguien que apunta mal, es alguien que ya no puede orientarse.
+Ser salvo solo tiene sentido si primero se entiende estar perdido. La palabra griega para pecado — hamartia — significa errar el blanco.[^1] Pero no es una falla de punteria ocasional: es que el timon del alma esta deshabilitado y conduce persistentemente fuera de curso. No es alguien que apunta mal, es alguien que ya no puede orientarse.
 
-Somos como las ovejas perdidas que fueron salvadas no porque encontraron su propio camino de regreso, sino porque el pastor salio y las busco. La tradicion cristiana no describio esto solo en terminos legales: tambien hablo de prisioneros rescatados, de hijos que regresan a casa, de enfermos que necesitan medico. Cada imagen apunta a una dimension distinta de lo que se ha roto — y en todas ellas no podemos ayudarnos, necesitamos ayuda de fuera.
+Somos como las ovejas perdidas que fueron salvadas no porque encontraron su propio camino de regreso, sino porque el pastor salio y las busco.[^2] La tradicion cristiana no describio esto solo en terminos legales: tambien hablo de prisioneros rescatados, de hijos que regresan a casa, de enfermos que necesitan medico.[^3] Cada imagen apunta a una dimension distinta de lo que se ha roto — y en todas ellas no podemos ayudarnos, necesitamos ayuda de fuera.
 
-Pablo describe la condicion humana como estar «vendida como esclava al pecado» (Romanos 7:14). No es que fallemos ocasionalmente — es que toda la orientacion del ser esta sesgada. El pecado no es una lista de infracciones graves sino una direccion del corazon. Jesus va a la raiz: «desde adentro, del corazon de la persona, salen los malos pensamientos» (Marcos 7:21).
+Pablo describe la condicion humana como estar «vendida como esclava al pecado» (Romanos 7:14).[^4] No es que fallemos ocasionalmente — es que toda la orientacion del ser esta sesgada. El pecado no es una lista de infracciones graves sino una direccion del corazon. Jesus va a la raiz: «desde adentro, del corazon de la persona, salen los malos pensamientos» (Marcos 7:21).
 
 El estandar que usa Pablo no es comparativo — no es «mas pecador que el vecino» — sino absoluto: todos quedan cortos frente a la gloria de Dios. Eso incluye al mas religioso y al mas irreligioso por igual.
 
@@ -47,7 +47,7 @@ El estandar que usa Pablo no es comparativo — no es «mas pecador que el vecin
 > **«Yo no soy tan pecador — nunca he hecho nada realmente malo.»** La comparacion horizontal siempre encuentra a alguien peor. Pero el estandar no es el vecino sino la gloria de Dios. Desde ese estandar, Jeremias 17:9 no hace excepciones: el corazon humano es enganoso — incluyendo el del que se cree bueno.
 
 > [!WARNING]
-> **«El problema es el ambiente, la familia, la crianza.»** El contexto influye pero no determina. El pecado no es causado por los padres, la herencia o el temperamento — es finalmente una colusion de la propia libertad con el mal. Asumir responsabilidad personal es el corazon del arrepentimiento.
+> **«El problema es el ambiente, la familia, la crianza.»** El contexto influye pero no determina. El pecado no es causado por los padres, la herencia o el temperamento — es finalmente una decision de la propia libertad. Asumir responsabilidad personal es el corazon del arrepentimiento.
 
 <details>
 <summary><b>Preguntas para grupos pequeños</b></summary>
@@ -78,11 +78,11 @@ El estandar que usa Pablo no es comparativo — no es «mas pecador que el vecin
 
 #### Ideas centrales
 
-La palabra de la cruz no es «te amare si saltas este aro» — es que «cuando aun eramos debiles, a su tiempo, Cristo murio por los impios» (Romanos 5:6). El amor de Dios no espera condiciones favorables. No es respuesta al merito — es iniciativa pura.
+La palabra de la cruz no es «te amare si saltas este aro» — es que «cuando aun eramos debiles, a su tiempo, Cristo murio por los impios» (Romanos 5:6).[^5] El amor de Dios no espera condiciones favorables. No es respuesta al merito — es iniciativa pura.
 
 Lo que Dios nos da es por gracia. Hay diferencia entre justicia, misericordia y gracia. Justicia es recibir lo que merecemos. Misericordia es no recibir lo que merecemos. Gracia es recibir lo que no merecemos. La salvacion es gracia — Dios no solo suspendio la condena, nos hizo hijos. No es que simplemente no castigo; es que ademas adopto.
 
-Agustin dijo alguna vez: «Si la fe es simplemente de libre albedrio y no es dada por Dios, ¿por que oramos por aquellos que no creen? Seria absolutamente inutil.» La misma capacidad de creer es posibilitada por Dios. Cirilo de Jerusalen lo dijo con precision: «A Dios le corresponde conceder la gracia, pero a vosotros recibirla y custodiarla.» El orden importa: Dios concede primero.
+Cirilo de Jerusalen lo dijo con precision: «A Dios le corresponde conceder la gracia, pero a vosotros recibirla y custodiarla.»[^6] El orden importa: Dios concede primero.
 
 #### Errores comunes
 
@@ -119,18 +119,18 @@ Agustin dijo alguna vez: «Si la fe es simplemente de libre albedrio y no es dad
 
 #### Ideas centrales
 
-La palabra griega metanoia no significa «sentirse mal» — significa dar vuelta, cambiar de direccion completamente. El remordimiento sin cambio de direccion no es metanoia. El arrepentimiento viene acompanado de una voluntad de encontrarnos con Dios y corregir las cosas que estan mal en nosotros.
+La palabra griega metanoia no significa «sentirse mal» — significa dar vuelta, cambiar de direccion completamente.[^7] El remordimiento sin cambio de direccion no es metanoia. El arrepentimiento viene acompanado de una voluntad de encontrarnos con Dios y corregir las cosas que estan mal en nosotros.
 
-El arrepentimiento requiere tres movimientos de la persona completa: la mente que reconoce el pecado sin autoengano (notitia), el corazon que se aflige genuinamente por el y cree (fiduccia), y la voluntad que decide cambiar de direccion (decisio). La Segunda Confesion Helvetica lo describe asi: el pecador «reconoce inmediatamente su corrupcion innata y todos sus pecados, se aflige por ellos desde su corazon, los abomina, y considera celosamente la enmienda de sus caminos.» Si falta cualquiera de los tres, el arrepentimiento no ha madurado.
+El arrepentimiento requiere tres movimientos de la persona completa: la mente que reconoce el pecado sin autoengano, el corazon que se aflige genuinamente por el, y la voluntad que decide cambiar de direccion. La Segunda Confesion Helvetica lo describe asi: el pecador «reconoce inmediatamente su corrupcion innata y todos sus pecados, se aflige por ellos desde su corazon, los abomina, y considera celosamente la enmienda de sus caminos.»[^8] Si falta cualquiera de los tres, el arrepentimiento no ha madurado.
 
-Calvino advirtio: «A falta de un hambre profunda por un cambio fundamental de vida, mente, corazon y conducta, un arrepentimiento superficial solo se convierte en una nueva tentacion a la hipocresia.» El ciclo de arrepentirse sin cambiar no es humildad — es una nueva forma de enganarse.
+Calvino advirtio: «A falta de un hambre profunda por un cambio fundamental de vida, mente, corazon y conducta, un arrepentimiento superficial solo se convierte en una nueva tentacion a la hipocresia.»[^7] El ciclo de arrepentirse sin cambiar no es humildad — es una nueva forma de enganarse.
 
 Santiago 2:19 muestra el limite del asentimiento solo: «los demonios creen que hay un solo Dios, y tiemblan.» Tienen la informacion — les falta la confianza personal en Cristo y la decision de someterse a el. El conocimiento sin entrega no salva.
 
 #### Errores comunes
 
 > [!WARNING]
-> **«El arrepentimiento es solo para cuando haces algo muy grave.»** La primera tesis de Lutero es que «toda la vida de los creyentes es una vida de arrepentimiento.» No porque nunca avancen, sino porque el crecimiento produce mayor consciencia de la distancia que aun falta.
+> **«El arrepentimiento es solo para cuando haces algo muy grave.»** La primera tesis de Lutero es que «toda la vida de los creyentes es una vida de arrepentimiento.»[^9] No porque nunca avancen, sino porque el crecimiento produce mayor consciencia de la distancia que aun falta.
 
 > [!WARNING]
 > **«Creer es estar de acuerdo con que Dios existe.»** Creer sin cambio no es metanoia completa. Hasta el diablo cree en Dios. Lo que falta es el tercer movimiento — la decision de la voluntad de caminar diferente.
@@ -164,9 +164,9 @@ Santiago 2:19 muestra el limite del asentimiento solo: «los demonios creen que 
 
 #### Ideas centrales
 
-La fe salvadora no es solo informacion aceptada. Melanchton lo describio con precision: «La fe significa asentimiento a la promesa de Dios — que esta en el intelecto — y con este asentimiento esta necesariamente conectada la confianza — que es la voluntad — queriendo y aceptando la reconciliacion prometida.» Involucra la persona entera: la mente que asiente, el corazon que confia, la voluntad que decide.
+La fe salvadora no es solo informacion aceptada. Melanchton lo describio con precision: «La fe significa asentimiento a la promesa de Dios — que esta en el intelecto — y con este asentimiento esta necesariamente conectada la confianza — que es la voluntad — queriendo y aceptando la reconciliacion prometida.»[^10] Involucra la persona entera: la mente que asiente, el corazon que confia, la voluntad que decide.
 
-La justificacion es la declaracion de Dios de que el creyente es tratado como justo — no porque sea perfecto sino porque confia en Cristo. Lutero la describe como «la base de la vida cristiana, no el fin sino el comienzo del camino.» Romanos 8:1 no dice «hay cada vez menos condenacion» — dice que ya no la hay. El veredicto no crece; lo que crece es la vida que sigue.
+La justificacion es la declaracion de Dios de que el creyente es tratado como justo — no porque sea perfecto sino porque confia en Cristo. Lutero la describe como «la base de la vida cristiana, no el fin sino el comienzo del camino.»[^11] Romanos 8:1 no dice «hay cada vez menos condenacion» — dice que ya no la hay.[^12] El veredicto no crece; lo que crece es la vida que sigue.
 
 #### Errores comunes
 
@@ -198,18 +198,25 @@ La justificacion es la declaracion de Dios de que el creyente es tratado como ju
 > *"La religion dice: haz esto y seras aceptado. El evangelio dice: eres aceptado, por eso haz esto."*
 > *— Timothy Keller*
 
----
-
 > *"No eres demasiado malo para ser salvo. Eres demasiado orgulloso para admitir que no puedes salvarte tu mismo."*
 > *— R.C. Sproul*
-
----
 
 > *"La salvacion no es el fin del camino. Es el primer paso en la direccion correcta."*
 > *— C.S. Lewis*
 
 ---
 
-**Referencias:** **Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte II, Cap. 3-4.
+[^1]: Oden, *Cristianismo Clásico*, [p. 1290](../assets/oden-cristianismo-clasico.pdf) — "La condición perdida: errar el blanco"
+[^2]: Oden, *Cristianismo Clásico*, [p. 778](../assets/oden-cristianismo-clasico.pdf)
+[^3]: Oden, *Cristianismo Clásico*, [p. 854](../assets/oden-cristianismo-clasico.pdf) — "En esta reconciliación se libera a los prisioneros"
+[^4]: Orígenes, *Comm. on Romans*, citado en Oden, [p. 1193](../assets/oden-cristianismo-clasico.pdf)
+[^5]: Oden, *Cristianismo Clásico*, [p. 1225](../assets/oden-cristianismo-clasico.pdf)
+[^6]: Cirilo de Jerusalén, citado en Oden, [p. 1266](../assets/oden-cristianismo-clasico.pdf)
+[^7]: Oden, *Cristianismo Clásico*, [p. 1186](../assets/oden-cristianismo-clasico.pdf) — metanoia y Calvino sobre el arrepentimiento
+[^8]: Segunda Confesión Helvética, citada en Oden, [p. 1190](../assets/oden-cristianismo-clasico.pdf)
+[^9]: Lutero, 95 Tesis, citado en Oden, [p. 1205](../assets/oden-cristianismo-clasico.pdf)
+[^10]: Melanchton, *Loci Communes*, citado en Oden, [p. 1260](../assets/oden-cristianismo-clasico.pdf)
+[^11]: Oden, *Cristianismo Clásico*, [p. 1221](../assets/oden-cristianismo-clasico.pdf)
+[^12]: Oden, *Cristianismo Clásico*, [p. 1227](../assets/oden-cristianismo-clasico.pdf) — "Ya no hay condenación para los que están en Cristo Jesús"
 
 *[← Leccion 00: ¿Por que cristianismo?](leccion-00.md) · [Indice](../README.md) · [Leccion 02: La santidad y la regeneracion →](leccion-02.md)*
