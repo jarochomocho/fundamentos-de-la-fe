@@ -74,7 +74,7 @@ El **versiculo para memorizar** aparece al inicio de cada leccion — escribelo 
 
 ## Agradecimientos
 
-Este curso no existiria sin el trabajo de [Mizraim Pinon](https://www.youtube.com/@MizraimPi%C3%B1%C3%B3n), quien fue el punto de partida para este material. En gran parte conservo el orden de sus lecciones, y su labor ha sido una inspiracion constante para seguir proponiendo recursos para los cristianos en todos lados — y para hacer mejores affogatos.
+Este curso no existiria sin el trabajo de [Mizraim Piñon](https://www.youtube.com/@MizraimPi%C3%B1%C3%B3n), quien fue el punto de partida para este material. En gran parte conservo el orden de sus lecciones, y su labor ha sido una inspiracion constante para seguir proponiendo recursos para los cristianos en todos lados — y para hacer mejores affogatos.
 
 ---
 
