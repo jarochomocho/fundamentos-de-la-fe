@@ -2,10 +2,8 @@
 
 *[← Leccion 02: La santidad y la regeneracion](leccion-02.md) · [Indice](../README.md) · [Leccion 04: La fe y la vida nueva →](leccion-04.md)*
 
----
-
 > [!NOTE]
-> Las lecciones anteriores describieron la condicion humana y como se recibe la salvacion. Esta responde la pregunta que sigue naturalmente: ¿y ahora que? ¿Quien hace que todo eso sea real en mi vida concreta? El Espiritu Santo no es un tema adicional — es el agente que aplica la obra del Hijo al creyente. Sin el, la salvacion permanece externa. Con el, se vuelve interior, viva y transformadora.
+> ¿Quien hace que lo que Cristo hizo sea real en mi vida concreta? El Espiritu Santo no es un tema adicional — es el agente que aplica la obra del Hijo al creyente. Sin el, la salvacion permanece externa. Con el, se vuelve interior, viva y transformadora.
 
 **Versiculo para memorizar:** Romanos 8:11
 
@@ -28,11 +26,13 @@
 
 #### Ideas centrales
 
-El Hijo realizo la obra de salvacion. El Espiritu la aplica. Ambrosio lo dijo con precision: «La regeneracion es obra del Espiritu Santo, y el Espiritu es el Autor de ese hombre nuevo. Los beneficios de la regeneracion no pueden subsistir cuando se excluye a su Autor. El Autor no esta sin el don, ni el don sin el Autor.»
+El Hijo realizo la obra de salvacion. El Espiritu la aplica. Ambrosio lo dijo con precision: «La regeneracion es obra del Espiritu Santo, y el Espiritu es el Autor de ese hombre nuevo. El Autor no esta sin el don, ni el don sin el Autor.»[^1]
 
-Basilio resumio el alcance de esa obra asi: «Por medio del Espiritu Santo viene nuestra restauracion al paraiso, nuestra ascension al reino de los cielos, nuestro retorno a la adopcion de hijos, nuestra libertad de llamar a Dios nuestro Padre, nuestro ser hechos participes de la gracia de Cristo.»
+Basilio resumio el alcance de esa obra asi: «Por medio del Espiritu Santo viene nuestra restauracion al paraiso, nuestra ascension al reino de los cielos, nuestro retorno a la adopcion de hijos, nuestra libertad de llamar a Dios nuestro Padre, nuestro ser hechos participes de la gracia de Cristo.»[^2]
 
 Lo que ocurrio en la cruz fue decisivo — pero todavia tenia que volverse real adentro. Esa es la mision del Espiritu.
+
+#### Errores comunes
 
 > [!WARNING]
 > **«El Espiritu Santo es solo para algunos creyentes especiales o muy avanzados.»** El Nuevo Testamento no hace esa distincion. Pablo escribe a la comunidad de Corinto — una comunidad con serios problemas — y les recuerda que el Espiritu mora en todos ellos. La morada del Espiritu no es premio por madurez; es el punto de partida de toda vida cristiana.
@@ -70,11 +70,13 @@ Lo que ocurrio en la cruz fue decisivo — pero todavia tenia que volverse real 
 
 #### Ideas centrales
 
-El Espiritu no borra la personalidad del creyente ni actua sin su voluntad. Lo que hace es transformar las facultades que ya existian — la mente, el corazon, la voluntad — que se habian marchitado en la historia del pecado. El renacimiento no imparte facultades nuevas; aviva las que estaban dormidas.
+El Espiritu no borra la personalidad del creyente ni actua sin su voluntad. Lo que hace es transformar las facultades que ya existian — la mente, el corazon, la voluntad — que se habian marchitado en la historia del pecado.
 
-Gregorio Nacianceno lo describio con imagenes concretas: el Espiritu «toma posesion de un pastor y lo hace salmista; si toma posesion de los pescadores, hace que capturen al mundo entero en las redes de Cristo; si de los publicanos, los aprovecha para el discipulado y los hace mercaderes de almas.» No reemplaza a la persona — la redirige completamente.
+Gregorio Nacianceno lo describio con imagenes concretas: el Espiritu «toma posesion de un pastor y lo hace salmista; si toma posesion de los pescadores, hace que capturen al mundo entero en las redes de Cristo; si de los publicanos, los aprovecha para el discipulado y los hace mercaderes de almas.»[^3] No reemplaza a la persona — la redirige completamente.
 
-El resultado visible es el fruto: «El fruto del Espiritu es amor, alegria, paz, paciencia, amabilidad, bondad, fe, mansedumbre y dominio propio» (Galatas 5:22). No es una lista de esfuerzos — es lo que naturalmente crece cuando el Espiritu habita y trabaja.
+El resultado visible es el fruto: «El fruto del Espiritu es amor, alegria, paz, paciencia, amabilidad, bondad, fe, mansedumbre y dominio propio» (Galatas 5:22).[^4] No es una lista de esfuerzos — es lo que naturalmente crece cuando el Espiritu habita y trabaja.
+
+#### Errores comunes
 
 > [!WARNING]
 > **«Desde que recibi el Espiritu ya soy una persona completamente diferente en todo.»** La transformacion es real pero no instantanea ni total en esta vida. El Espiritu aviva las facultades y las redirige — pero la vieja naturaleza sigue resistiendo.
@@ -112,11 +114,13 @@ El resultado visible es el fruto: «El fruto del Espiritu es amor, alegria, paz,
 
 #### Ideas centrales
 
-La morada del Espiritu no es temporal ni condicional al desempeno del creyente. Calvino lo describe como un sello: una vez puesto, garantiza la promesa. El creyente puede pensarse como un documento colocado en un sobre sellado — el Espiritu es la cera que lo cierra y lo guarda hasta el dia final.
+La morada del Espiritu no es temporal ni condicional al desempeno del creyente.[^5] Calvino lo describe como un sello: una vez puesto, garantiza la promesa.[^6] El creyente puede pensarse como un documento colocado en un sobre sellado — el Espiritu es la cera que lo cierra y lo guarda hasta el dia final.
 
-Cirilo de Alejandria lo dijo asi: «El Espiritu Santo trabaja en nosotros santificandonos verdaderamente y unindonos a el; y por esta union nos hace participes de la naturaleza divina, embelleciendo la naturaleza humana con el esplendor de la divinidad.» No es solo que el Espiritu ayuda — es que Dios mismo viene a habitar en la persona.
+Cirilo de Alejandria lo dijo asi: «El Espiritu Santo trabaja en nosotros santificandonos verdaderamente y unindonos a el; y por esta union nos hace participes de la naturaleza divina, embelleciendo la naturaleza humana con el esplendor de la divinidad.»[^7] No es solo que el Espiritu ayuda — es que Dios mismo viene a habitar en la persona.
 
 Eso tiene una consecuencia practica: el creyente no esta solo en la lucha. El mismo Espiritu que levanto a Cristo de los muertos vive adentro.
+
+#### Errores comunes
 
 > [!WARNING]
 > **«Si peco, el Espiritu se va y tengo que recuperarlo.»** El Nuevo Testamento no habla en esos terminos. Lo que dice es: vive una vida recta porque el Espiritu ya mora en ti — no para que el Espiritu vuelva. El Espiritu puede ser entristecido y resistido, pero su morada no depende del desempeno diario del creyente.
@@ -154,11 +158,13 @@ Eso tiene una consecuencia practica: el creyente no esta solo en la lucha. El mi
 
 #### Ideas centrales
 
-La vida en el Espiritu no es solo seguir reglas nuevas — es vivir en union real con Cristo. Lutero lo expreso con fuerza: «Yo soy uno con Cristo, es decir, la justicia, la victoria, la vida de Cristo son mias; y Cristo a su vez dice: Sus pecados, muerte, son mios, porque por la fe estamos unidos en un solo cuerpo y un solo hueso.»
+La vida en el Espiritu no es solo seguir reglas nuevas — es vivir en union real con Cristo. Lutero lo expreso con fuerza: «Por la fe estamos unidos en un solo cuerpo y un solo hueso.»[^8]
 
-Atanasio resumio el intercambio central del evangelio en una linea: «El se hizo hombre para que nosotros fueramos hechos Dios.» No en el sentido de convertirnos en dioses — sino en el sentido de participar de la naturaleza y vida de Dios por gracia, no por naturaleza propia.
+Atanasio resumio el intercambio central del evangelio en una linea: «El se hizo hombre para que nosotros fueramos hechos Dios.»[^7] No en el sentido de convertirnos en dioses — sino en el sentido de participar de la naturaleza y vida de Dios por gracia, no por naturaleza propia.
 
-Tomas de Aquino describio el resultado de esa union con una palabra que pocas veces se usa en este contexto: amistad. «Por el Espiritu Santo somos constituidos amigos de Dios. Lo que es especialmente propio de la amistad es deleitarse en la presencia de un amigo.» La vida cristiana no es servidumbre religiosa — es amistad con Dios que crece.
+Tomas de Aquino describio el resultado de esa union con una palabra que pocas veces se usa en este contexto: amistad. «Por el Espiritu Santo somos constituidos amigos de Dios. Lo que es especialmente propio de la amistad es deleitarse en la presencia de un amigo.»[^9] La vida cristiana no es servidumbre religiosa — es amistad con Dios que crece.
+
+#### Errores comunes
 
 > [!WARNING]
 > **«La vida cristiana es basicamente cumplir un conjunto de reglas para agradar a Dios.»** La union con Cristo que describe el Nuevo Testamento es organica, no contractual. Juan usa la imagen de la vid y las ramas — no la de un empleado y un reglamento. Las ramas no producen fruto por esfuerzo; producen fruto porque estan unidas a la vid.
@@ -185,19 +191,27 @@ Tomas de Aquino describio el resultado de esa union con una palabra que pocas ve
 
 ---
 
-> "El Espiritu Santo no es una experiencia que buscamos — es una persona que ya vino a quedarse, y su trabajo mas importante lo hace en silencio, desde adentro."
-> — J. I. Packer
+> *"El Espiritu Santo no es una experiencia que buscamos — es una persona que ya vino a quedarse, y su trabajo mas importante lo hace en silencio, desde adentro."*
+> *— J. I. Packer*
 
-> "La regeneracion es obra del Espiritu Santo, y el Espiritu es el Autor de ese hombre nuevo. El Autor no esta sin el don, ni el don sin el Autor."
-> — Ambrosio de Milan, padre de la iglesia (siglo IV)
+> *"La regeneracion es obra del Espiritu Santo, y el Espiritu es el Autor de ese hombre nuevo. El Autor no esta sin el don, ni el don sin el Autor."*
+> *— Ambrosio de Milan (siglo IV)*
 
-> "Por el Espiritu Santo somos constituidos amigos de Dios. Lo que es especialmente propio de la amistad es deleitarse en la presencia de un amigo."
-> — Tomas de Aquino
+> *"Por el Espiritu Santo somos constituidos amigos de Dios. Lo que es especialmente propio de la amistad es deleitarse en la presencia de un amigo."*
+> *— Tomas de Aquino*
 
 ---
+
+[^1]: Ambrosio, *Sobre el Espíritu Santo*, citado en Oden, [p. 1288](../assets/oden-cristianismo-clasico.pdf)
+[^2]: Basilio, *Sobre el Espíritu Santo*, citado en Oden, [p. 1181](../assets/oden-cristianismo-clasico.pdf)
+[^3]: Gregorio Nacianceno, citado en Oden, [p. 1310](../assets/oden-cristianismo-clasico.pdf)
+[^4]: Oden, *Cristianismo Clásico*, [p. 1309](../assets/oden-cristianismo-clasico.pdf)
+[^5]: Oden, *Cristianismo Clásico*, [p. 1134](../assets/oden-cristianismo-clasico.pdf) — la morada del Espíritu
+[^6]: Oden, *Cristianismo Clásico*, [p. 1317](../assets/oden-cristianismo-clasico.pdf) — el sellamiento del Espíritu
+[^7]: Cirilo de Alejandría y Atanasio, citados en Oden, [p. 1356](../assets/oden-cristianismo-clasico.pdf)
+[^8]: Lutero, citado en Oden, [p. 1357](../assets/oden-cristianismo-clasico.pdf)
+[^9]: Tomás de Aquino, citado en Oden, [p. 1358](../assets/oden-cristianismo-clasico.pdf)
 
 **Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte I, Cap. 1-2 y Parte II, Cap. 5.
-
----
 
 *[← Leccion 02: La santidad y la regeneracion](leccion-02.md) · [Indice](../README.md) · [Leccion 04: La fe y la vida nueva →](leccion-04.md)*
