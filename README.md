@@ -14,6 +14,22 @@ Un recorrido por las verdades esenciales del cristianismo.
 
 ---
 
+## Por que este curso
+
+Desde que me vi en la necesidad de predicar en grupos de identidad bastante diversa y en contextos muy distintos, he entendido con el tiempo que hay fortaleza en encontrar los lazos en comun que tenemos todos los cristianos.
+
+En realidad el problema pocas veces es la denominacion que alguien profesa dentro del cristianismo, ya sea catolica, metodista, bautista o presbiteriana. Si la gente ha nacido de nuevo, el Espiritu Santo no solo nos llevara a toda verdad, sino que tambien nos ayudara a tendernos la mano como hermanos — como la *ecclesiola in ecclesiam* que mencionaban los grupos puritanos, o la iglesia invisible de Martin Lutero.
+
+La Biblia es la base de este material porque es precisamente el vinculo en comun que tenemos: tanto catolicos como protestantes creemos que es inspirada por Dios. Mas que un ejercicio de convertir a la gente a cierta denominacion, lo que buscamos es rescatar lo que la Palabra tiene para nosotros. Aunque no solo citamos la Biblia — tambien recurrimos a confesiones, catecismos, padres de la iglesia y demas fuentes que se incluyen en el libro de Oden.
+
+Para evitar apoyarme en mis propias ideas me he amarrado a hablar de lo que Oden expone en su libro *Cristianismo Clasico*, con el mismo espiritu con el que el trata de aportar poco de si mismo. Nosotros tratamos de ser una sintesis de lo que han creido todos, en todas partes, al mismo tiempo — siguiendo la regla de Lerins.
+
+Este proyecto vive en un repositorio a manera de wiki y no en un documento cerrado, porque prometo ir actualizandolo con videos de YouTube, audios y demas recursos que encuentre utiles.
+
+Espero que este material pueda ser un punto de partida para aquel que quiere hacer crecer su medida de fe, tener confianza en Cristo y hacer comunidad entre aquellos que hemos nacido de nuevo dentro de todo pueblo, lengua, nacion y denominacion cristiana.
+
+---
+
 ## Lecciones
 
 | # | Leccion | Audio | Video |
