@@ -160,7 +160,7 @@ Leon I lo resumio con una imagen que une todo: «La misericordia quiere que seai
 
 ---
 
-Basado en Oden, *Cristianismo Clasico*, Libro 3, Parte II, Cap. 4 y 6.
+**Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte II, Cap. 4 y 6.
 
 ---
 

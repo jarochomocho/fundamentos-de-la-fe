@@ -210,6 +210,6 @@ La justificacion es la declaracion de Dios de que el creyente es tratado como ju
 
 ---
 
-**Referencias:** Basado en Oden, *Cristianismo Clasico*, Libro 3, Parte II, Cap. 3-4. [Ver tabla completa](../REFERENCIAS.md)
+**Referencias:** **Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte II, Cap. 3-4.
 
 *[← Leccion 00: ¿Por que cristianismo?](leccion-00.md) · [Indice](../README.md) · [Leccion 02: La santidad y la regeneracion →](leccion-02.md)*

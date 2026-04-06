@@ -58,6 +58,6 @@ El **versiculo para memorizar** aparece al inicio de cada leccion — escribelo 
 
 Todo el contenido doctrinal se basa en:
 
-> **Oden, Thomas C.** *Cristianismo Clasico: Una teologia sistematica.*
+> **Oden, Thomas C.** [*Cristianismo Clasico: Una teologia sistematica.*](assets/oden-cristianismo-clasico.pdf)
 
-Cada leccion incluye referencias al capitulo correspondiente de Oden. Consulta la [tabla completa de referencias](REFERENCIAS.md) para el mapeo detallado y la lista de padres de la iglesia citados.
+Cada leccion incluye la referencia al capitulo correspondiente de Oden con link directo al PDF.

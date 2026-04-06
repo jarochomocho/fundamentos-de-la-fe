@@ -7,7 +7,7 @@
 
 [![Ver clase en video](https://img.youtube.com/vi/kJCeVkQszP4/hqdefault.jpg)](https://www.youtube.com/live/kJCeVkQszP4)
 
-## Contenido
+---
 
 ### La fe no es opcional: todo el mundo cree en algo
 
@@ -26,11 +26,11 @@
 
 #### Ideas centrales
 
-La fe no es un accesorio religioso para personas de cierto temperamento. Es una condición humana universal. La humanidad nunca ha estado sin religión en alguna forma — el hambre de Dios no desaparece por completo ni siquiera en una sociedad atea en la que se repudia por la fuerza la religión.
+La fe no es un accesorio religioso para personas de cierto temperamento. Es una condición humana universal. La humanidad nunca ha estado sin religión en alguna forma — el hambre de Dios no desaparece por completo ni siquiera en una sociedad atea en la que se repudia por la fuerza la religión.[^1]
 
-La condición humana está destinada a orientarse hacia algún centro de valor — ese valor que parece hacer que todos los demás valores valgan algo. Lutero lo dijo con precisión: aquello en lo que pones tu confianza última, eso es tu dios. No es una pregunta de si alguien tiene ese centro — es una pregunta de qué ocupa ese lugar. Puede ser el dinero, el éxito, la familia, el placer, la aprobación de otros, la propia autoimagen. Todos funcionan como dioses. Ninguno es suficiente.
+La condición humana está destinada a orientarse hacia algún centro de valor — ese valor que parece hacer que todos los demás valores valgan algo.[^2] Lutero lo dijo con precisión: aquello en lo que pones tu confianza última, eso es tu dios. No es una pregunta de si alguien tiene ese centro — es una pregunta de qué ocupa ese lugar. Puede ser el dinero, el éxito, la familia, el placer, la aprobación de otros, la propia autoimagen. Todos funcionan como dioses. Ninguno es suficiente.
 
-Juan Damasceno lo expresó así: "Dios ha implantado el conocimiento de su existencia en todos por naturaleza. La creación, su conservación y su gobierno proclaman la majestad de la naturaleza divina." No se trata de una idea que algunos tienen y otros no — es algo escrito en la estructura de ser humano.
+Juan Damasceno lo expresó así: "Dios ha implantado el conocimiento de su existencia en todos por naturaleza. La creación, su conservación y su gobierno proclaman la majestad de la naturaleza divina."[^3] No se trata de una idea que algunos tienen y otros no — es algo escrito en la estructura de ser humano.
 
 #### Errores comunes
 
@@ -38,7 +38,7 @@ Juan Damasceno lo expresó así: "Dios ha implantado el conocimiento de su exist
 > **«Yo no soy religioso — no creo en nada.»** No existe esa posición. La pregunta no es si creer sino en qué. Quien dice no creer en Dios generalmente cree con igual fervor en la razón, en la ciencia, en la bondad humana, en el progreso — esas son sus dioses. La pregunta no es si hay un centro de valor en la vida, sino si ese centro puede sostener el peso que se le pone encima.
 
 > [!WARNING]
-> **«La religión es un invento humano para explicar lo que no entendemos.»** Incluso si uno acepta que las formas religiosas son construcciones humanas, la pregunta que permanece es por qué todas las culturas humanas en toda la historia han construido exactamente esas construcciones. El hambre de Dios que produce esas construcciones requiere su propia explicación.
+> **«La religión es un invento humano para explicar lo que no entendemos.»** Incluso si uno acepta que las formas religiosas son construcciones humanas, la pregunta que permanece es por qué todas las culturas humanas en toda la historia han construido exactamente esas construcciones. El hambre de Dios que produce esas construcciones requiere su propia explicación.[^1]
 
 ---
 
@@ -61,7 +61,7 @@ Juan Damasceno lo expresó así: "Dios ha implantado el conocimiento de su exist
 
 Todas las religiones hacen las mismas preguntas: ¿Quién soy? ¿Cómo llegó a existir el mundo? ¿Qué es el bien y el mal? ¿Ante quién soy responsable en última instancia? ¿Viviré después de la muerte? El cristianismo no entra en un terreno de cuestionamiento donde nadie más ha entrado. El islam, el budismo, el hinduismo — todos hacen preguntas profundas y serias.
 
-Pablo en Atenas no comenzó negando la búsqueda religiosa de los atenienses — la afirmó. «Veo que ustedes son muy religiosos.» Reconoció que el altar al dios desconocido era evidencia de una búsqueda genuina. Pero luego dijo algo decisivo: ese Dios que buscan sin conocer, ese es el que les estoy anunciando.
+Pablo en Atenas no comenzó negando la búsqueda religiosa de los atenienses — la afirmó. «Veo que ustedes son muy religiosos.» Reconoció que el altar al dios desconocido era evidencia de una búsqueda genuina. Pero luego dijo algo decisivo: ese Dios que buscan sin conocer, ese es el que les estoy anunciando.[^4]
 
 La diferencia del cristianismo no está en hacer mejores preguntas — está en la naturaleza de la respuesta. Otras tradiciones religiosas ofrecen sabiduría, sistemas éticos, técnicas de contemplación, caminos de perfección moral. El cristianismo afirma algo radicalmente diferente: que la respuesta a la búsqueda humana no es un método ni un sistema sino una persona que entró a la historia.
 
@@ -83,9 +83,9 @@ La diferencia del cristianismo no está en hacer mejores preguntas — está en 
 
 #### Ideas centrales
 
-Los grandes maestros religiosos se caracterizan por su modestia. Sócrates decía no saber nada. Buda enseñó un camino de iluminación. Mahoma se presentó como mensajero. Jesús hace algo radicalmente diferente — habla constantemente de sí mismo con una autoridad sin precedente: «Yo soy el camino, la verdad y la vida» (Juan 14:6). «El que me ha visto a mí, ha visto al Padre» (Juan 14:9). «Yo y el Padre somos uno» (Juan 10:30).
+Los grandes maestros religiosos se caracterizan por su modestia. Sócrates decía no saber nada. Buda enseñó un camino de iluminación. Mahoma se presentó como mensajero. Jesús hace algo radicalmente diferente — habla constantemente de sí mismo con una autoridad sin precedente: «Yo soy el camino, la verdad y la vida» (Juan 14:6). «El que me ha visto a mí, ha visto al Padre» (Juan 14:9). «Yo y el Padre somos uno» (Juan 10:30).[^5]
 
-El escándalo de estas palabras es claro: «Estas afirmaciones suenan absurdas a menos que haya una premisa plausible detrás que pueda ayudarlas a tener sentido.» Un maestro de humildad que enseña constantemente sobre sí mismo, o estaba equivocado sobre sí mismo o decía la verdad. No hay una tercera opción cómoda.
+El escándalo de estas palabras es claro: «Estas afirmaciones suenan absurdas a menos que haya una premisa plausible detrás que pueda ayudarlas a tener sentido.»[^6] Un maestro de humildad que enseña constantemente sobre sí mismo, o estaba equivocado sobre sí mismo o decía la verdad. No hay una tercera opción cómoda.
 
 La afirmación cristiana no es que Jesús enseñó ideas importantes sobre Dios. Es que Jesús es Dios entrando a la historia. Y eso cambia completamente la naturaleza de lo que se ofrece. No es sabiduría para considerar. Es una persona a quien encontrar.
 
@@ -109,9 +109,9 @@ La afirmación cristiana no es que Jesús enseñó ideas importantes sobre Dios.
 
 La diferencia entre el cristianismo y cualquier otro sistema religioso o filosófico se concentra en este punto: el cristianismo no ofrece un método para mejorar, sino un encuentro con alguien que actúa. No es que Jesús enseñó el camino hacia Dios — es que Jesús es el camino. No señaló la puerta — él mismo es la puerta.
 
-> «Nadie puede razonablemente predicar de un simple ser humano la eficacia salvífica que conocen los redimidos.» El efecto que Cristo produce en quienes lo encuentran — el perdón genuino, la transformación real, la liberación de culpa — no puede explicarse por la influencia de un maestro muerto. Requiere a alguien que sigue actuando.
+«Nadie puede razonablemente predicar de un simple ser humano la eficacia salvífica que conocen los redimidos.»[^7] El efecto que Cristo produce en quienes lo encuentran — el perdón genuino, la transformación real, la liberación de culpa — no puede explicarse por la influencia de un maestro muerto. Requiere a alguien que sigue actuando.
 
-Agustín lo vivió antes de formularlo: «Nos hiciste para ti, y nuestro corazón está inquieto hasta que descanse en ti» (Confesiones 1.1). La inquietud que todo ser humano experimenta — ese hambre de algo que ninguna cosa finita puede saciar — encuentra su respuesta no en una idea sino en una persona.
+Agustín lo vivió antes de formularlo: «Nos hiciste para ti, y nuestro corazón está inquieto hasta que descanse en ti» (Confesiones 1.1).[^8] La inquietud que todo ser humano experimenta — ese hambre de algo que ninguna cosa finita puede saciar — encuentra su respuesta no en una idea sino en una persona.
 
 #### Errores comunes
 
@@ -129,6 +129,13 @@ Agustín lo vivió antes de formularlo: «Nos hiciste para ti, y nuestro corazó
 
 ---
 
-**Referencias:** Basado en Oden, *Cristianismo Clasico*, Libro 1, Parte I y II. [Ver tabla completa](../REFERENCIAS.md)
+[^1]: Oden, *Cristianismo Clásico*, [p. 416](../assets/oden-cristianismo-clasico.pdf)
+[^2]: Oden, *Cristianismo Clásico*, [p. 1290](../assets/oden-cristianismo-clasico.pdf)
+[^3]: Juan Damasceno, *La fe ortodoxa* 1.1, citado en Oden, [p. 224](../assets/oden-cristianismo-clasico.pdf)
+[^4]: Pablo en Atenas, comentado en Oden, [p. 223](../assets/oden-cristianismo-clasico.pdf)
+[^5]: Oden, *Cristianismo Clásico*, [pp. 499-500](../assets/oden-cristianismo-clasico.pdf)
+[^6]: Oden, *Cristianismo Clásico*, [p. 499](../assets/oden-cristianismo-clasico.pdf)
+[^7]: Crisóstomo, *Hom. sobre Juan* 24, citado en Oden, [p. 510](../assets/oden-cristianismo-clasico.pdf)
+[^8]: Agustín, *Confesiones* 1.1, citado en Oden, [p. 1247](../assets/oden-cristianismo-clasico.pdf)
 
 *[Indice](../README.md) · [Leccion 01: La salvacion →](leccion-01.md)*

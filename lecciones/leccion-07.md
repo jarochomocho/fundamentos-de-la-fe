@@ -133,6 +133,6 @@ La iglesia visible siempre ha sido imperfecta — y es algo que el nuevo creyent
 
 ---
 
-Basado en Oden, *Cristianismo Clasico*, Libro 3, Parte III, Cap. 7-8.
+**Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte III, Cap. 7-8.
 
 *[← Leccion 06: La oracion](leccion-06.md) · [Indice](../README.md)*

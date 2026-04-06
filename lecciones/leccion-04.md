@@ -135,6 +135,6 @@ Es mas sabio que el Espiritu trabaje gradualmente para revelar la gama completa 
 
 ---
 
-Basado en Oden, *Cristianismo Clasico*, Libro 3, Parte II, Cap. 6.
+**Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte II, Cap. 6.
 
 *[← Leccion 03: El Espiritu Santo](leccion-03.md) · [Indice](../README.md) · [Leccion 05: La Palabra →](leccion-05.md)*

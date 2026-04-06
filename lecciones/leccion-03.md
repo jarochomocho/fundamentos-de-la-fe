@@ -196,7 +196,7 @@ Tomas de Aquino describio el resultado de esa union con una palabra que pocas ve
 
 ---
 
-Basado en Oden, *Cristianismo Clasico*, Libro 3, Parte I, Cap. 1-2 y Parte II, Cap. 5.
+**Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte I, Cap. 1-2 y Parte II, Cap. 5.
 
 ---
 

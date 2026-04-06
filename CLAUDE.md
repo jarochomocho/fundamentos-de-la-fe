@@ -10,9 +10,9 @@ Curso "Fundamentos de la Fe" para nuevos creyentes. Basado en Oden (*Cristianism
 lecciones/          # 8 lecciones (00-07), contenido + preguntas integradas
 assets/img/         # Logo e imagenes
 assets/audio/       # Audio de sesiones (pendiente)
-REFERENCIAS.md      # Mapeo leccion → capitulos de Oden y padres citados
+assets/oden-cristianismo-clasico.pdf  # Fuente unica — citar con pagina y link directo
 README.md           # Indice con tabla de lecciones, badges, links a video
-tmp/                # Fuentes originales (Word, PDF) — no editar
+tmp/                # Fuentes originales (Word) — no editar
 ```
 
 ## Formato de cada leccion

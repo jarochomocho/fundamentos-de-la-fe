@@ -133,6 +133,6 @@ El Segundo Concilio de Mileto fue explicito: el Padre Nuestro presupone que el p
 
 ---
 
-Basado en Oden, *Cristianismo Clasico*, Libro 3, Parte I, Cap. 2; Libro 2, Cap. 9.
+**Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte I, Cap. 2; Libro 2, Cap. 9.
 
 *[← Leccion 05: La Palabra](leccion-05.md) · [Indice](../README.md) · [Leccion 07: La iglesia →](leccion-07.md)*

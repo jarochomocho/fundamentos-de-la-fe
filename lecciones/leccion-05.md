@@ -135,6 +135,6 @@ Por eso la tradicion clasica valoro tanto la lectura de la Escritura en comunida
 
 ---
 
-Basado en Oden, *Cristianismo Clasico*, Libro 1, Parte IV, Cap. 8; Libro 3, Cap. 2.
+**Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 1, Parte IV, Cap. 8; Libro 3, Cap. 2.
 
 *[← Leccion 04: La fe y la vida nueva](leccion-04.md) · [Indice](../README.md) · [Leccion 06: La oracion →](leccion-06.md)*
