@@ -5,6 +5,8 @@
 > [!NOTE]
 > La fe no es opcional: todo ser humano ya cree en algo, y el punto de diferencia del cristianismo no es una filosofía sino una persona histórica que actúa como solo Dios puede actuar.
 
+[![Ver clase en video](https://img.youtube.com/vi/kJCeVkQszP4/hqdefault.jpg)](https://www.youtube.com/live/kJCeVkQszP4)
+
 ## Contenido
 
 ### La fe no es opcional: todo el mundo cree en algo

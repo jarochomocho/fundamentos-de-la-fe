@@ -1,50 +1,60 @@
 # Fundamentos de la Fe
 
 Un recorrido por las verdades esenciales del cristianismo.
-Material de estudio para nuevos creyentes basado en la tradicion clasica del pensamiento cristiano.
 
-> Basado en *Cristianismo Clasico: Una teologia sistematica* de Thomas C. Oden.
+![Lecciones](https://img.shields.io/badge/lecciones-8-blue)
+![Idioma](https://img.shields.io/badge/idioma-español-green)
+![Basado en](https://img.shields.io/badge/basado%20en-Oden%20·%20Cristianismo%20Clasico-8B4513)
+
+> Material de estudio para nuevos creyentes basado en la tradicion clasica del pensamiento cristiano.
 
 ---
 
-## Indice del curso
+## Lecciones
 
-| # | Leccion | Material del lider | Cuadernillo del alumno |
-|---|---------|-------------------|----------------------|
-| 00 | ¿Por que cristianismo? | [curso/leccion-00.md](curso/leccion-00.md) | — |
-| 01 | La salvacion | [curso/leccion-01.md](curso/leccion-01.md) | [alumno/leccion-01-alumno.md](alumno/leccion-01-alumno.md) |
-| 02 | La santidad y la regeneracion | [curso/leccion-02.md](curso/leccion-02.md) | [alumno/leccion-02-alumno.md](alumno/leccion-02-alumno.md) |
-| 03 | El Espiritu Santo | [curso/leccion-03.md](curso/leccion-03.md) | [alumno/leccion-03-alumno.md](alumno/leccion-03-alumno.md) |
-| 04 | La fe y la vida nueva | [curso/leccion-04.md](curso/leccion-04.md) | — |
-| 05 | La Palabra | [curso/leccion-05.md](curso/leccion-05.md) | — |
-| 06 | La oracion | [curso/leccion-06.md](curso/leccion-06.md) | — |
-| 07 | La iglesia | [curso/leccion-07.md](curso/leccion-07.md) | — |
+| # | Leccion | Audio | Video |
+|:-:|---------|:---:|:---:|
+| 00 | [¿Por que cristianismo?](lecciones/leccion-00.md) | — | [▶️](https://www.youtube.com/live/kJCeVkQszP4) |
+| 01 | [La salvacion](lecciones/leccion-01.md) | — | [▶️](https://www.youtube.com/live/3ZbTNAKHqpM) |
+| 02 | [La santidad y la regeneracion](lecciones/leccion-02.md) | — | — |
+| 03 | [El Espiritu Santo](lecciones/leccion-03.md) | — | — |
+| 04 | [La fe y la vida nueva](lecciones/leccion-04.md) | — | — |
+| 05 | [La Palabra](lecciones/leccion-05.md) | — | — |
+| 06 | [La oracion](lecciones/leccion-06.md) | — | — |
+| 07 | [La iglesia](lecciones/leccion-07.md) | — | — |
 
-## Estructura
+> Las lecciones 01-03 incluyen **guia de estudio** integrada con pasajes, preguntas de discusion y reflexiones.
 
-```
-fundamentos-de-la-fe/
-├── README.md              # Este indice
-├── curso/                 # Material completo del lider (contenido doctrinal)
-│   ├── leccion-00.md
-│   ├── leccion-01.md
-│   ├── ...
-│   └── leccion-07.md
-├── alumno/                # Cuadernillos de trabajo para alumnos
-│   ├── leccion-01-alumno.md
-│   ├── leccion-02-alumno.md
-│   └── leccion-03-alumno.md
-└── tmp/                   # Archivos fuente originales (Word, PDF)
-```
+---
+
+<details>
+<summary><b>Como usar este material</b></summary>
+
+### Para instructores
+
+Los archivos en `lecciones/` contienen el material doctrinal completo para cada sesion. Cada leccion incluye:
+
+- **Versiculos ancla** con versiculos de apoyo
+- **Ideas centrales** sintetizadas desde Oden
+- **Errores comunes** que anticipan objeciones frecuentes
+- **Para llevar** — un parrafo de cierre que resume la leccion
+
+Las lecciones 01-03 ya incluyen la **guia de estudio** integrada al inicio, con pasajes para que los alumnos escriban, preguntas de discusion y reflexiones.
+
+### Para alumnos
+
+Comienza leyendo la seccion **Guia de estudio** al inicio de cada leccion. Busca los pasajes en tu Biblia, escribelos, y responde las preguntas. Las **reflexiones ★** son preguntas mas profundas que puedes meditar durante la semana.
+
+El **versiculo para memorizar** aparece al inicio de cada leccion — escribelo cada dia de la semana e intenta repetirlo de memoria al final.
+
+</details>
+
+---
 
 ## Fuente
 
-Todo el contenido doctrinal se basa en la obra de Thomas C. Oden, *Cristianismo Clasico: Una teologia sistematica*, sintetizado y adaptado para un curso de fundamentos dirigido a nuevos creyentes.
+Todo el contenido doctrinal se basa en:
 
-## Pendientes
+> **Oden, Thomas C.** *Cristianismo Clasico: Una teologia sistematica.*
 
-- [ ] Cuadernillos de alumno para lecciones 04-07
-- [ ] Sistema de citas formales al libro de Oden (pagina, volumen)
-- [ ] Agregar audio de las sesiones
-- [ ] Links a videos de YouTube
-- [ ] Imagenes y diagramas de apoyo
+Cada leccion incluye referencias al capitulo correspondiente de Oden. Consulta la [tabla completa de referencias](REFERENCIAS.md) para el mapeo detallado y la lista de padres de la iglesia citados.

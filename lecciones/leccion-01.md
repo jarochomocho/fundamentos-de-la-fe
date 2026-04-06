@@ -5,6 +5,8 @@
 > [!NOTE]
 > La salvacion no es correccion moral ni mejora gradual — es liberacion de una esclavitud real, iniciada por la gracia de Dios antes de cualquier merito humano.
 
+[![Ver clase en video](https://img.youtube.com/vi/3ZbTNAKHqpM/hqdefault.jpg)](https://www.youtube.com/live/3ZbTNAKHqpM)
+
 **Versiculo para memorizar:** Efesios 2:8-9
 
 ---
