@@ -17,7 +17,8 @@
 
 > "Antes ustedes estaban muertos a causa de su desobediencia y sus muchos pecados."  — Efesios 2:1 (NTV)
 
-<details open><summary><b>Versiculos de apoyo</b></summary>
+<details open>
+<summary><b>Versiculos de apoyo</b></summary>
 
 > "Pues todos hemos pecado; nadie puede alcanzar la meta gloriosa establecida por Dios."  — Romanos 3:23 (NTV)
 
@@ -71,7 +72,8 @@ El estandar que usa Pablo no es comparativo — no es «mas pecador que el vecin
 
 > "Pero Dios mostro el gran amor que nos tiene al enviar a Cristo a morir por nosotros cuando todavia eramos pecadores."  — Romanos 5:8 (NTV)
 
-<details open><summary><b>Versiculos de apoyo</b></summary>
+<details open>
+<summary><b>Versiculos de apoyo</b></summary>
 
 > "Dios los salvo por su gracia cuando creyeron. Ustedes no tienen ningun merito en eso; es un regalo de Dios."  — Efesios 2:8 (NTV)
 
@@ -117,7 +119,8 @@ Cirilo de Jerusalen lo dijo con precision: «A Dios le corresponde conceder la g
 
 > "Pues la clase de tristeza que Dios desea que suframos nos aleja del pecado y trae como resultado salvacion. No hay que lamentarse por esa clase de tristeza; pero la tristeza del mundo, a la cual le falta arrepentimiento, resulta en muerte espiritual."  — 2 Corintios 7:10 (NTV)
 
-<details open><summary><b>Versiculos de apoyo</b></summary>
+<details open>
+<summary><b>Versiculos de apoyo</b></summary>
 
 > "Arrepentios, pues, y convertios, para que sean borrados vuestros pecados."  — Hechos 3:19 (NTV)
 
@@ -163,7 +166,8 @@ Santiago 2:19 muestra el limite del asentimiento solo: «los demonios creen que 
 
 > "Dios los salvo por su gracia cuando creyeron. Ustedes no tienen ningun merito en eso; es un regalo de Dios. La salvacion no es un premio por las cosas buenas que hayamos hecho, asi que ninguno de nosotros puede jactarse de ser salvo."  — Efesios 2:8-9 (NTV)
 
-<details open><summary><b>Versiculos de apoyo</b></summary>
+<details open>
+<summary><b>Versiculos de apoyo</b></summary>
 
 > "Pero a todos los que creyeron en el y lo recibieron, les dio el derecho de llegar a ser hijos de Dios."  — Juan 1:12 (NTV)
 
