@@ -47,10 +47,10 @@ Lo que ocurrio en la cruz fue decisivo — pero todavia tenia que volverse real 
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«El Espiritu Santo es solo para algunos creyentes especiales o muy avanzados.»** El Nuevo Testamento no hace esa distincion. Pablo escribe a la comunidad de Corinto — una comunidad con serios problemas — y les recuerda que el Espiritu mora en todos ellos. La morada del Espiritu no es premio por madurez; es el punto de partida de toda vida cristiana.
+> 🌟 **«El Espiritu Santo es solo para algunos creyentes especiales o muy avanzados.»** El Nuevo Testamento no hace esa distincion. Pablo escribe a la comunidad de Corinto — una comunidad con serios problemas — y les recuerda que el Espiritu mora en todos ellos. La morada del Espiritu no es premio por madurez; es el punto de partida de toda vida cristiana.
 
 > [!WARNING]
-> **«El Espiritu Santo es basicamente una emocion intensa o una experiencia poderosa.»** El Espiritu obra tanto en momentos notorios como en el trabajo silencioso y cotidiano de transformar motivaciones, sentimientos y conducta.
+> 😍 **«El Espiritu Santo es basicamente una emocion intensa o una experiencia poderosa.»** El Espiritu obra tanto en momentos notorios como en el trabajo silencioso y cotidiano de transformar motivaciones, sentimientos y conducta.
 
 </details>
 
@@ -94,10 +94,10 @@ El resultado visible es el fruto: «El fruto del Espiritu es amor, alegria, paz,
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Desde que recibi el Espiritu ya soy una persona completamente diferente en todo.»** La transformacion es real pero no instantanea ni total en esta vida. El Espiritu aviva las facultades y las redirige — pero la vieja naturaleza sigue resistiendo.
+> ✨ **«Desde que recibi el Espiritu ya soy una persona completamente diferente en todo.»** La transformacion es real pero no instantanea ni total en esta vida. El Espiritu aviva las facultades y las redirige — pero la vieja naturaleza sigue resistiendo.
 
 > [!WARNING]
-> **«Si el Espiritu me cambia, yo no tengo que hacer nada.»** El Espiritu no coacciona — atrae, persuade, habilita. La cooperacion activa de la voluntad es parte del proceso, no un obstaculo a la obra del Espiritu.
+> 😴 **«Si el Espiritu me cambia, yo no tengo que hacer nada.»** El Espiritu no coacciona — atrae, persuade, habilita. La cooperacion activa de la voluntad es parte del proceso, no un obstaculo a la obra del Espiritu.
 
 </details>
 
@@ -141,10 +141,10 @@ Eso tiene una consecuencia practica: el creyente no esta solo en la lucha. El mi
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Si peco, el Espiritu se va y tengo que recuperarlo.»** El Nuevo Testamento no habla en esos terminos. Lo que dice es: vive una vida recta porque el Espiritu ya mora en ti — no para que el Espiritu vuelva. El Espiritu puede ser entristecido y resistido, pero su morada no depende del desempeno diario del creyente.
+> 🚪 **«Si peco, el Espiritu se va y tengo que recuperarlo.»** El Nuevo Testamento no habla en esos terminos. Lo que dice es: vive una vida recta porque el Espiritu ya mora en ti — no para que el Espiritu vuelva. El Espiritu puede ser entristecido y resistido, pero su morada no depende del desempeno diario del creyente.
 
 > [!WARNING]
-> **«Necesito una segunda experiencia especial para recibir el Espiritu despues de la conversion.»** La ensenanza clasica consensual es que el Espiritu se recibe con la fe y el nuevo nacimiento. No hay una segunda capa reservada para creyentes avanzados.
+> 🎯 **«Necesito una segunda experiencia especial para recibir el Espiritu despues de la conversion.»** La ensenanza clasica consensual es que el Espiritu se recibe con la fe y el nuevo nacimiento. No hay una segunda capa reservada para creyentes avanzados.
 
 </details>
 
@@ -188,10 +188,10 @@ Tomas de Aquino describio el resultado de esa union con una palabra que pocas ve
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«La vida cristiana es basicamente cumplir un conjunto de reglas para agradar a Dios.»** La union con Cristo que describe el Nuevo Testamento es organica, no contractual. Juan usa la imagen de la vid y las ramas — no la de un empleado y un reglamento. Las ramas no producen fruto por esfuerzo; producen fruto porque estan unidas a la vid.
+> 📋 **«La vida cristiana es basicamente cumplir un conjunto de reglas para agradar a Dios.»** La union con Cristo que describe el Nuevo Testamento es organica, no contractual. Juan usa la imagen de la vid y las ramas — no la de un empleado y un reglamento. Las ramas no producen fruto por esfuerzo; producen fruto porque estan unidas a la vid.
 
 > [!WARNING]
-> **«Dios esta lejos y me observa desde afuera para ver como me porto.»** La ensenanza clasica es radicalmente distinta: Dios viene a habitar adentro. «Vuestro cuerpo es templo del Espiritu Santo» — no un observatorio externo sino una morada interior.
+> 👁️ **«Dios esta lejos y me observa desde afuera para ver como me porto.»** La ensenanza clasica es radicalmente distinta: Dios viene a habitar adentro. «Vuestro cuerpo es templo del Espiritu Santo» — no un observatorio externo sino una morada interior.
 
 </details>
 

@@ -35,10 +35,10 @@ Esto tiene una consecuencia practica: el creyente nuevo no debe medirse con el c
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Si de verdad me converti, ya deberia ser una persona completamente diferente.»** La conversion marca un nuevo comienzo, no una llegada. Aunque el veredicto de la justificacion es instantaneo, la transformacion del caracter es gradual — como un organismo que crece.
+> ⚡ **«Si de verdad me converti, ya deberia ser una persona completamente diferente.»** La conversion marca un nuevo comienzo, no una llegada. Aunque el veredicto de la justificacion es instantaneo, la transformacion del caracter es gradual — como un organismo que crece.
 
 > [!WARNING]
-> **«El crecimiento espiritual es automatico — si tengo el Espiritu, solo es cuestion de tiempo.»** El crecimiento en la gracia no ocurre a traves de un inactivismo silencioso. El Espiritu obra — pero lo hace a traves de la cooperacion activa de la voluntad.
+> ⏱️ **«El crecimiento espiritual es automatico — si tengo el Espiritu, solo es cuestion de tiempo.»** El crecimiento en la gracia no ocurre a traves de un inactivismo silencioso. El Espiritu obra — pero lo hace a traves de la cooperacion activa de la voluntad.
 
 </details>
 
@@ -70,10 +70,10 @@ La entrega no es un acto unico sino una disposicion continua. Agustin lo dijo co
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«La vida cristiana es basicamente no hacer cosas malas.»** La mortificacion — hacer morir lo viejo — es solo la mitad del movimiento. La vivificacion — alimentar activamente lo nuevo — es igualmente necesaria. Una vida definida solo por lo que evita, sin cultivar activamente la oracion, la Palabra, la comunidad, no esta creciendo — esta simplemente esperando.
+> ❌ **«La vida cristiana es basicamente no hacer cosas malas.»** La mortificacion — hacer morir lo viejo — es solo la mitad del movimiento. La vivificacion — alimentar activamente lo nuevo — es igualmente necesaria. Una vida definida solo por lo que evita, sin cultivar activamente la oracion, la Palabra, la comunidad, no esta creciendo — esta simplemente esperando.
 
 > [!WARNING]
-> **«Con solo pedirle a Dios, el me cambia sin que yo tenga que hacer nada distinto.»** Lutero fue claro: la participacion activa de la voluntad no es un obstaculo a la gracia sino el canal por el que la gracia obra.
+> 🙏 **«Con solo pedirle a Dios, el me cambia sin que yo tenga que hacer nada distinto.»** Lutero fue claro: la participacion activa de la voluntad no es un obstaculo a la gracia sino el canal por el que la gracia obra.
 
 </details>
 
@@ -105,10 +105,10 @@ Tomas de Aquino describio la gracia santificante como aquella que actua «para g
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«La oracion y leer la Biblia son para los muy espirituales — yo apenas soy nuevo.»** Precisamente porque son nuevos, los medios de gracia son mas urgentes, no menos. El recien nacido necesita leche inmediatamente — no despues de crecer.
+> 🎓 **«La oracion y leer la Biblia son para los muy espirituales — yo apenas soy nuevo.»** Precisamente porque son nuevos, los medios de gracia son mas urgentes, no menos. El recien nacido necesita leche inmediatamente — no despues de crecer.
 
 > [!WARNING]
-> **«Mientras ore y lea la Biblia, todo va bien — no importa mucho lo demas.»** Los medios de gracia son canales, no formulas magicas. Leer la Biblia sin que la Palabra interpele la vida concreta, o orar sin disposicion de entrega real, es usar los medios sin recibirlos.
+> 📋 **«Mientras ore y lea la Biblia, todo va bien — no importa mucho lo demas.»** Los medios de gracia son canales, no formulas magicas. Leer la Biblia sin que la Palabra interpele la vida concreta, o orar sin disposicion de entrega real, es usar los medios sin recibirlos.
 
 </details>
 
@@ -140,10 +140,10 @@ Es mas sabio que el Espiritu trabaje gradualmente para revelar la gama completa 
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Cuanto mas maduro eres, menos luchas.»** Lo opuesto es mas preciso. Leon I escribio que «ninguno de nosotros es tan perfecto y santo que no pueda ser mas perfecto.» Los que mas crecen son los mas conscientes de cuanto les falta — no porque esten peor, sino porque ven mas claro.
+> 📈 **«Cuanto mas maduro eres, menos luchas.»** Lo opuesto es mas preciso. Leon I escribio que «ninguno de nosotros es tan perfecto y santo que no pueda ser mas perfecto.» Los que mas crecen son los mas conscientes de cuanto les falta — no porque esten peor, sino porque ven mas claro.
 
 > [!WARNING]
-> **«Si sigo fallando en lo mismo, no tiene sentido seguir intentando.»** La tradicion clasica distingue entre caer en el camino y dar media vuelta. Caer no es apostasia — es parte de la carrera larga. Lo que importa es la direccion.
+> 🚶 **«Si sigo fallando en lo mismo, no tiene sentido seguir intentando.»** La tradicion clasica distingue entre caer en el camino y dar media vuelta. Caer no es apostasia — es parte de la carrera larga. Lo que importa es la direccion.
 
 </details>
 

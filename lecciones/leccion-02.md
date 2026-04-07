@@ -47,13 +47,13 @@ Hay tambien algo importante que distinguir: no todo lo que falla en el creyente 
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Si de verdad fueras salvo, ya no lucharias con eso.»** Este es uno de los errores mas daninos en comunidades cristianas. Implica que la ausencia de lucha es senal de madurez. Lo opuesto es mas cercano a la verdad: quien mas crece, mas consciente se vuelve de cuanto le falta.
+> 🏆 **«Si de verdad fueras salvo, ya no lucharias con eso.»** Este es uno de los errores mas daninos en comunidades cristianas. Implica que la ausencia de lucha es senal de madurez. Lo opuesto es mas cercano a la verdad: quien mas crece, mas consciente se vuelve de cuanto le falta.
 
 > [!WARNING]
-> **«Me converti pero sigo teniendo los mismos deseos — capaz no soy salvo.»** La conversion no borra los deseos desordenados de un golpe. Lo que cambia es la direccion y la presencia del Espiritu para pelear contra ellos. Galatas 5:17 describe esta tension como permanente en el creyente — no como una anomalia.
+> 😰 **«Me converti pero sigo teniendo los mismos deseos — capaz no soy salvo.»** La conversion no borra los deseos desordenados de un golpe. Lo que cambia es la direccion y la presencia del Espiritu para pelear contra ellos. Galatas 5:17 describe esta tension como permanente en el creyente — no como una anomalia.
 
 > [!WARNING]
-> **«Todo lo que me sale mal es pecado.»** Confundir finitud con pecado produce un escrupulo que paraliza. El pecado es desobediencia elegida a una verdad moral reconocida — no simplemente ser imperfecto.[^3]
+> 😩 **«Todo lo que me sale mal es pecado.»** Confundir finitud con pecado produce un escrupulo que paraliza. El pecado es desobediencia elegida a una verdad moral reconocida — no simplemente ser imperfecto.[^3]
 
 </details>
 
@@ -95,10 +95,10 @@ Crisostomo identifico cinco movimientos concretos en este camino: declarar los p
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«El arrepentimiento es solo sentirse muy mal por lo que hice.»** La tristeza sin reforma no es arrepentimiento completo. Hay tres movimientos: reconocer la propia corrupcion, afligirse genuinamente, y esforzarse por la enmienda de vida. Si falta cualquiera de los tres, el arrepentimiento no ha madurado.
+> 😭 **«El arrepentimiento es solo sentirse muy mal por lo que hice.»** La tristeza sin reforma no es arrepentimiento completo. Hay tres movimientos: reconocer la propia corrupcion, afligirse genuinamente, y esforzarse por la enmienda de vida. Si falta cualquiera de los tres, el arrepentimiento no ha madurado.
 
 > [!WARNING]
-> **«Arrepentirme tanto significa que no tengo fe suficiente.»** El arrepentimiento continuo no contradice la seguridad — la acompana. No es dudar del perdon; es tomarlo en serio.
+> 🤔 **«Arrepentirme tanto significa que no tengo fe suficiente.»** El arrepentimiento continuo no contradice la seguridad — la acompana. No es dudar del perdon; es tomarlo en serio.
 
 </details>
 
@@ -144,13 +144,13 @@ Leon I lo resumio con una imagen que une todo: «La misericordia quiere que seai
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Cada vez que peco pierdo la salvacion y tengo que volver a ganarla.»** Esto convierte la vida cristiana en una montana rusa segun la conducta del dia. Romanos 8:1 no tiene condiciones de desempeno. Lo que puede fluctuar es la calidad de la comunion — pero no el estatus de hijo.
+> 🎢 **«Cada vez que peco pierdo la salvacion y tengo que volver a ganarla.»** Esto convierte la vida cristiana en una montana rusa segun la conducta del dia. Romanos 8:1 no tiene condiciones de desempeno. Lo que puede fluctuar es la calidad de la comunion — pero no el estatus de hijo.
 
 > [!WARNING]
-> **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion en Romanos 6:1 y la rechazo de plano. La gracia no es licencia — es liberacion.
+> 😏 **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion en Romanos 6:1 y la rechazo de plano. La gracia no es licencia — es liberacion.
 
 > [!WARNING]
-> **«Ya no peco — eso quedo atras cuando me converti.»** La primera tesis de Lutero: «Toda la vida de los creyentes es una vida de arrepentimiento.»[^12] Fingir que ya no hay lucha no es madurez — es el comienzo de la hipocresia.
+> 🎭 **«Ya no peco — eso quedo atras cuando me converti.»** La primera tesis de Lutero: «Toda la vida de los creyentes es una vida de arrepentimiento.»[^12] Fingir que ya no hay lucha no es madurez — es el comienzo de la hipocresia.
 
 </details>
 

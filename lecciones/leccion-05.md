@@ -35,10 +35,10 @@ El resultado es que la Biblia contiene todo lo que se requiere para conocer a Di
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«La Biblia es un libro como cualquier otro — escrito por hombres con sus propias ideas.»** Los escritores si eran humanos, con sus propias personalidades e historias. Pero la ensenanza clasica es que el Espiritu trabajo a traves de esa humanidad, no a pesar de ella.
+> 📚 **«La Biblia es un libro como cualquier otro — escrito por hombres con sus propias ideas.»** Los escritores si eran humanos, con sus propias personalidades e historias. Pero la ensenanza clasica es que el Espiritu trabajo a traves de esa humanidad, no a pesar de ella.
 
 > [!WARNING]
-> **«La Biblia fue modificada y ya no es confiable.»** La iglesia se coloco voluntariamente bajo la autoridad del testimonio apostolico precisamente para protegerlo de distorsiones. Agustin lo expreso con claridad: «Cuando la entendemos, estamos en lo correcto. Pero cuando nos equivocamos porque no la hemos entendido, la dejamos en lo correcto.»
+> 🔧 **«La Biblia fue modificada y ya no es confiable.»** La iglesia se coloco voluntariamente bajo la autoridad del testimonio apostolico precisamente para protegerlo de distorsiones. Agustin lo expreso con claridad: «Cuando la entendemos, estamos en lo correcto. Pero cuando nos equivocamos porque no la hemos entendido, la dejamos en lo correcto.»
 
 </details>
 
@@ -70,10 +70,10 @@ La Palabra tambien funciona como «la espada del Espiritu» — corta los autoen
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Puedo tener al Espiritu sin necesitar la Biblia — Dios me habla directamente.»** La tradicion clasica advirtio especificamente contra esto. El Espiritu no conduce en ninguna direccion contraria a la Palabra que el mismo inspiro.
+> 💬 **«Puedo tener al Espiritu sin necesitar la Biblia — Dios me habla directamente.»** La tradicion clasica advirtio especificamente contra esto. El Espiritu no conduce en ninguna direccion contraria a la Palabra que el mismo inspiro.
 
 > [!WARNING]
-> **«La Biblia es para entenderla uno solo, cada quien a su manera.»** La Escritura pertenece a una comunidad, no solo a individuos. Toda interpretacion legitima debe ser consistente con la regla de fe — el nucleo de lo que los creyentes de todos los tiempos, en todos los lugares han creido.
+> 🙋 **«La Biblia es para entenderla uno solo, cada quien a su manera.»** La Escritura pertenece a una comunidad, no solo a individuos. Toda interpretacion legitima debe ser consistente con la regla de fe — el nucleo de lo que los creyentes de todos los tiempos, en todos los lugares han creido.
 
 </details>
 
@@ -105,10 +105,10 @@ El criterio de lectura es la analogia de la fe: los textos oscuros se iluminan a
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«La Biblia es tan complicada que yo no puedo entenderla — necesito que alguien me diga que significa.»** Lo que es necesario para la fe y la vida esta escrito con suficiente claridad para ser comprendido. Los maestros y la comunidad ayudan — pero no reemplazan la lectura personal.
+> 😵 **«La Biblia es tan complicada que yo no puedo entenderla — necesito que alguien me diga que significa.»** Lo que es necesario para la fe y la vida esta escrito con suficiente claridad para ser comprendido. Los maestros y la comunidad ayudan — pero no reemplazan la lectura personal.
 
 > [!WARNING]
-> **«El Antiguo Testamento ya no aplica — eso era para otra epoca.»** Ambos Testamentos son recibidos por la iglesia como escritura sagrada. El Antiguo Testamento es el contexto sin el cual el Nuevo Testamento no se entiende.
+> 🗑️ **«El Antiguo Testamento ya no aplica — eso era para otra epoca.»** Ambos Testamentos son recibidos por la iglesia como escritura sagrada. El Antiguo Testamento es el contexto sin el cual el Nuevo Testamento no se entiende.
 
 </details>
 
@@ -140,10 +140,10 @@ Por eso la tradicion clasica valoro tanto la lectura de la Escritura en comunida
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Con solo leer la Biblia, automaticamente crezco.»** La lectura sin recepcion activa no transforma. Quien lee la Biblia como si fuera un texto academico sin apertura a ser interpelado, no esta recibiendo la Palabra — solo la esta procesando.
+> 🤖 **«Con solo leer la Biblia, automaticamente crezco.»** La lectura sin recepcion activa no transforma. Quien lee la Biblia como si fuera un texto academico sin apertura a ser interpelado, no esta recibiendo la Palabra — solo la esta procesando.
 
 > [!WARNING]
-> **«Ya lei la Biblia — ya se lo que necesito saber.»** La Escritura no es un deposito de informacion que se agota cuando se termina de leer. Es una Palabra viva que habla de manera diferente en distintos momentos de la vida.
+> 🎓 **«Ya lei la Biblia — ya se lo que necesito saber.»** La Escritura no es un deposito de informacion que se agota cuando se termina de leer. Es una Palabra viva que habla de manera diferente en distintos momentos de la vida.
 
 </details>
 

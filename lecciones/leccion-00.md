@@ -36,10 +36,10 @@ Juan Damasceno lo expresó así: "Dios ha implantado el conocimiento de su exist
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Yo no soy religioso — no creo en nada.»** No existe esa posición. La pregunta no es si creer sino en qué. Quien dice no creer en Dios generalmente cree con igual fervor en la razón, en la ciencia, en la bondad humana, en el progreso — esas son sus dioses. La pregunta no es si hay un centro de valor en la vida, sino si ese centro puede sostener el peso que se le pone encima.
+> 🤷 **«Yo no soy religioso — no creo en nada.»** No existe esa posición. La pregunta no es si creer sino en qué. Quien dice no creer en Dios generalmente cree con igual fervor en la razón, en la ciencia, en la bondad humana, en el progreso — esas son sus dioses. La pregunta no es si hay un centro de valor en la vida, sino si ese centro puede sostener el peso que se le pone encima.
 
 > [!WARNING]
-> **«La religión es un invento humano para explicar lo que no entendemos.»** Incluso si uno acepta que las formas religiosas son construcciones humanas, la pregunta que permanece es por qué todas las culturas humanas en toda la historia han construido exactamente esas construcciones. El hambre de Dios que produce esas construcciones requiere su propia explicación.[^1]
+> 🧪 **«La religión es un invento humano para explicar lo que no entendemos.»** Incluso si uno acepta que las formas religiosas son construcciones humanas, la pregunta que permanece es por qué todas las culturas humanas en toda la historia han construido exactamente esas construcciones. El hambre de Dios que produce esas construcciones requiere su propia explicación.[^1]
 
 </details>
 
@@ -83,10 +83,10 @@ La diferencia del cristianismo no está en hacer mejores preguntas — está en 
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Todas las religiones llevan al mismo lugar — son caminos diferentes hacia la misma cumbre.»** Esta posición suena tolerante pero es en realidad condescendiente con todas las religiones — las vacía de sus afirmaciones específicas y las convierte en variaciones de una misma idea difusa. El budismo y el cristianismo, por ejemplo, no dicen lo mismo sobre el yo, sobre la salvación ni sobre Dios. Tratarlos como equivalentes es no tomarse en serio lo que cada uno afirma.
+> 🔀 **«Todas las religiones llevan al mismo lugar — son caminos diferentes hacia la misma cumbre.»** Esta posición suena tolerante pero es en realidad condescendiente con todas las religiones — las vacía de sus afirmaciones específicas y las convierte en variaciones de una misma idea difusa. El budismo y el cristianismo, por ejemplo, no dicen lo mismo sobre el yo, sobre la salvación ni sobre Dios. Tratarlos como equivalentes es no tomarse en serio lo que cada uno afirma.
 
 > [!WARNING]
-> **«El cristianismo es una religión más — ¿por qué sería diferente?»** Porque hace una afirmación que ninguna otra religión hace de la misma manera: que Dios mismo entró a la historia en una persona específica, en un lugar específico, en un momento datable. Eso no es una variación de una idea universal. Es un acontecimiento que o bien ocurrió o no ocurrió.
+> ⚖️ **«El cristianismo es una religión más — ¿por qué sería diferente?»** Porque hace una afirmación que ninguna otra religión hace de la misma manera: que Dios mismo entró a la historia en una persona específica, en un lugar específico, en un momento datable. Eso no es una variación de una idea universal. Es un acontecimiento que o bien ocurrió o no ocurrió.
 
 </details>
 
@@ -121,10 +121,10 @@ La afirmación cristiana no es que Jesús enseñó ideas importantes sobre Dios.
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Jesús fue un gran maestro moral — no hace falta creer que era Dios.»** Esta posición no puede sostenerse leyendo los evangelios. Un hombre que dice ser uno con el Padre, que perdona pecados como si fuera Dios, que promete que vendrá a juzgar a todos los seres humanos — ese hombre o es lo que dice ser, o es un lunático, o es un mentiroso. No existe la opción de un Jesús simplemente admirable pero meramente humano.
+> 👨‍🏫 **«Jesús fue un gran maestro moral — no hace falta creer que era Dios.»** Esta posición no puede sostenerse leyendo los evangelios. Un hombre que dice ser uno con el Padre, que perdona pecados como si fuera Dios, que promete que vendrá a juzgar a todos los seres humanos — ese hombre o es lo que dice ser, o es un lunático, o es un mentiroso. No existe la opción de un Jesús simplemente admirable pero meramente humano.
 
 > [!WARNING]
-> **«Nadie sabe realmente cómo fue Jesús — los evangelios fueron escritos mucho después.»** La investigación histórica más seria confirma que los documentos del Nuevo Testamento son los más antiguos y mejor atestiguados del mundo antiguo. Los testigos oculares vivían cuando se escribieron.
+> 🕵️ **«Nadie sabe realmente cómo fue Jesús — los evangelios fueron escritos mucho después.»** La investigación histórica más seria confirma que los documentos del Nuevo Testamento son los más antiguos y mejor atestiguados del mundo antiguo. Los testigos oculares vivían cuando se escribieron.
 
 </details>
 
@@ -159,10 +159,10 @@ Agustín lo vivió antes de formularlo: «Nos hiciste para ti, y nuestro corazó
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«La salvación es solo seguir las enseñanzas de Jesús — una vida mejor.»** Las enseñanzas de Jesús sin su persona son inalcanzables e insostenibles. El Sermón del Monte, leído honestamente, no produce consuelo sino desesperanza — exige una perfección que ningún ser humano puede sostener por esfuerzo propio.
+> 🛤️ **«La salvación es solo seguir las enseñanzas de Jesús — una vida mejor.»** Las enseñanzas de Jesús sin su persona son inalcanzables e insostenibles. El Sermón del Monte, leído honestamente, no produce consuelo sino desesperanza — exige una perfección que ningún ser humano puede sostener por esfuerzo propio.
 
 > [!WARNING]
-> **«El cristianismo es excluyente — ¿cómo puede un solo camino ser el verdadero?»** Si Cristo resucitó, eso no es una verdad para los que prefieren creerla — es un hecho que interpela a todos. La pregunta no es si eso es excluyente, sino si es verdad.
+> 🚪 **«El cristianismo es excluyente — ¿cómo puede un solo camino ser el verdadero?»** Si Cristo resucitó, eso no es una verdad para los que prefieren creerla — es un hecho que interpela a todos. La pregunta no es si eso es excluyente, sino si es verdad.
 
 </details>
 

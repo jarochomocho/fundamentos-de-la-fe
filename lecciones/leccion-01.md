@@ -51,16 +51,16 @@ El estandar que usa Pablo no es comparativo — no es «mas pecador que el vecin
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Pecar es caer en vicios externos — tomar, mentir, perder el control.»** El criterio no es la apariencia del acto sino si hay o no confianza y conexion con Dios. Toda accion que carezca de esa orientacion hacia Dios es, por definicion, hamartia — estar fuera de lugar. Alguien puede evitar todos los vicios y aun asi vivir completamente desconectado del Dador de vida.
+> 🎭 **«Pecar es caer en vicios externos — tomar, mentir, perder el control.»** El criterio no es la apariencia del acto sino si hay o no confianza y conexion con Dios. Toda accion que carezca de esa orientacion hacia Dios es, por definicion, hamartia — estar fuera de lugar. Alguien puede evitar todos los vicios y aun asi vivir completamente desconectado del Dador de vida.
 
 > [!WARNING]
-> **«El pecado es solo las cosas grandes — matar, robar, adulterio.»** Reducir el pecado a una lista de infracciones graves deja intacta la orientacion del corazon. Alguien puede no cometer ninguna de esas cosas y vivir completamente centrado en si mismo — que es exactamente la raiz de todo pecado.
+> 📏 **«El pecado es solo las cosas grandes — matar, robar, adulterio.»** Reducir el pecado a una lista de infracciones graves deja intacta la orientacion del corazon. Alguien puede no cometer ninguna de esas cosas y vivir completamente centrado en si mismo — que es exactamente la raiz de todo pecado.
 
 > [!WARNING]
-> **«Yo no soy tan pecador — nunca he hecho nada realmente malo.»** La comparacion horizontal siempre encuentra a alguien peor. Pero el estandar no es el vecino sino la gloria de Dios. Desde ese estandar, Jeremias 17:9 no hace excepciones: el corazon humano es enganoso — incluyendo el del que se cree bueno.
+> 😇 **«Yo no soy tan pecador — nunca he hecho nada realmente malo.»** La comparacion horizontal siempre encuentra a alguien peor. Pero el estandar no es el vecino sino la gloria de Dios. Desde ese estandar, Jeremias 17:9 no hace excepciones: el corazon humano es enganoso — incluyendo el del que se cree bueno.
 
 > [!WARNING]
-> **«El problema es el ambiente, la familia, la crianza.»** El contexto influye pero no determina. El pecado no es causado por los padres, la herencia o el temperamento — es finalmente una decision de la propia libertad. Asumir responsabilidad personal es el corazon del arrepentimiento.
+> 🏠 **«El problema es el ambiente, la familia, la crianza.»** El contexto influye pero no determina. El pecado no es causado por los padres, la herencia o el temperamento — es finalmente una decision de la propia libertad. Asumir responsabilidad personal es el corazon del arrepentimiento.
 
 </details>
 
@@ -104,10 +104,10 @@ Cirilo de Jerusalen lo dijo con precision: «A Dios le corresponde conceder la g
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Yo llegue a Dios por mi cuenta — fue mi decision sola.»** Incluso la capacidad de decidir fue posibilitada por la gracia que ya estaba trabajando antes. La decision fue real — pero no surgio de la nada.
+> 💪 **«Yo llegue a Dios por mi cuenta — fue mi decision sola.»** Incluso la capacidad de decidir fue posibilitada por la gracia que ya estaba trabajando antes. La decision fue real — pero no surgio de la nada.
 
 > [!WARNING]
-> **«Dios me amara cuando me porte mejor.»** Esto invierte el evangelio completamente. Romanos 5:8 es explicito: Cristo murio por nosotros cuando todavia eramos pecadores. El amor de Dios no es la recompensa por la mejora — es la fuente que la hace posible.
+> 📊 **«Dios me amara cuando me porte mejor.»** Esto invierte el evangelio completamente. Romanos 5:8 es explicito: Cristo murio por nosotros cuando todavia eramos pecadores. El amor de Dios no es la recompensa por la mejora — es la fuente que la hace posible.
 
 </details>
 
@@ -151,10 +151,10 @@ Santiago 2:19 muestra el limite del asentimiento solo: «los demonios creen que 
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«El arrepentimiento es solo para cuando haces algo muy grave.»** La primera tesis de Lutero es que «toda la vida de los creyentes es una vida de arrepentimiento.»[^9] No porque nunca avancen, sino porque el crecimiento produce mayor consciencia de la distancia que aun falta.
+> 🚨 **«El arrepentimiento es solo para cuando haces algo muy grave.»** La primera tesis de Lutero es que «toda la vida de los creyentes es una vida de arrepentimiento.»[^9] No porque nunca avancen, sino porque el crecimiento produce mayor consciencia de la distancia que aun falta.
 
 > [!WARNING]
-> **«Creer es estar de acuerdo con que Dios existe.»** Creer sin cambio no es metanoia completa. Hasta el diablo cree en Dios. Lo que falta es el tercer movimiento — la decision de la voluntad de caminar diferente.
+> 🧠 **«Creer es estar de acuerdo con que Dios existe.»** Creer sin cambio no es metanoia completa. Hasta el diablo cree en Dios. Lo que falta es el tercer movimiento — la decision de la voluntad de caminar diferente.
 
 </details>
 
@@ -196,10 +196,10 @@ La justificacion es la declaracion de Dios de que el creyente es tratado como ju
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«La salvacion se puede perder cada vez que peco.»** Esto convierte la vida cristiana en una montana rusa segun la conducta del dia. "Ya no hay condenacion para los que pertenecen a Cristo Jesus" (Romanos 8:1, NTV) — sin condiciones de desempeno. Lo que puede fluctuar es la calidad de la comunion — pero no el estatus de hijo.
+> 🎢 **«La salvacion se puede perder cada vez que peco.»** Esto convierte la vida cristiana en una montana rusa segun la conducta del dia. "Ya no hay condenacion para los que pertenecen a Cristo Jesus" (Romanos 8:1, NTV) — sin condiciones de desempeno. Lo que puede fluctuar es la calidad de la comunion — pero no el estatus de hijo.
 
 > [!WARNING]
-> **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion y la rechazo de plano: "¿Debemos seguir pecando para que Dios pueda mostrarnos mas y mas su gracia maravillosa? ¡Por supuesto que no!" (Romanos 6:1-2, NTV). La gracia no es licencia — es liberacion. Quien genuinamente entendio de que fue librado no quiere volver a eso.
+> 😏 **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion y la rechazo de plano: "¿Debemos seguir pecando para que Dios pueda mostrarnos mas y mas su gracia maravillosa? ¡Por supuesto que no!" (Romanos 6:1-2, NTV). La gracia no es licencia — es liberacion. Quien genuinamente entendio de que fue librado no quiere volver a eso.
 
 </details>
 
