@@ -140,10 +140,10 @@ Por eso la tradicion clasica valoro tanto la lectura de la Escritura en comunida
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> 📖 **«Con solo leer la Biblia, automaticamente crezco.»** La lectura sin recepcion activa no transforma. Quien lee la Biblia como si fuera un texto academico sin apertura a ser interpelado, no esta recibiendo la Palabra — solo la esta procesando.
+> 🤖 **«Con solo leer la Biblia, automaticamente crezco.»** La lectura sin recepcion activa no transforma. Quien lee la Biblia como si fuera un texto academico sin apertura a ser interpelado, no esta recibiendo la Palabra — solo la esta procesando.
 
 > [!WARNING]
-> ✅ **«Ya lei la Biblia — ya se lo que necesito saber.»** La Escritura no es un deposito de informacion que se agota cuando se termina de leer. Es una Palabra viva que habla de manera diferente en distintos momentos de la vida.
+> 🎓 **«Ya lei la Biblia — ya se lo que necesito saber.»** La Escritura no es un deposito de informacion que se agota cuando se termina de leer. Es una Palabra viva que habla de manera diferente en distintos momentos de la vida.
 
 </details>
 

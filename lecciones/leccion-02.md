@@ -147,7 +147,7 @@ Leon I lo resumio con una imagen que une todo: «La misericordia quiere que seai
 > 🎢 **«Cada vez que peco pierdo la salvacion y tengo que volver a ganarla.»** Esto convierte la vida cristiana en una montana rusa segun la conducta del dia. Romanos 8:1 no tiene condiciones de desempeno. Lo que puede fluctuar es la calidad de la comunion — pero no el estatus de hijo.
 
 > [!WARNING]
-> 🛋️ **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion en Romanos 6:1 y la rechazo de plano. La gracia no es licencia — es liberacion.
+> 😏 **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion en Romanos 6:1 y la rechazo de plano. La gracia no es licencia — es liberacion.
 
 > [!WARNING]
 > 🎭 **«Ya no peco — eso quedo atras cuando me converti.»** La primera tesis de Lutero: «Toda la vida de los creyentes es una vida de arrepentimiento.»[^12] Fingir que ya no hay lucha no es madurez — es el comienzo de la hipocresia.

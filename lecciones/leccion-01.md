@@ -195,7 +195,7 @@ La justificacion es la declaracion de Dios de que el creyente es tratado como ju
 > 🎢 **«La salvacion se puede perder cada vez que peco.»** Esto convierte la vida cristiana en una montana rusa segun la conducta del dia. "Ya no hay condenacion para los que pertenecen a Cristo Jesus" (Romanos 8:1, NTV) — sin condiciones de desempeno. Lo que puede fluctuar es la calidad de la comunion — pero no el estatus de hijo.
 
 > [!WARNING]
-> 🛋️ **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion y la rechazo de plano: "¿Debemos seguir pecando para que Dios pueda mostrarnos mas y mas su gracia maravillosa? ¡Por supuesto que no!" (Romanos 6:1-2, NTV). La gracia no es licencia — es liberacion. Quien genuinamente entendio de que fue librado no quiere volver a eso.
+> 😏 **«Como la gracia cubre todo, puedo pecar tranquilo.»** Pablo anticipo exactamente esta conclusion y la rechazo de plano: "¿Debemos seguir pecando para que Dios pueda mostrarnos mas y mas su gracia maravillosa? ¡Por supuesto que no!" (Romanos 6:1-2, NTV). La gracia no es licencia — es liberacion. Quien genuinamente entendio de que fue librado no quiere volver a eso.
 
 </details>
 

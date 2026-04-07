@@ -97,7 +97,7 @@ El resultado visible es el fruto: «El fruto del Espiritu es amor, alegria, paz,
 > ✨ **«Desde que recibi el Espiritu ya soy una persona completamente diferente en todo.»** La transformacion es real pero no instantanea ni total en esta vida. El Espiritu aviva las facultades y las redirige — pero la vieja naturaleza sigue resistiendo.
 
 > [!WARNING]
-> 🛋️ **«Si el Espiritu me cambia, yo no tengo que hacer nada.»** El Espiritu no coacciona — atrae, persuade, habilita. La cooperacion activa de la voluntad es parte del proceso, no un obstaculo a la obra del Espiritu.
+> 😴 **«Si el Espiritu me cambia, yo no tengo que hacer nada.»** El Espiritu no coacciona — atrae, persuade, habilita. La cooperacion activa de la voluntad es parte del proceso, no un obstaculo a la obra del Espiritu.
 
 </details>
 

@@ -108,7 +108,7 @@ Tomas de Aquino describio la gracia santificante como aquella que actua «para g
 > 🎓 **«La oracion y leer la Biblia son para los muy espirituales — yo apenas soy nuevo.»** Precisamente porque son nuevos, los medios de gracia son mas urgentes, no menos. El recien nacido necesita leche inmediatamente — no despues de crecer.
 
 > [!WARNING]
-> ✅ **«Mientras ore y lea la Biblia, todo va bien — no importa mucho lo demas.»** Los medios de gracia son canales, no formulas magicas. Leer la Biblia sin que la Palabra interpele la vida concreta, o orar sin disposicion de entrega real, es usar los medios sin recibirlos.
+> 📋 **«Mientras ore y lea la Biblia, todo va bien — no importa mucho lo demas.»** Los medios de gracia son canales, no formulas magicas. Leer la Biblia sin que la Palabra interpele la vida concreta, o orar sin disposicion de entrega real, es usar los medios sin recibirlos.
 
 </details>
 
