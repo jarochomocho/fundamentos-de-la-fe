@@ -35,10 +35,10 @@ Gregorio Nacianceno lo capturo en una de las imagenes mas reveladoras del Nuevo 
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Si Dios ya sabe todo, ¿para que orar? De todas formas hara lo que quiera.»** Precisamente porque Dios si responde, la oracion es el canal por el que los fieles participan de la obra de Dios en la historia. Jesus mismo enseno a pedir — eso solo tiene sentido si el pedir importa.
+> 🎰 **«Si Dios ya sabe todo, ¿para que orar? De todas formas hara lo que quiera.»** Precisamente porque Dios si responde, la oracion es el canal por el que los fieles participan de la obra de Dios en la historia. Jesus mismo enseno a pedir — eso solo tiene sentido si el pedir importa.
 
 > [!WARNING]
-> **«Orar es hablar en el aire — nadie responde realmente.»** La tradicion clasica no trata la oracion como un monologo emocional sino como un dialogo real. Dios responde — no siempre de la manera esperada, pero si de maneras que la fe aprende a reconocer.
+> 🌬️ **«Orar es hablar en el aire — nadie responde realmente.»** La tradicion clasica no trata la oracion como un monologo emocional sino como un dialogo real. Dios responde — no siempre de la manera esperada, pero si de maneras que la fe aprende a reconocer.
 
 </details>
 
@@ -68,10 +68,10 @@ Cuando ese grito «¡Abba, Padre!» surge espontaneamente de lo profundo del cor
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Para orar bien hay que usar palabras especiales o una formula correcta.»** La ensenanza clasica apunta exactamente en la direccion opuesta. La senal mas genuina de la vida en el Espiritu es ese grito simple — «¡Padre!» — que brota del corazon. La oracion mas autentica no siempre es la mas elaborada.
+> 📝 **«Para orar bien hay que usar palabras especiales o una formula correcta.»** La ensenanza clasica apunta exactamente en la direccion opuesta. La senal mas genuina de la vida en el Espiritu es ese grito simple — «¡Padre!» — que brota del corazon. La oracion mas autentica no siempre es la mas elaborada.
 
 > [!WARNING]
-> **«Dios solo escucha a los que se portan bien — si falle esta semana, para que orar.»** Esto invierte el evangelio. La base de acceso al Padre no es la conducta del creyente sino la intercesion de Cristo. Hebreos 4:16 no dice «acercate si mereces» — dice «acerquemonos con toda confianza.»
+> 📊 **«Dios solo escucha a los que se portan bien — si falle esta semana, para que orar.»** Esto invierte el evangelio. La base de acceso al Padre no es la conducta del creyente sino la intercesion de Cristo. Hebreos 4:16 no dice «acercate si mereces» — dice «acerquemonos con toda confianza.»
 
 </details>
 
@@ -103,10 +103,10 @@ La oracion tambien forma. Gregorio de Nisa senalo que la peticion «venga tu rei
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«No se orar — no tengo las palabras correctas.»** Precisamente para eso existe la promesa de Romanos 8:26. La incapacidad de articular no es un obstaculo — puede ser el lugar donde la oracion mas genuina ocurre.
+> 🤐 **«No se orar — no tengo las palabras correctas.»** Precisamente para eso existe la promesa de Romanos 8:26. La incapacidad de articular no es un obstaculo — puede ser el lugar donde la oracion mas genuina ocurre.
 
 > [!WARNING]
-> **«Tengo que sentir algo especial para que la oracion cuente.»** La tradicion clasica no ancla la eficacia de la oracion en los sentimientos del creyente sino en la fidelidad de Dios y la intercesion del Espiritu.
+> 💓 **«Tengo que sentir algo especial para que la oracion cuente.»** La tradicion clasica no ancla la eficacia de la oracion en los sentimientos del creyente sino en la fidelidad de Dios y la intercesion del Espiritu.
 
 </details>
 
@@ -138,10 +138,10 @@ El Segundo Concilio de Mileto fue explicito: el Padre Nuestro presupone que el p
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> **«Ore y no paso nada — Dios no escucho.»** La oracion no es un mecanismo de causa y efecto inmediato. Teodoreto lo senala con precision: «Si alguien pide algo que no contribuye a su bien, no lo obtendra, porque no es bueno para el obtenerlo.» La fe aprende a distinguir entre «Dios no escucho» y «Dios respondio de manera diferente.»
+> 🔇 **«Ore y no paso nada — Dios no escucho.»** La oracion no es un mecanismo de causa y efecto inmediato. Teodoreto lo senala con precision: «Si alguien pide algo que no contribuye a su bien, no lo obtendra, porque no es bueno para el obtenerlo.» La fe aprende a distinguir entre «Dios no escucho» y «Dios respondio de manera diferente.»
 
 > [!WARNING]
-> **«La oracion es para pedir cosas — si no necesito nada, no tengo que orar.»** La oracion que reduce todo a peticiones pierde la mayor parte de su naturaleza. La adoracion, la accion de gracias, la confesion y la intercesion por otros son parte integral de la vida de oracion.
+> 🛒 **«La oracion es para pedir cosas — si no necesito nada, no tengo que orar.»** La oracion que reduce todo a peticiones pierde la mayor parte de su naturaleza. La adoracion, la accion de gracias, la confesion y la intercesion por otros son parte integral de la vida de oracion.
 
 </details>
 
