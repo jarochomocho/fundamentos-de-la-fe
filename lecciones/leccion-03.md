@@ -25,13 +25,13 @@
 </details>
 
 <details>
-<summary><b>Preguntas para grupos pequeños</b></summary>
+<summary><b>Preguntas para grupos pequenos</b></summary>
 
-**Jesus murio y resucito — eso ya paso. Pero segun este versiculo, ¿quien es el que hace que lo que Cristo hizo se vuelva real dentro de ti?**
+**Cristo murio y resucito hace dos mil anos. Segun Romanos 8:11, ¿quien hace que eso no se quede en el pasado sino que se vuelva real en tu vida hoy?**
 
-**¿Ha habido algun momento en tu vida donde sentiste que alguien mas que tu te sostuvo — que no ibas solo en algo dificil? ¿Como fue eso?**
+**Si el Espiritu no existiera y la salvacion fuera como seguir un manual de instrucciones por tu cuenta — ¿que crees que pasaria con la mayoria de la gente?**
 
-**★** El mismo Espiritu Santo que resucito a Jesus vive en ti. ¿Que diferencia habria entre alguien que solo conoce la historia de Jesus como dato, y alguien en quien el ya vive? ¿Se verian igual por fuera?
+**★** Romanos 8:11 dice que el mismo poder que levanto a Jesus de la muerte esta viviendo en ti ahora mismo. ¿Vives como si eso fuera cierto — o la mayoria del tiempo se te olvida que ese poder ya esta adentro?
 
 </details>
 
@@ -40,6 +40,8 @@
 El Hijo realizo la obra de salvacion. El Espiritu la aplica. Ambrosio lo dijo con precision: «La regeneracion es obra del Espiritu Santo, y el Espiritu es el Autor de ese hombre nuevo. El Autor no esta sin el don, ni el don sin el Autor.»[^1]
 
 Basilio resumio el alcance de esa obra asi: «Por medio del Espiritu Santo viene nuestra restauracion al paraiso, nuestra ascension al reino de los cielos, nuestro retorno a la adopcion de hijos, nuestra libertad de llamar a Dios nuestro Padre, nuestro ser hechos participes de la gracia de Cristo.»[^2]
+
+La estructura trinitaria lo ordena todo: el Padre origina el plan de salvacion, el Hijo lo ejecuta en la cruz y la resurreccion, y el Espiritu lo consuma haciendolo real en la historia de cada persona. «El Padre ama a los que han caido, el Hijo redime a los que han sido amados, y el Espiritu Santo llama y ensena a los que han sido redimidos.»[^3]
 
 Lo que ocurrio en la cruz fue decisivo — pero todavia tenia que volverse real adentro. Esa es la mision del Espiritu.
 
@@ -56,54 +58,105 @@ Lo que ocurrio en la cruz fue decisivo — pero todavia tenia que volverse real 
 
 ---
 
-### El Espiritu transforma, no reemplaza
+### El Espiritu es persona, no fuerza — y actua como persona
 
 **Versiculo ancla**
 
-> "Les dare un corazon nuevo y pondre un espiritu nuevo dentro de ustedes. Les quitare ese terco corazon de piedra y les dare un corazon tierno y receptivo." — Ezequiel 36:26 (NTV)
+> "Y no entristezcan al Espiritu Santo de Dios con la forma en que viven. Recuerden que el los identifico como suyos, y asi les ha garantizado que seran salvos el dia de la redencion." — Efesios 4:30 (NTV)
 
 <details open>
 <summary><b>Versiculos de apoyo</b></summary>
 
-> "Mi antiguo yo ha sido crucificado con Cristo. Ya no vivo yo, sino que Cristo vive en mi." — Galatas 2:20 (NTV)
+> "Pero el Consolador, el Espiritu Santo, a quien el Padre enviara en mi nombre, les ensenara todas las cosas y les hara recordar todo lo que les he dicho." — Juan 14:26 (NTV)
 
-> "Esto significa que todo el que pertenece a Cristo se ha convertido en una persona nueva. La vida antigua ha pasado; ¡una nueva vida ha comenzado!" — 2 Corintios 5:17 (NTV)
+> "Porque el Espiritu Santo les ensenara en ese momento lo que se debe decir." — Lucas 12:12 (NTV)
 
 </details>
 
 <details>
-<summary><b>Preguntas para grupos pequeños</b></summary>
+<summary><b>Preguntas para grupos pequenos</b></summary>
 
-**Dios no promete darte una personalidad completamente nueva — promete transformar la que ya tienes. ¿Que diferencia hay entre cambiar a alguien y transformarlo?**
+**Pablo dice que al Espiritu se le puede entristecer (Efesios 4:30). ¿Que nos dice eso sobre quien es el Espiritu — se puede entristecer a una fuerza o solo a una persona?**
 
-**El fruto del Espiritu Santo — amor, paz, paciencia — no es una lista de cosas que tienes que esforzarte en cumplir. ¿Como explicarias esa diferencia a alguien que piensa que ser cristiano es portarse bien?**
+**Si descubrieras que alguien ha estado viviendo en tu casa todo este tiempo y tu nunca le habias dirigido la palabra — ni para saludar, ni para pedir ayuda, ni para escucharlo — ¿como describirias esa relacion? ¿Se parece a como algunos creyentes viven con el Espiritu?**
 
-**★** El Espiritu Santo tomo a pescadores y los uso para ganar al mundo; tomo a cobradores de impuestos y los hizo discipulos. ¿Que parte de quien tu eres — tu forma de ser, tu historia, tu trabajo — crees que el podria redirigir sin borrarte?
+**★** De todas las cosas que el Espiritu hace como persona — ensenar, consolar, guiar, convencer de pecado, repartir dones — ¿cual sientes que mas necesitas en esta etapa de tu vida?
 
 </details>
 
 #### Ideas centrales
 
-El Espiritu no borra la personalidad del creyente ni actua sin su voluntad. Lo que hace es transformar las facultades que ya existian — la mente, el corazon, la voluntad — que se habian marchitado en la historia del pecado.
+Una de las confusiones mas comunes sobre el Espiritu Santo es tratarlo como una energia — una fuerza, una influencia, un sentimiento. Pero la Escritura le atribuye cosas que solo le pueden pasar a una persona: ensena (Juan 14:26), guia (Romanos 8:14), intercede (Romanos 8:26), se enoja (Isaias 63:10), se entristece (Efesios 4:30), habla (Hechos 8:29), comisiona (Hechos 20:28) y reparte dones como el quiere (1 Corintios 12:11).
 
-Gregorio Nacianceno lo describio con imagenes concretas: el Espiritu «toma posesion de un pastor y lo hace salmista; si toma posesion de los pescadores, hace que capturen al mundo entero en las redes de Cristo; si de los publicanos, los aprovecha para el discipulado y los hace mercaderes de almas.»[^3] No reemplaza a la persona — la redirige completamente.
+Basilio lo puso en terminos sencillos: solo a una persona se le puede mentir — nadie puede mentirle a una piedra o a un vegetal, porque ahi no hay nadie que escuche. Ananias no estaba en problemas por mentirle a Pedro, sino por mentirle al Espiritu Santo. Y quien miente al Espiritu, miente a Dios.[^4]
 
-El resultado visible es el fruto: «El fruto del Espiritu es amor, alegria, paz, paciencia, amabilidad, bondad, fe, mansedumbre y dominio propio» (Galatas 5:22).[^4] No es una lista de esfuerzos — es lo que naturalmente crece cuando el Espiritu habita y trabaja.
+Juan Damasceno lo describio como alguien «dotado de libre voluntad y energia, companero de la Palabra y revelador de su poder.»[^5] No es una cosa que se usa — es alguien que actua, decide, habla y responde.
+
+Esto importa porque cambia como nos relacionamos con el. No se administra una fuerza — se responde a una persona. Y a una persona se le puede ignorar, resistir, entristecer — o escuchar, obedecer y seguir.
 
 <details>
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> ✨ **«Desde que recibi el Espiritu ya soy una persona completamente diferente en todo.»** La transformacion es real pero no instantanea ni total en esta vida. El Espiritu aviva las facultades y las redirige — pero la vieja naturaleza sigue resistiendo.
+> 🙏 **«El Espiritu Santo es algo que sientes en la adoracion — cuando se va el sentimiento, se fue el Espiritu.»** El Espiritu no es un sentimiento. Es una persona que sigue presente aunque no sientas nada. Basilio lo comparo con un rayo de sol que ilumina a quien lo disfruta como si fuera solo para el, pero que nunca deja de brillar.[^6] La presencia del Espiritu no depende de tu estado emocional.
 
 > [!WARNING]
-> 😴 **«Si el Espiritu me cambia, yo no tengo que hacer nada.»** El Espiritu no coacciona — atrae, persuade, habilita. La cooperacion activa de la voluntad es parte del proceso, no un obstaculo a la obra del Espiritu.
+> 🤖 **«El Espiritu Santo actua solo — yo no tengo que hacer nada.»** El Espiritu no obliga — invita, persuade, habilita. Pero espera respuesta. Se le puede resistir (Hechos 7:51), ignorar, o entristecer con la forma en que vivimos (Efesios 4:30). Que sea persona significa que la relacion va en dos direcciones: el actua, pero nosotros respondemos.
 
 </details>
 
 ---
 
-### El Espiritu mora y sella
+### El fruto del Espiritu: lo que crece cuando el habita
+
+**Versiculo ancla**
+
+> "En cambio, el fruto del Espiritu es: amor, alegria, paz, paciencia, gentileza, bondad, fidelidad, humildad y dominio propio. No existe ley contra esas cosas." — Galatas 5:22-23 (NTV)
+
+<details open>
+<summary><b>Versiculos de apoyo</b></summary>
+
+> "Los que son de Cristo Jesus han crucificado la naturaleza pecaminosa con sus pasiones y deseos. Si vivimos por el Espiritu, andemos tambien por el Espiritu." — Galatas 5:24-25 (NTV)
+
+> "Las obras de la naturaleza pecaminosa se conocen bien: inmoralidad sexual, impureza, libertinaje, idolatria, hechiceria, odio, discordia, celos, arrebatos de ira, rivalidades, disensiones, sectarismos, envidia, borracheras, orgias, y cosas semejantes." — Galatas 5:19-21 (NTV)
+
+</details>
+
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
+
+**Lee la lista de las obras de la carne en Galatas 5:19-21. ¿Cuantas de esas cosas le echamos la culpa al diablo o a las circunstancias, en vez de reconocer que salen de nosotros mismos?**
+
+**Si alguien que no es creyente observara tu vida durante un mes sin que tu supieras, ¿podria notar algun fruto del Espiritu — amor, paciencia, dominio propio — que no se explicara solo por tu personalidad o tu educacion?**
+
+**★** De la lista del fruto del Espiritu — amor, alegria, paz, paciencia, gentileza, bondad, fidelidad, humildad, dominio propio — ¿cual sientes que esta creciendo en ti, aunque sea lentamente? ¿Cual sientes que todavia no aparece?
+
+</details>
+
+#### Ideas centrales
+
+Pablo no presenta el fruto del Espiritu como una lista de tareas — lo presenta como lo que naturalmente crece cuando el Espiritu habita y trabaja.[^7] Es fruto, no fabricacion. La imagen es organica: asi como las hojas muertas caen de un arbol, las obras de la carne — odio, envidia, ira, discordia — se van soltando poco a poco. Y a medida que surge el nuevo brote, aparecen los frutos de la vida nueva: amor, gozo, paz, paciencia.[^8]
+
+Crisostomo observo que todas estas formas de vivir se hacen mas faciles y mas naturales por el poder del Espiritu, de quien brotan como fruto de un arbol sano.[^8]
+
+Gregorio Nacianceno describio esta transformacion con ejemplos concretos: el Espiritu «toma posesion de un pastor y lo hace salmista; si toma posesion de los pescadores, hace que capturen al mundo entero en las redes de Cristo; si de los publicanos, los aprovecha para el discipulado y los hace mercaderes de almas.»[^9] No borra a la persona — la redirige por completo.
+
+El contraste importa: Pablo pone lado a lado las obras de la carne y el fruto del Espiritu no para dar una lista de reglas sino para mostrar dos direcciones de vida. Una produce desintegracion — discordia, celos, ira, divisiones. La otra produce integracion — amor, paz, paciencia, dominio propio. Y las obras de la carne no son cosa del diablo — son nuestras. Pablo las llama «obras de la naturaleza pecaminosa», no «ataques del enemigo». Salen de adentro, del corazon humano que todavia jala en la direccion equivocada.
+
+<details>
+<summary><b>Errores comunes</b></summary>
+
+> [!WARNING]
+> 💪 **«El fruto del Espiritu es una lista de virtudes que tengo que lograr a puro esfuerzo.»** El fruto no se fabrica — crece. Las ramas no producen fruto por esfuerzo propio sino porque estan unidas a la vid (Juan 15:4-5). Lo que el creyente hace es permanecer conectado; el fruto es resultado de la conexion, no del esfuerzo independiente.
+
+> [!WARNING]
+> 😈 **«Cuando peco es porque el diablo me ataco — yo no queria.»** Pablo no le echa la culpa al diablo — llama a estas cosas «obras de la naturaleza pecaminosa» (Galatas 5:19). Salen de adentro, no de afuera. Jesus fue claro: «desde adentro, del corazon de la persona, salen los malos pensamientos» (Marcos 7:21). Reconocer que el problema esta en nosotros es el primer paso para que el Espiritu lo transforme.
+
+</details>
+
+---
+
+### El Espiritu mora, sella y no se va
 
 **Versiculo ancla**
 
@@ -114,84 +167,39 @@ El resultado visible es el fruto: «El fruto del Espiritu es amor, alegria, paz,
 
 > "¿No se dan cuenta de que el cuerpo de ustedes es el templo del Espiritu Santo, quien vive en ustedes y les fue dado por Dios?" — 1 Corintios 6:19 (NTV)
 
-> "Y no entristezcan al Espiritu Santo de Dios con la forma en que viven. Recuerden que el los identifico como suyos, y asi les ha garantizado que seran salvos el dia de la redencion." — Efesios 4:30 (NTV)
+> "Pero el Consolador ha sido dado para estar con ustedes para siempre." — Juan 14:16 (NTV)
 
 </details>
 
 <details>
-<summary><b>Preguntas para grupos pequeños</b></summary>
+<summary><b>Preguntas para grupos pequenos</b></summary>
 
-**El Espiritu Santo se describe aqui como un sello y una garantia de parte de Dios. En palabras de todos los dias, ¿que nos esta prometiendo Dios cuando el viene a vivir en nosotros?**
+**Pablo describe al Espiritu como un sello y una garantia. En palabras sencillas, ¿que esta prometiendo Dios cuando pone ese sello sobre alguien?**
 
-**¿Hay algo que estas enfrentando ahorita donde necesitas recordar que el Espiritu Santo ya vive en ti — que Dios no esta observandote desde lejos sino que esta adentro contigo?**
+**Si un padre adoptara a un hijo y le dijera «eres mio para siempre», pero el hijo se portara mal la primera semana — ¿el padre lo devolveria? ¿Que nos dice eso sobre como funciona el sello del Espiritu cuando fallamos?**
 
-**★** Si el Espiritu Santo ya vive en ti y no se va cuando te equivocas — solo puede ser entristecido —, ¿por que crees que tanta gente vive como si tuviera que ganarse de nuevo la presencia de Dios cada vez que falla?
+**★** Muchos creyentes viven como si tuvieran que ganarse de nuevo la presencia de Dios cada vez que fallan. ¿De donde crees que viene esa idea — de la Biblia o de otro lugar?
 
 </details>
 
 #### Ideas centrales
 
-La morada del Espiritu no es temporal ni condicional al desempeno del creyente.[^5] Calvino lo describe como un sello: una vez puesto, garantiza la promesa.[^6] El creyente puede pensarse como un documento colocado en un sobre sellado — el Espiritu es la cera que lo cierra y lo guarda hasta el dia final.
+La morada del Espiritu no es temporal ni condicional al desempeno del creyente. El Espiritu se da a todos los que se arrepienten y creen — y una vez dado, permanece.[^10] Agustin describio esta transicion: el Espiritu «descendio al templo de sus apostoles no como un visitante transitorio, sino como un Consolador perpetuo y como un habitante eterno.»[^11]
 
-Cirilo de Alejandria lo dijo asi: «El Espiritu Santo trabaja en nosotros santificandonos verdaderamente y unindonos a el; y por esta union nos hace participes de la naturaleza divina, embelleciendo la naturaleza humana con el esplendor de la divinidad.»[^7] No es solo que el Espiritu ayuda — es que Dios mismo viene a habitar en la persona.
+El sellamiento es una imagen que la tradicion ha usado para describir esta permanencia. El creyente puede pensarse como un documento colocado en un sobre sellado — el Espiritu es la cera que lo cierra y lo guarda hasta el dia final. Un sello implica una garantia autorizada y una confirmacion de quien es el dueno.[^12] Una vez puesto, no se cancela ni se retira.
 
-Eso tiene una consecuencia practica: el creyente no esta solo en la lucha. El mismo Espiritu que levanto a Cristo de los muertos vive adentro.
+Pablo es explicito: el Nuevo Testamento no habla de manera condicional como para dar a entender que si pecas perderas el Espiritu; mas bien dice: vive una vida recta porque el Espiritu ya mora en ti.[^13] La iglesia de Corinto era una mezcla de lo carnal y lo espiritual, pero Pablo dice que el Espiritu estaba en todos ellos (1 Corintios 6:19). El Espiritu puede ser entristecido (Efesios 4:30) y resistido (Hechos 7:51) — pero su morada no depende del desempeno diario del creyente.
 
-<details>
-<summary><b>Errores comunes</b></summary>
-
-> [!WARNING]
-> 🚪 **«Si peco, el Espiritu se va y tengo que recuperarlo.»** El Nuevo Testamento no habla en esos terminos. Lo que dice es: vive una vida recta porque el Espiritu ya mora en ti — no para que el Espiritu vuelva. El Espiritu puede ser entristecido y resistido, pero su morada no depende del desempeno diario del creyente.
-
-> [!WARNING]
-> 🎯 **«Necesito una segunda experiencia especial para recibir el Espiritu despues de la conversion.»** La ensenanza clasica consensual es que el Espiritu se recibe con la fe y el nuevo nacimiento. No hay una segunda capa reservada para creyentes avanzados.
-
-</details>
-
----
-
-### Vivir en union con Cristo por el Espiritu
-
-**Versiculo ancla**
-
-> "Permanezcan en mi, y yo permanecere en ustedes. Pues una rama no puede producir fruto si la cortan de la vid, y ustedes tampoco pueden ser fructiferos a menos que permanezcan en mi. Ciertamente, yo soy la vid; ustedes son las ramas." — Juan 15:4-5 (NTV)
-
-<details open>
-<summary><b>Versiculos de apoyo</b></summary>
-
-> "El que se une al Senor es un espiritu con el." — 1 Corintios 6:17 (NTV)
-
-> "Ahora somos hijos de Dios y aun no se ha manifestado lo que seremos, pero sabemos que cuando el se manifieste, seremos semejantes a el." — 1 Juan 3:2 (NTV)
-
-</details>
-
-<details>
-<summary><b>Preguntas para grupos pequeños</b></summary>
-
-**Jesus no dice "esfuerzate mas" sino "permanece en mi". ¿Que diferencia hay entre producir fruto por esfuerzo propio y producirlo porque estas unido a el?**
-
-**¿Como esta tu relacion con Dios hoy — se siente mas como una rama unida al arbol o como alguien tratando de cumplir con un checklist? ¿Que crees que esta pasando ahi?**
-
-**★** Tomas de Aquino dijo que el Espiritu Santo nos hace amigos de Dios — y que lo propio de la amistad es disfrutar estar con el amigo. ¿En que se pareceria y en que seria distinta tu relacion con Dios si la vivieras mas como amistad que como obligacion?
-
-</details>
-
-#### Ideas centrales
-
-La vida en el Espiritu no es solo seguir reglas nuevas — es vivir en union real con Cristo. Lutero lo expreso con fuerza: «Por la fe estamos unidos en un solo cuerpo y un solo hueso.»[^8]
-
-Atanasio resumio el intercambio central del evangelio en una linea: «El se hizo hombre para que nosotros fueramos hechos Dios.»[^7] No en el sentido de convertirnos en dioses — sino en el sentido de participar de la naturaleza y vida de Dios por gracia, no por naturaleza propia.
-
-Tomas de Aquino describio el resultado de esa union con una palabra que pocas veces se usa en este contexto: amistad. «Por el Espiritu Santo somos constituidos amigos de Dios. Lo que es especialmente propio de la amistad es deleitarse en la presencia de un amigo.»[^9] La vida cristiana no es servidumbre religiosa — es amistad con Dios que crece.
+Esto tiene una consecuencia practica: el creyente no esta solo en la lucha. El mismo Espiritu que levanto a Cristo de los muertos vive adentro. Y el grito «¡Abba, Padre!» que surge espontaneamente del corazon es en si mismo evidencia de que la gracia esta actuando — es el Espiritu dando testimonio junto con nuestro espiritu de que somos hijos de Dios (Romanos 8:15-16).[^14]
 
 <details>
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> 📋 **«La vida cristiana es basicamente cumplir un conjunto de reglas para agradar a Dios.»** La union con Cristo que describe el Nuevo Testamento es organica, no contractual. Juan usa la imagen de la vid y las ramas — no la de un empleado y un reglamento. Las ramas no producen fruto por esfuerzo; producen fruto porque estan unidas a la vid.
+> 🚪 **«Si peco, el Espiritu se va y tengo que recuperarlo.»** El Nuevo Testamento no habla en esos terminos. Lo que dice es: vive una vida recta porque el Espiritu ya mora en ti — no para que el Espiritu vuelva. El Espiritu puede ser entristecido y resistido, pero su morada no depende del desempeno diario del creyente.[^13]
 
 > [!WARNING]
-> 👁️ **«Dios esta lejos y me observa desde afuera para ver como me porto.»** La ensenanza clasica es radicalmente distinta: Dios viene a habitar adentro. «Vuestro cuerpo es templo del Espiritu Santo» — no un observatorio externo sino una morada interior.
+> 🎯 **«Necesito una segunda experiencia especial para recibir el Espiritu despues de la conversion.»** La ensenanza clasica consensual es que el Espiritu se recibe con la fe y el nuevo nacimiento. Todo cristiano creyente y bautizado ha comenzado a recibir el Espiritu Santo.[^10]
 
 </details>
 
@@ -199,7 +207,7 @@ Tomas de Aquino describio el resultado de esa union con una palabra que pocas ve
 
 > **Para llevar**
 >
-> El Espiritu no es un tema avanzado para creyentes maduros — es el punto de partida de toda vida cristiana. Es quien tomo lo que Cristo hizo en la cruz y lo hizo real adentro: transformando facultades que estaban marchitas, sellando una promesa que no depende del desempeno diario, produciendo fruto que no viene del esfuerzo sino de la union. La pregunta no es si el Espiritu esta — es si estamos respondiendo a su obra o resistiendola. «El Espiritu que comenzo en vosotros la buena obra, la perfeccionara hasta el dia de Cristo Jesus.» — Filipenses 1:6
+> El Espiritu Santo no es un tema avanzado para creyentes maduros — es el punto de partida de toda vida cristiana. Es una persona, no una fuerza — alguien a quien se puede entristecer, resistir o responder. Es quien tomo lo que Cristo hizo en la cruz y lo hizo real adentro: produciendo fruto que no viene del esfuerzo sino de la union, sellando una promesa que no depende del desempeno diario. La pregunta no es si el Espiritu esta — es si estamos respondiendo a su obra o resistiendola. «El comenzo en vosotros la buena obra, y la perfeccionara hasta el dia de Cristo Jesus.» — Filipenses 1:6
 
 ---
 
@@ -209,20 +217,25 @@ Tomas de Aquino describio el resultado de esa union con una palabra que pocas ve
 > *"La regeneracion es obra del Espiritu Santo, y el Espiritu es el Autor de ese hombre nuevo. El Autor no esta sin el don, ni el don sin el Autor."*
 > *— Ambrosio de Milan (siglo IV)*
 
-> *"Por el Espiritu Santo somos constituidos amigos de Dios. Lo que es especialmente propio de la amistad es deleitarse en la presencia de un amigo."*
-> *— Tomas de Aquino*
+> *"Toma posesion de un pastor y lo hace salmista; si toma posesion de los pescadores, hace que capturen al mundo entero en las redes de Cristo."*
+> *— Gregorio Nacianceno*
 
 ---
 
 [^1]: Ambrosio, *Sobre el Espíritu Santo*, citado en Oden, [p. 1288](../assets/oden-cristianismo-clasico.pdf)
 [^2]: Basilio, *Sobre el Espíritu Santo*, citado en Oden, [p. 1181](../assets/oden-cristianismo-clasico.pdf)
-[^3]: Gregorio Nacianceno, citado en Oden, [p. 1310](../assets/oden-cristianismo-clasico.pdf)
-[^4]: Oden, *Cristianismo Clásico*, [p. 1309](../assets/oden-cristianismo-clasico.pdf)
-[^5]: Oden, *Cristianismo Clásico*, [p. 1134](../assets/oden-cristianismo-clasico.pdf) — la morada del Espíritu
-[^6]: Oden, *Cristianismo Clásico*, [p. 1317](../assets/oden-cristianismo-clasico.pdf) — el sellamiento del Espíritu
-[^7]: Cirilo de Alejandría y Atanasio, citados en Oden, [p. 1356](../assets/oden-cristianismo-clasico.pdf)
-[^8]: Lutero, citado en Oden, [p. 1357](../assets/oden-cristianismo-clasico.pdf)
-[^9]: Tomás de Aquino, citado en Oden, [p. 1358](../assets/oden-cristianismo-clasico.pdf)
+[^3]: Quenstedt, citado en Oden, [p. 1134](../assets/oden-cristianismo-clasico.pdf) — la secuencia trinitaria de la salvación
+[^4]: Basilio, *Sobre el Espíritu Santo* 16.37, citado en Oden, [p. 1098](../assets/oden-cristianismo-clasico.pdf)
+[^5]: Juan Damasceno, *La fe ortodoxa* 1.7, citado en Oden, [p. 1105](../assets/oden-cristianismo-clasico.pdf)
+[^6]: Basilio, *Sobre el Espíritu Santo* 1.9, citado en Oden, [p. 1100](../assets/oden-cristianismo-clasico.pdf)
+[^7]: Oden, *Cristianismo Clásico*, [p. 1309](../assets/oden-cristianismo-clasico.pdf) — el fruto del Espíritu
+[^8]: Crisóstomo, *Homilía sobre Gálatas 5*, citado en Oden, [p. 1360](../assets/oden-cristianismo-clasico.pdf)
+[^9]: Gregorio Nacianceno, *Oración 41.14*, citado en Oden, [p. 1310](../assets/oden-cristianismo-clasico.pdf)
+[^10]: Oden, *Cristianismo Clásico*, [p. 1134](../assets/oden-cristianismo-clasico.pdf) — la morada del Espíritu
+[^11]: Agustín, *Tratados sobre Juan* 94, citado en Oden, [p. 1292](../assets/oden-cristianismo-clasico.pdf)
+[^12]: Cirilo de Jerusalén, *Catecismo* 17.35, citado en Oden, [p. 1317](../assets/oden-cristianismo-clasico.pdf)
+[^13]: Oden, *Cristianismo Clásico*, [p. 1320](../assets/oden-cristianismo-clasico.pdf) — el Espíritu sigue morando en creyentes que luchan
+[^14]: Oden, *Cristianismo Clásico*, [p. 1356](../assets/oden-cristianismo-clasico.pdf) — el grito Abba como evidencia de la gracia
 
 **Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte I, Cap. 1-2 y Parte II, Cap. 5.
 
