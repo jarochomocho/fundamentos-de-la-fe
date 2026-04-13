@@ -111,7 +111,7 @@ Esto importa porque cambia como nos relacionamos con el. No se administra una fu
 
 **Versiculo ancla**
 
-> "En cambio, el fruto del Espiritu es: amor, alegria, paz, paciencia, gentileza, bondad, fidelidad, humildad y dominio propio. No existe ley contra esas cosas." — Galatas 5:22-23 (NTV)
+> "Cuando ustedes siguen los deseos de la naturaleza pecaminosa, los resultados son más que claros: inmoralidad sexual, impureza, pasiones sensuales, idolatría, hechicería, hostilidad, peleas, celos, arrebatos de furia, ambición egoísta, discordias, divisiones, envidia, borracheras, fiestas desenfrenadas y otros pecados parecidos. Permítanme repetirles lo que les dije antes: cualquiera que lleve esa clase de vida no heredará el reino de Dios. En cambio, la clase de fruto que el Espíritu Santo produce en nuestra vida es: amor, alegría, paz, paciencia, gentileza, bondad, fidelidad, humildad y control propio. ¡No existen leyes contra esas cosas!" — Galatas 5:19-23 (NTV)
 
 <details open>
 <summary><b>Versiculos de apoyo</b></summary>
