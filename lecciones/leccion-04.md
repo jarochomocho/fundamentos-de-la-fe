@@ -25,11 +25,11 @@
 <details>
 <summary><b>Preguntas para grupos pequenos</b></summary>
 
-**Segun Hechos 2:42, ¿que cuatro cosas hacian los primeros creyentes juntos? ¿Cuales de esas cuatro estamos haciendo nosotros en este grupo?**
+**Segun Hechos 2:42, ¿que hacian los primeros creyentes cuando se reunian? ¿Eran cosas que hacian solo los apostoles y pastores, o cosas que hacian todos juntos?**
 
-**Si alguien te dijera «yo creo en Dios pero no necesito ir a ninguna iglesia» — ¿que le responderias con lo que sabes ahora?**
+**Si piensas en lo que pasa cuando nos juntamos aqui, ¿cuales de esas cosas dirias que ya estamos haciendo? ¿Habias tenido antes una comunidad de fe que sintieras como tuya, o este grupo es lo mas cercano que has tenido a eso?**
 
-**★** Piensa en tu historia: ¿has tenido alguna comunidad de fe que sintieras como tuya — o este grupo es lo mas cercano que has tenido a eso?
+**¿Crees que es posible vivir una vida de fe completamente a solas, sin ninguna iglesia ni comunidad?**
 
 </details>
 
