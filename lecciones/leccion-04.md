@@ -72,11 +72,11 @@ La imagen es organica: pretender ser cristiano sin iglesia es como pretender que
 <details>
 <summary><b>Preguntas para grupos pequenos</b></summary>
 
-**Si la iglesia es un cuerpo y no un edificio, ¿que pasa con un cuerpo cuando un miembro deja de funcionar o se aisla del resto?**
+**¿La iglesia en la Biblia parece ser un edificio o mas bien un cuerpo? ¿De que esta conformado ese cuerpo? ¿Que pasaria si uno falta?**
 
 **¿Cual es la diferencia entre asistir a una iglesia y pertenecer a una iglesia?**
 
-**★** Si Cristo es la cabeza y nosotros somos el cuerpo, ¿que parte del cuerpo crees que eres tu en este grupo — y que pasaria si esa parte faltara?
+**Si Cristo es la cabeza y nosotros somos el cuerpo, ¿que parte del cuerpo crees que eres tu en este grupo — y que pasaria si esa parte faltara?**
 
 </details>
 
