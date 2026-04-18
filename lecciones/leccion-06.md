@@ -1,6 +1,6 @@
 # Leccion 06 · La oracion
 
-*[← Leccion 05: La Palabra](leccion-05.md) · [Indice](../README.md) · [Leccion 07: La iglesia →](leccion-07.md)*
+*[← Leccion 05: La Palabra](leccion-05.md) · [Indice](../README.md)*
 
 ## ¿Como hablar con Dios y por que importa?
 
@@ -155,4 +155,4 @@ El Segundo Concilio de Mileto fue explicito: el Padre Nuestro presupone que el p
 
 **Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte I, Cap. 2; Libro 2, Cap. 9.
 
-*[← Leccion 05: La Palabra](leccion-05.md) · [Indice](../README.md) · [Leccion 07: La iglesia →](leccion-07.md)*
+*[← Leccion 05: La Palabra](leccion-05.md) · [Indice](../README.md)*

@@ -1,6 +1,6 @@
 # Leccion 03 · El Espiritu Santo
 
-*[← Leccion 02: La santidad y la regeneracion](leccion-02.md) · [Indice](../README.md) · [Leccion 04: La fe y la vida nueva →](leccion-04.md)*
+*[← Leccion 02: La santidad y la regeneracion](leccion-02.md) · [Indice](../README.md) · [Leccion 04: La iglesia →](leccion-04.md)*
 
 > [!NOTE]
 > ¿Quien hace que lo que Cristo hizo sea real en mi vida concreta? El Espiritu Santo no es un tema adicional — es el agente que aplica la obra del Hijo al creyente. Sin el, la salvacion permanece externa. Con el, se vuelve interior, viva y transformadora.
@@ -239,4 +239,4 @@ Esto tiene una consecuencia practica: el creyente no esta solo en la lucha. El m
 
 **Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte I, Cap. 1-2 y Parte II, Cap. 5.
 
-*[← Leccion 02: La santidad y la regeneracion](leccion-02.md) · [Indice](../README.md) · [Leccion 04: La fe y la vida nueva →](leccion-04.md)*
+*[← Leccion 02: La santidad y la regeneracion](leccion-02.md) · [Indice](../README.md) · [Leccion 04: La iglesia →](leccion-04.md)*
