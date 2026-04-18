@@ -2,12 +2,12 @@
 
 ## Que es este proyecto
 
-Curso "Fundamentos de la Fe" para nuevos creyentes. Basado en Oden (*Cristianismo Clasico*), sintetizado en 8 lecciones con preguntas de discusion. Se visualiza como wiki en GitHub usando markdown puro.
+Curso "Fundamentos de la Fe" para nuevos creyentes. Basado en Oden (*Cristianismo Clasico*), sintetizado en 7 lecciones con preguntas de discusion. Se visualiza como wiki en GitHub usando markdown puro.
 
 ## Estructura
 
 ```
-lecciones/          # 8 lecciones (00-07), contenido + preguntas integradas
+lecciones/          # 7 lecciones (00-06), contenido + preguntas integradas
 assets/img/         # Logo e imagenes
 assets/audio/       # Audio de sesiones (pendiente)
 assets/oden-cristianismo-clasico.pdf  # Fuente unica — citar con pagina y link directo

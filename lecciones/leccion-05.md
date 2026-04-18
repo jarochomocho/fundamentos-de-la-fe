@@ -1,6 +1,6 @@
 # Leccion 05 · La Palabra
 
-*[← Leccion 04: La fe y la vida nueva](leccion-04.md) · [Indice](../README.md) · [Leccion 06: La oracion →](leccion-06.md)*
+*[← Leccion 04: La iglesia](leccion-04.md) · [Indice](../README.md) · [Leccion 06: La oracion →](leccion-06.md)*
 
 ## ¿Por que confiar en la Biblia y como me forma?
 
@@ -157,4 +157,4 @@ Por eso la tradicion clasica valoro tanto la lectura de la Escritura en comunida
 
 **Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 1, Parte IV, Cap. 8; Libro 3, Cap. 2.
 
-*[← Leccion 04: La fe y la vida nueva](leccion-04.md) · [Indice](../README.md) · [Leccion 06: La oracion →](leccion-06.md)*
+*[← Leccion 04: La iglesia](leccion-04.md) · [Indice](../README.md) · [Leccion 06: La oracion →](leccion-06.md)*

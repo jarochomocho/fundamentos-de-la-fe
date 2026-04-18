@@ -6,7 +6,7 @@
 
 Un recorrido por las verdades esenciales del cristianismo.
 
-![Lecciones](https://img.shields.io/badge/lecciones-8-blue)
+![Lecciones](https://img.shields.io/badge/lecciones-7-blue)
 ![Idioma](https://img.shields.io/badge/idioma-español-green)
 ![Basado en](https://img.shields.io/badge/basado%20en-Oden%20·%20Cristianismo%20Clasico-8B4513)
 
@@ -22,10 +22,9 @@ Un recorrido por las verdades esenciales del cristianismo.
 | 01 | [La salvacion](lecciones/leccion-01.md) | — | [▶️](https://www.youtube.com/live/3ZbTNAKHqpM) |
 | 02 | [La santidad y la regeneracion](lecciones/leccion-02.md) | — | [▶️](https://www.youtube.com/live/pWDv0bQyTqA?si=87Kwp9x-eErcai7d) |
 | 03 | [El Espiritu Santo](lecciones/leccion-03.md) | — | — |
-| 04 | [La fe y la vida nueva](lecciones/leccion-04.md) | — | — |
+| 04 | [La iglesia](lecciones/leccion-04.md) | — | — |
 | 05 | [La Palabra](lecciones/leccion-05.md) | — | — |
 | 06 | [La oracion](lecciones/leccion-06.md) | — | — |
-| 07 | [La iglesia](lecciones/leccion-07.md) | — | — |
 
 > Las lecciones 01-03 incluyen **preguntas para grupos pequeños** integradas en cada seccion.
 
