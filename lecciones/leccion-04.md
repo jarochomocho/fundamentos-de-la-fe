@@ -25,11 +25,11 @@
 <details>
 <summary><b>Preguntas para grupos pequenos</b></summary>
 
-**Segun Hechos 2:42, ¿que cuatro cosas hacian los primeros creyentes juntos? ¿Cuales de esas cuatro estamos haciendo nosotros en este grupo?**
+**Segun Hechos 2:42, ¿que hacian los primeros creyentes cuando se reunian? ¿Eran cosas que hacian solo los apostoles y pastores, o cosas que hacian todos juntos?**
 
-**Si alguien te dijera «yo creo en Dios pero no necesito ir a ninguna iglesia» — ¿que le responderias con lo que sabes ahora?**
+**Si piensas en lo que pasa cuando nos juntamos aqui, ¿cuales de esas cosas dirias que ya estamos haciendo? ¿Habias tenido antes una comunidad de fe que sintieras como tuya, o este grupo es lo mas cercano que has tenido a eso?**
 
-**★** Piensa en tu historia: ¿has tenido alguna comunidad de fe que sintieras como tuya — o este grupo es lo mas cercano que has tenido a eso?
+**¿Crees que es posible vivir una vida de fe completamente a solas, sin ninguna iglesia ni comunidad?**
 
 </details>
 
@@ -72,11 +72,11 @@ La imagen es organica: pretender ser cristiano sin iglesia es como pretender que
 <details>
 <summary><b>Preguntas para grupos pequenos</b></summary>
 
-**Si la iglesia es un cuerpo y no un edificio, ¿que pasa con un cuerpo cuando un miembro deja de funcionar o se aisla del resto?**
+**¿La iglesia en la Biblia parece ser un edificio o mas bien un cuerpo? ¿De que esta conformado ese cuerpo? ¿Que pasaria si uno falta?**
 
-**¿Cual es la diferencia entre asistir a una iglesia y pertenecer a una iglesia?**
+**Muchos creen que la iglesia es responsabilidad del pastor — el predica, organiza, cuida, dirige, y los demas vienen a recibir. Si la iglesia es un cuerpo con muchos miembros, ¿que esta mal con esa idea? ¿Que pierde el cuerpo cuando un solo miembro intenta hacer el trabajo de todos?**
 
-**★** Si Cristo es la cabeza y nosotros somos el cuerpo, ¿que parte del cuerpo crees que eres tu en este grupo — y que pasaria si esa parte faltara?
+**Si Cristo es la cabeza y nosotros somos el cuerpo, ¿que parte del cuerpo crees que eres tu en este grupo — y que pasaria si esa parte faltara?**
 
 </details>
 
@@ -85,6 +85,8 @@ La imagen es organica: pretender ser cristiano sin iglesia es como pretender que
 La iglesia no es solo una institucion humana con fines religiosos. Es la continuacion de la presencia de Cristo en la historia. Ignacio de Antioquia lo dijo en el siglo II con una frase que la tradicion nunca olvido: «Donde esta Jesucristo, alli esta la Iglesia.» Crisostomo resumio la relacion de Cristo con su iglesia en una cadena de imagenes: «La desposo como esposa, la ama como a una hija, provee para ella como si fuera una sierva, la guarda como a una virgen. Como cabeza provee para ella, como raiz la hace crecer, como pastor la alimenta.»
 
 Pertenecer a la iglesia no es solo asistir a reuniones — es participar de la vida del cuerpo de Cristo. Y eso incluye lo que pasa fuera de la reunion. Pablo lo dijo con claridad: «Lleven los unos las cargas de los otros» (Galatas 6:2). Ser iglesia significa buscarnos durante la semana, escucharnos cuando algo anda mal, asistir al que esta pasando por algo dificil. No somos un grupo que se ve una vez y se olvida — somos una familia que se procura.
+
+La iglesia es un cuerpo, no un auditorio. Y en un cuerpo, cada parte tiene una funcion. Pablo lo dice sin rodeos: el ojo no puede decirle al pie «no te necesito» (1 Corintios 12:21). Parte esencial de la vida cristiana es descubrir cual es tu funcion en el cuerpo — que don te dio el Espiritu, para que te puso donde estas. No somos espectadores que venimos a que el pastor haga la iglesia por nosotros. Cuando un solo miembro — sea pastor, sacerdote, padre o lider — intenta hacer el trabajo de todos, el cuerpo se atrofia. Y cuando los demas miembros se cruzan de brazos esperando que alguien lo haga, la iglesia deja de ser cuerpo y se vuelve un show con publico.
 
 Pero pertenecer al cuerpo no significa que el cuerpo sea perfecto. Corinto tenia divisiones graves — y Pablo seguia llamandola iglesia de Dios. La iglesia visible siempre ha tenido trigo y cizana mezclados. Cristo no abandono a Corinto, y la respuesta clasica tampoco es abandonar — es permanecer y crecer juntos.
 
@@ -121,7 +123,7 @@ Pero pertenecer al cuerpo no significa que el cuerpo sea perfecto. Corinto tenia
 
 **Pablo usa la misma palabra — ekklesia — para un grupo en una casa y para la iglesia de una ciudad entera. ¿Que nos dice eso sobre lo que hace que algo sea iglesia?**
 
-**Muchos de nosotros hemos ido a una iglesia sin que se sintiera como nuestra. ¿Que crees que hace la diferencia entre ir a un lugar y pertenecer a una comunidad?**
+**Algunos cristianos — catolicos romanos o protestantes — sostienen que SU denominacion es «la verdadera iglesia», porque es la mas antigua, la mas fiel, o la mas institucional. Si Pablo llamaba ekklesia a un grupo reunido en una casa, sin jerarquia ni credenciales — ¿que tan solido es validar la iglesia por su antiguedad o por su institucion?**
 
 **★** Si la iglesia primitiva se reunia en casas sin edificios, sin programas y sin estructura profesional — y Pablo la llamaba ekklesia igual — ¿que nos impediria a nosotros ser iglesia aqui?
 
@@ -134,6 +136,8 @@ La palabra ekklesia se aplico tanto a reuniones en casas como a asambleas en ciu
 La congregacion local no pertenece a la iglesia universal como un pedazo pertenece a un pastel — es la iglesia universal expresada en un lugar concreto. «Toda la iglesia esta presente localmente, como en el caso de la iglesia de Dios en Corinto» (1 Corintios 1:2).[^2] Un grupo de creyentes reunidos en una casa, dedicados a la ensenanza apostolica, la comunion, el partir el pan y la oracion (Hechos 2:42), es iglesia — no una version menor de ella.
 
 En sus primeras decadas, la ekklesia no tenia edificios propios. Se reunia en casas (1 Corintios 16:19, Colosenses 4:15).[^3] La iglesia primitiva crecio no en templos sino en hogares — y el Espiritu obro ahi con la misma plenitud.
+
+La iglesia se encuentra en todos lados. Desde Pentecostes ha estado en palacios y en catacumbas, en basilicas y en cuartos traseros, en tribus remotas y en ciudades enteras. Nunca necesito de instituciones humanas para existir — sobrevivio siglos de persecucion sin templos, imperios que intentaron borrarla, cismas que la dividieron. Cristo prometio que las puertas del Hades no prevaleceran contra ella (Mateo 16:18), y la promesa se cumple igual en la catedral medieval que en la sala de una casa hoy. Esto no demerita a las instituciones — en ellas tambien hay iglesia, y muchas veces con fidelidad notable. Pero nos libera de la ansiedad de tener que identificar «la verdadera» entre las opciones visibles. Donde este Cristo, ahi esta. Y el esta en muchos lados a la vez — «de toda tribu, lengua, pueblo y nacion» (Apocalipsis 7:9).
 
 <details>
 <summary><b>Errores comunes</b></summary>
@@ -148,48 +152,56 @@ En sus primeras decadas, la ekklesia no tenia edificios propios. Se reunia en ca
 
 ---
 
-### No somos una denominacion — somos una familia
+### La iglesia tiene una mision: adorar, edificar, enviar
 
 **Versiculo ancla**
 
-> "Pues hay un solo cuerpo y un solo Espiritu, tal como ustedes fueron llamados a una misma esperanza gloriosa. Hay un solo Senor, una sola fe, un solo bautismo." — Efesios 4:4-5 (NTV)
+> "Vayan y hagan discipulos de todas las naciones, bautizandolas en el nombre del Padre, del Hijo y del Espiritu Santo. Ensenenles a obedecer todos los mandatos que les he dado. Y tengan por seguro esto: que yo estoy con ustedes siempre, hasta el fin de los tiempos." — Mateo 28:19-20 (NTV)
 
 <details open>
 <summary><b>Versiculos de apoyo</b></summary>
 
-> "Ustedes son linaje escogido, real sacerdocio, nacion santa, pueblo que pertenece a Dios." — 1 Pedro 2:9 (NTV)
+> "Recibiran poder cuando el Espiritu Santo descienda sobre ustedes; y seran mis testigos... hasta los lugares mas lejanos de la tierra." — Hechos 1:8 (NTV)
+
+> "Ustedes son la sal de la tierra... Ustedes son la luz del mundo." — Mateo 5:13-14 (NTV)
+
+> "Preocupemonos los unos por los otros, a fin de animarnos al amor y a las buenas obras. Y no dejemos de congregarnos." — Hebreos 10:24-25 (NTV)
 
 </details>
 
 <details>
 <summary><b>Preguntas para grupos pequenos</b></summary>
 
-**¿Hay una sola forma correcta de ser iglesia — o el Espiritu puede obrar en formas distintas en distintos lugares?**
+**Jesus le dijo a la iglesia que fuera al mundo a hacer discipulos (Mateo 28:19-20). Si una iglesia solo se ocupa de si misma y se olvida de los de afuera — ¿esta siendo fiel a lo que Jesus le pidio?**
 
-**Si alguien del grupo encontrara una iglesia local donde se siente en casa, ¿deberiamos celebrarlo o sentirnos amenazados? ¿Por que?**
+**Los primeros cristianos hacian tres cosas al mismo tiempo: adoraban a Dios, se cuidaban unos a otros, y cada dia se sumaban mas personas al grupo (Hechos 2:42-47). ¿Que crees que pasa con una iglesia cuando solo hace una de esas tres?**
 
-**★** Algunos de nosotros hemos ido a la iglesia toda la vida sin que fuera realmente nuestra. Otros nunca habian tenido nada parecido a esto. ¿Que significa para ti que este grupo exista?
+**★** Si este grupo es iglesia — y no solo un estudio biblico — ¿que nos toca hacer fuera de este cuarto?
 
 </details>
 
 #### Ideas centrales
 
-Este grupo no existe para competir con ninguna iglesia ni para ganar gente para una denominacion. No somos protestantes reclutando catolicos, ni evangelicos reclutando a nadie. El Espiritu Santo hace la obra — nosotros solo queremos avivar la fe.
+La iglesia no existe solo para reunirse. Tiene una mision con tres dimensiones inseparables: adorar, edificar, enviar.
 
-Sabemos que muchos aqui han ido a una iglesia toda su vida. Y sabemos que para algunos, a pesar de eso, este puede ser el primer lugar donde la fe se vuelve real y personal. No porque las otras iglesias hayan fallado — sino porque a veces Dios usa un grupo pequeno, una sala, una mesa, para despertar lo que llevaba anos dormido.
+**Adoracion** (hacia arriba). La iglesia existe primero para adorar a Dios: orar, escuchar su Palabra, partir el pan, alabar. No es una actividad entre otras — es el centro de todo. Los primeros creyentes «se dedicaban a las ensenanzas de los apostoles, a la comunion fraternal, a partir el pan y a la oracion» (Hechos 2:42). Todo lo demas nace de ahi.
 
-Animamos a cada persona a congregarse donde el Espiritu la guie — sea aqui, sea en una parroquia, sea en una iglesia local de cualquier tradicion. Lo que importa es que la Palabra se predique, que haya comunion real entre creyentes, y que Cristo sea el centro. El Credo Niceno describe la iglesia con cuatro palabras que la tradicion ha conservado: una, santa, catolica y apostolica. Una — porque hay un solo Senor. Santa — no porque sus miembros sean perfectos sino porque el Espiritu la habita. Catolica — universal, para todos. Apostolica — fiel al testimonio de los apostoles.
+**Edificacion mutua** (hacia adentro). Hebreos 10:24-25 lo resume: animarnos unos a otros al amor y a las buenas obras, no dejar de congregarnos, sostenernos. La iglesia es el lugar donde cada miembro crece al servir a los demas — y donde nadie crece solo.
 
-Pero tambien reconocemos algo: para algunos en este grupo, esto es lo primero que han conocido como su iglesia. Y si es asi, eso no es menos valido. Pablo lo dijo con sencillez: «Donde dos o tres se reunen en mi nombre, alli estoy yo.»
+**Mision al mundo** (hacia afuera). La palabra *apostolica* significa *enviada* — del griego *apostolos*, enviado. La iglesia no es un club cerrado: recibio el mandato de hacer discipulos de todas las naciones (Mateo 28:19-20), de ser luz del mundo y sal de la tierra (Mateo 5:13-14), de ser testigos hasta lo ultimo de la tierra (Hechos 1:8). Una iglesia que no proclama afuera deja de ser iglesia — se convierte en un club.
+
+Las tres dimensiones se necesitan. Adorar sin edificar produce fe solitaria. Edificar sin enviar produce un grupo cerrado. Enviar sin adorar produce activismo vacio. Las tres juntas son la vida completa de la iglesia.
+
+Y la mision no es tarea del pastor, del misionero o del sacerdote — es tarea de todos. Cuando la iglesia de Jerusalen fue perseguida, «los creyentes que se esparcieron predicaban la Buena Noticia acerca de Jesus dondequiera que iban» (Hechos 8:4). No eran apostoles — eran cristianos comunes. La mision es de cada uno.
 
 <details>
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> ⚖️ **«Todas las iglesias son iguales — da lo mismo a cual pertenezco.»** No todas las expresiones de iglesia mantienen igual fidelidad a la Palabra y a la vida en comunidad. La tradicion ofrece una regla practica: «Cuanto mas puramente se predique la Palabra de Dios en una iglesia y cuanto mas se acerque a la norma de la Escritura, mas pura sera la iglesia.»[^4]
+> ⛪ **«La iglesia existe para cuidar a sus miembros.»** Eso es solo una parte. Si la iglesia se reduce a misas, retiros y estudios — pero no hay proclamacion al mundo ni sal ni luz afuera — se ha convertido en un club religioso. Cristo no murio para fundar un club.
 
 > [!WARNING]
-> 🏷️ **«Si no pertenezco a una denominacion conocida, no soy parte de la iglesia real.»** La iglesia no se define por una etiqueta denominacional sino por la presencia de Cristo, la fidelidad a la Palabra y la comunion real entre creyentes. Pablo llamo iglesia a reuniones en casas de gente comun — no a instituciones con credenciales.
+> 👔 **«La mision es trabajo del pastor, del misionero o del cura.»** En el Nuevo Testamento cada creyente es enviado. La iglesia perseguida «iba por todas partes anunciando las buenas nuevas» (Hechos 8:4), y no eran apostoles — eran cristianos comunes como nosotros.
 
 </details>
 
@@ -215,7 +227,6 @@ Pero tambien reconocemos algo: para algunos en este grupo, esto es lo primero qu
 [^1]: Oden, *Cristianismo Clásico*, [p. 1390](../assets/oden-cristianismo-clasico.pdf) — ekklesia aplicada a reuniones en casas
 [^2]: Oden, *Cristianismo Clásico*, [p. 1392](../assets/oden-cristianismo-clasico.pdf) — toda la iglesia presente localmente
 [^3]: Oden, *Cristianismo Clásico*, [p. 1395](../assets/oden-cristianismo-clasico.pdf) — la iglesia primitiva en casas
-[^4]: Oden, *Cristianismo Clásico*, [p. 1410](../assets/oden-cristianismo-clasico.pdf) — pureza de la predicación como marca
 
 **Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte III, Cap. 7-8.
 
