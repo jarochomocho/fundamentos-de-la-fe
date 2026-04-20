@@ -25,7 +25,7 @@
 <details>
 <summary><b>Preguntas para grupos pequenos</b></summary>
 
-**Segun Hechos 2:42, ¿que hacian los primeros creyentes cuando se reunian? ¿Eran cosas que hacian solo los apostoles y pastores, o cosas que hacian todos juntos?**
+**Segun Hechos 2:42, ¿que hacian los primeros creyentes cuando se reunian? ¿Eran cosas que hacian solo líderes religiosos, o cosas que hacian todos juntos?**
 
 **Si piensas en lo que pasa cuando nos juntamos aqui, ¿cuales de esas cosas dirias que ya estamos haciendo? ¿Habias tenido antes una comunidad de fe que sintieras como tuya, o este grupo es lo mas cercano que has tenido a eso?**
 
@@ -74,7 +74,7 @@ La imagen es organica: pretender ser cristiano sin iglesia es como pretender que
 
 **¿La iglesia en la Biblia parece ser un edificio o mas bien un cuerpo? ¿De que esta conformado ese cuerpo? ¿Que pasaria si uno falta?**
 
-**Muchos creen que la iglesia es responsabilidad del pastor — el predica, organiza, cuida, dirige, y los demas vienen a recibir. Si la iglesia es un cuerpo con muchos miembros, ¿que esta mal con esa idea? ¿Que pierde el cuerpo cuando un solo miembro intenta hacer el trabajo de todos?**
+**Muchos creen que la iglesia es responsabilidad del pastor — el predica, organiza, cuida, dirige, y los demas vienen a recibir. Si la iglesia es un cuerpo con muchos miembros, ¿que esta mal con esa idea?**
 
 **Si Cristo es la cabeza y nosotros somos el cuerpo, ¿que parte del cuerpo crees que eres tu en este grupo — y que pasaria si esa parte faltara?**
 
@@ -121,11 +121,11 @@ Pero pertenecer al cuerpo no significa que el cuerpo sea perfecto. Corinto tenia
 <details>
 <summary><b>Preguntas para grupos pequenos</b></summary>
 
-**Pablo usa la misma palabra — ekklesia — para un grupo en una casa y para la iglesia de una ciudad entera. ¿Que nos dice eso sobre lo que hace que algo sea iglesia?**
+**Pablo usa la misma palabra — ekklesia — para un grupo en una casa y para la iglesia de una ciudad entera. ¿Entonces que es lo que hace que algo sea iglesia?**
 
-**Algunos cristianos — catolicos romanos o protestantes — sostienen que SU denominacion es «la verdadera iglesia», porque es la mas antigua, la mas fiel, o la mas institucional. Si Pablo llamaba ekklesia a un grupo reunido en una casa, sin jerarquia ni credenciales — ¿que tan solido es validar la iglesia por su antiguedad o por su institucion?**
+**Algunos cristianos — catolicos romanos o protestantes — sostienen que SU denominacion es «la verdadera iglesia», porque es la mas antigua, la mas fiel, o la mas institucional. ¿Es correcto calificar la iglesia solo por su antiguedad o por su institucion?**
 
-**★** Si la iglesia primitiva se reunia en casas sin edificios, sin programas y sin estructura profesional — y Pablo la llamaba ekklesia igual — ¿que nos impediria a nosotros ser iglesia aqui?
+**Si la iglesia primitiva se reunia en casas sin edificios, sin programas y sin estructura profesional — y Pablo la llamaba ekklesia igual — ¿que nos impediria a nosotros ser iglesia aqui?**
 
 </details>
 
@@ -176,7 +176,7 @@ La iglesia se encuentra en todos lados. Desde Pentecostes ha estado en palacios 
 
 **Los primeros cristianos hacian tres cosas al mismo tiempo: adoraban a Dios, se cuidaban unos a otros, y cada dia se sumaban mas personas al grupo (Hechos 2:42-47). ¿Que crees que pasa con una iglesia cuando solo hace una de esas tres?**
 
-**★** Si este grupo es iglesia — y no solo un estudio biblico — ¿que nos toca hacer fuera de este cuarto?
+**Si este grupo es iglesia — y no solo un estudio biblico — ¿que nos toca hacer fuera de este cuarto?**
 
 </details>
 
