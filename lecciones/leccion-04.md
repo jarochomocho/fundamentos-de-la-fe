@@ -152,48 +152,56 @@ La iglesia se encuentra en todos lados. Desde Pentecostes ha estado en palacios 
 
 ---
 
-### No somos una denominacion — somos una familia
+### La iglesia tiene una mision: adorar, edificar, enviar
 
 **Versiculo ancla**
 
-> "Pues hay un solo cuerpo y un solo Espiritu, tal como ustedes fueron llamados a una misma esperanza gloriosa. Hay un solo Senor, una sola fe, un solo bautismo." — Efesios 4:4-5 (NTV)
+> "Vayan y hagan discipulos de todas las naciones, bautizandolas en el nombre del Padre, del Hijo y del Espiritu Santo. Ensenenles a obedecer todos los mandatos que les he dado. Y tengan por seguro esto: que yo estoy con ustedes siempre, hasta el fin de los tiempos." — Mateo 28:19-20 (NTV)
 
 <details open>
 <summary><b>Versiculos de apoyo</b></summary>
 
-> "Ustedes son linaje escogido, real sacerdocio, nacion santa, pueblo que pertenece a Dios." — 1 Pedro 2:9 (NTV)
+> "Recibiran poder cuando el Espiritu Santo descienda sobre ustedes; y seran mis testigos... hasta los lugares mas lejanos de la tierra." — Hechos 1:8 (NTV)
+
+> "Ustedes son la sal de la tierra... Ustedes son la luz del mundo." — Mateo 5:13-14 (NTV)
+
+> "Preocupemonos los unos por los otros, a fin de animarnos al amor y a las buenas obras. Y no dejemos de congregarnos." — Hebreos 10:24-25 (NTV)
 
 </details>
 
 <details>
 <summary><b>Preguntas para grupos pequenos</b></summary>
 
-**¿Hay una sola forma correcta de ser iglesia — o el Espiritu puede obrar en formas distintas en distintos lugares?**
+**Jesus le dijo a la iglesia que fuera al mundo a hacer discipulos (Mateo 28:19-20). Si una iglesia solo se ocupa de si misma y se olvida de los de afuera — ¿esta siendo fiel a lo que Jesus le pidio?**
 
-**Si alguien del grupo encontrara una iglesia local donde se siente en casa, ¿deberiamos celebrarlo o sentirnos amenazados? ¿Por que?**
+**Los primeros cristianos hacian tres cosas al mismo tiempo: adoraban a Dios, se cuidaban unos a otros, y cada dia se sumaban mas personas al grupo (Hechos 2:42-47). ¿Que crees que pasa con una iglesia cuando solo hace una de esas tres?**
 
-**★** Algunos de nosotros hemos ido a la iglesia toda la vida sin que fuera realmente nuestra. Otros nunca habian tenido nada parecido a esto. ¿Que significa para ti que este grupo exista?
+**★** Si este grupo es iglesia — y no solo un estudio biblico — ¿que nos toca hacer fuera de este cuarto?
 
 </details>
 
 #### Ideas centrales
 
-Este grupo no existe para competir con ninguna iglesia ni para ganar gente para una denominacion. No somos protestantes reclutando catolicos, ni evangelicos reclutando a nadie. El Espiritu Santo hace la obra — nosotros solo queremos avivar la fe.
+La iglesia no existe solo para reunirse. Tiene una mision con tres dimensiones inseparables: adorar, edificar, enviar.
 
-Sabemos que muchos aqui han ido a una iglesia toda su vida. Y sabemos que para algunos, a pesar de eso, este puede ser el primer lugar donde la fe se vuelve real y personal. No porque las otras iglesias hayan fallado — sino porque a veces Dios usa un grupo pequeno, una sala, una mesa, para despertar lo que llevaba anos dormido.
+**Adoracion** (hacia arriba). La iglesia existe primero para adorar a Dios: orar, escuchar su Palabra, partir el pan, alabar. No es una actividad entre otras — es el centro de todo. Los primeros creyentes «se dedicaban a las ensenanzas de los apostoles, a la comunion fraternal, a partir el pan y a la oracion» (Hechos 2:42). Todo lo demas nace de ahi.
 
-Animamos a cada persona a congregarse donde el Espiritu la guie — sea aqui, sea en una parroquia, sea en una iglesia local de cualquier tradicion. Lo que importa es que la Palabra se predique, que haya comunion real entre creyentes, y que Cristo sea el centro. El Credo Niceno describe la iglesia con cuatro palabras que la tradicion ha conservado: una, santa, catolica y apostolica. Una — porque hay un solo Senor. Santa — no porque sus miembros sean perfectos sino porque el Espiritu la habita. Catolica — universal, para todos. Apostolica — fiel al testimonio de los apostoles.
+**Edificacion mutua** (hacia adentro). Hebreos 10:24-25 lo resume: animarnos unos a otros al amor y a las buenas obras, no dejar de congregarnos, sostenernos. La iglesia es el lugar donde cada miembro crece al servir a los demas — y donde nadie crece solo.
 
-Pero tambien reconocemos algo: para algunos en este grupo, esto es lo primero que han conocido como su iglesia. Y si es asi, eso no es menos valido. Pablo lo dijo con sencillez: «Donde dos o tres se reunen en mi nombre, alli estoy yo.»
+**Mision al mundo** (hacia afuera). La palabra *apostolica* significa *enviada* — del griego *apostolos*, enviado. La iglesia no es un club cerrado: recibio el mandato de hacer discipulos de todas las naciones (Mateo 28:19-20), de ser luz del mundo y sal de la tierra (Mateo 5:13-14), de ser testigos hasta lo ultimo de la tierra (Hechos 1:8). Una iglesia que no proclama afuera deja de ser iglesia — se convierte en un club.
+
+Las tres dimensiones se necesitan. Adorar sin edificar produce fe solitaria. Edificar sin enviar produce un grupo cerrado. Enviar sin adorar produce activismo vacio. Las tres juntas son la vida completa de la iglesia.
+
+Y la mision no es tarea del pastor, del misionero o del sacerdote — es tarea de todos. Cuando la iglesia de Jerusalen fue perseguida, «los creyentes que se esparcieron predicaban la Buena Noticia acerca de Jesus dondequiera que iban» (Hechos 8:4). No eran apostoles — eran cristianos comunes. La mision es de cada uno.
 
 <details>
 <summary><b>Errores comunes</b></summary>
 
 > [!WARNING]
-> ⚖️ **«Todas las iglesias son iguales — da lo mismo a cual pertenezco.»** No todas las expresiones de iglesia mantienen igual fidelidad a la Palabra y a la vida en comunidad. La tradicion ofrece una regla practica: «Cuanto mas puramente se predique la Palabra de Dios en una iglesia y cuanto mas se acerque a la norma de la Escritura, mas pura sera la iglesia.»[^4]
+> ⛪ **«La iglesia existe para cuidar a sus miembros.»** Eso es solo una parte. Si la iglesia se reduce a misas, retiros y estudios — pero no hay proclamacion al mundo ni sal ni luz afuera — se ha convertido en un club religioso. Cristo no murio para fundar un club.
 
 > [!WARNING]
-> 🏷️ **«Si no pertenezco a una denominacion conocida, no soy parte de la iglesia real.»** La iglesia no se define por una etiqueta denominacional sino por la presencia de Cristo, la fidelidad a la Palabra y la comunion real entre creyentes. Pablo llamo iglesia a reuniones en casas de gente comun — no a instituciones con credenciales.
+> 👔 **«La mision es trabajo del pastor, del misionero o del cura.»** En el Nuevo Testamento cada creyente es enviado. La iglesia perseguida «iba por todas partes anunciando las buenas nuevas» (Hechos 8:4), y no eran apostoles — eran cristianos comunes como nosotros.
 
 </details>
 
@@ -219,7 +227,6 @@ Pero tambien reconocemos algo: para algunos en este grupo, esto es lo primero qu
 [^1]: Oden, *Cristianismo Clásico*, [p. 1390](../assets/oden-cristianismo-clasico.pdf) — ekklesia aplicada a reuniones en casas
 [^2]: Oden, *Cristianismo Clásico*, [p. 1392](../assets/oden-cristianismo-clasico.pdf) — toda la iglesia presente localmente
 [^3]: Oden, *Cristianismo Clásico*, [p. 1395](../assets/oden-cristianismo-clasico.pdf) — la iglesia primitiva en casas
-[^4]: Oden, *Cristianismo Clásico*, [p. 1410](../assets/oden-cristianismo-clasico.pdf) — pureza de la predicación como marca
 
 **Fuente:** Oden, [*Cristianismo Clásico*](../assets/oden-cristianismo-clasico.pdf), Libro 3, Parte III, Cap. 7-8.
 
