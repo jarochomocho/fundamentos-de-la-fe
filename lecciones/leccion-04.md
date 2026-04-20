@@ -52,54 +52,6 @@ La imagen es organica: pretender ser cristiano sin iglesia es como pretender que
 
 </details>
 
----
-
-### La iglesia es el cuerpo de Cristo en la historia
-
-**Versiculo ancla**
-
-> "Dios puso todas las cosas bajo la autoridad de Cristo y lo nombro cabeza de todas las cosas para beneficio de la iglesia. Y la iglesia es el cuerpo de Cristo; el la completa y la llena, y tambien es quien da plenitud a todas las cosas en todas partes con su presencia." — Efesios 1:22-23 (NTV)
-
-<details open>
-<summary><b>Versiculos de apoyo</b></summary>
-
-> "Cristo amo a la iglesia y se entrego a si mismo por ella para santificarla." — Efesios 5:25 (NTV)
-
-> "Lleven los unos las cargas de los otros, y asi cumpliran la ley de Cristo." — Galatas 6:2 (NTV)
-
-</details>
-
-<details>
-<summary><b>Preguntas para grupos pequenos</b></summary>
-
-**¿La iglesia en la Biblia parece ser un edificio o mas bien un cuerpo? ¿De que esta conformado ese cuerpo? ¿Que pasaria si uno falta?**
-
-**Muchos creen que la iglesia es responsabilidad del pastor — el predica, organiza, cuida, dirige, y los demas vienen a recibir. Si la iglesia es un cuerpo con muchos miembros, ¿que esta mal con esa idea?**
-
-**Si Cristo es la cabeza y nosotros somos el cuerpo, ¿que parte del cuerpo crees que eres tu en este grupo — y que pasaria si esa parte faltara?**
-
-</details>
-
-#### Ideas centrales
-
-La iglesia no es solo una institucion humana con fines religiosos. Es la continuacion de la presencia de Cristo en la historia. Ignacio de Antioquia lo dijo en el siglo II con una frase que la tradicion nunca olvido: «Donde esta Jesucristo, alli esta la Iglesia.» Crisostomo resumio la relacion de Cristo con su iglesia en una cadena de imagenes: «La desposo como esposa, la ama como a una hija, provee para ella como si fuera una sierva, la guarda como a una virgen. Como cabeza provee para ella, como raiz la hace crecer, como pastor la alimenta.»
-
-Pertenecer a la iglesia no es solo asistir a reuniones — es participar de la vida del cuerpo de Cristo. Y eso incluye lo que pasa fuera de la reunion. Pablo lo dijo con claridad: «Lleven los unos las cargas de los otros» (Galatas 6:2). Ser iglesia significa buscarnos durante la semana, escucharnos cuando algo anda mal, asistir al que esta pasando por algo dificil. No somos un grupo que se ve una vez y se olvida — somos una familia que se procura.
-
-La iglesia es un cuerpo, no un auditorio. Y en un cuerpo, cada parte tiene una funcion. Pablo lo dice sin rodeos: el ojo no puede decirle al pie «no te necesito» (1 Corintios 12:21). Parte esencial de la vida cristiana es descubrir cual es tu funcion en el cuerpo — que don te dio el Espiritu, para que te puso donde estas. No somos espectadores que venimos a que el pastor haga la iglesia por nosotros. Cuando un solo miembro — sea pastor, sacerdote, padre o lider — intenta hacer el trabajo de todos, el cuerpo se atrofia. Y cuando los demas miembros se cruzan de brazos esperando que alguien lo haga, la iglesia deja de ser cuerpo y se vuelve un show con publico.
-
-Pero pertenecer al cuerpo no significa que el cuerpo sea perfecto. Corinto tenia divisiones graves — y Pablo seguia llamandola iglesia de Dios. La iglesia visible siempre ha tenido trigo y cizana mezclados. Cristo no abandono a Corinto, y la respuesta clasica tampoco es abandonar — es permanecer y crecer juntos.
-
-<details>
-<summary><b>Errores comunes</b></summary>
-
-> [!WARNING]
-> 🏢 **«La iglesia es solo una organizacion humana — Cristo y yo no necesitamos intermediarios.»** La iglesia no es un intermediario entre Cristo y el creyente — es el cuerpo a traves del cual Cristo mismo actua. El Espiritu que mora en el creyente individual es el mismo Espiritu que forma la comunidad. No son realidades separables.
-
-> [!WARNING]
-> 🎭 **«La iglesia esta llena de hipocritas — me alejo de eso.»** La iglesia visible siempre ha tenido trigo y cizana. Pero la respuesta clasica no es abandonarla — es reformarla y mantenerse en ella. La imperfeccion de la iglesia no la invalida; la hace humana.
-
-</details>
 
 ---
 
@@ -147,6 +99,55 @@ La iglesia se encuentra en todos lados. Desde Pentecostes ha estado en palacios 
 
 > [!WARNING]
 > 📉 **«Un grupo pequeno no es iglesia de verdad — es solo un estudio biblico.»** Pablo llamo ekklesia a la reunion en casa de Priscila y Aquila con la misma palabra que uso para la iglesia de Corinto o de Efeso. No hay una version menor de iglesia en el Nuevo Testamento.
+
+</details>
+
+---
+
+### La iglesia es el cuerpo de Cristo en la historia
+
+**Versiculo ancla**
+
+> "Dios puso todas las cosas bajo la autoridad de Cristo y lo nombro cabeza de todas las cosas para beneficio de la iglesia. Y la iglesia es el cuerpo de Cristo; el la completa y la llena, y tambien es quien da plenitud a todas las cosas en todas partes con su presencia." — Efesios 1:22-23 (NTV)
+
+<details open>
+<summary><b>Versiculos de apoyo</b></summary>
+
+> "Cristo amo a la iglesia y se entrego a si mismo por ella para santificarla." — Efesios 5:25 (NTV)
+
+> "Lleven los unos las cargas de los otros, y asi cumpliran la ley de Cristo." — Galatas 6:2 (NTV)
+
+</details>
+
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
+
+**¿La iglesia en la Biblia parece ser un edificio o mas bien un cuerpo? ¿De que esta conformado ese cuerpo? ¿Que pasaria si uno falta?**
+
+**Muchos creen que la iglesia es responsabilidad del pastor — el predica, organiza, cuida, dirige, y los demas vienen a recibir. Si la iglesia es un cuerpo con muchos miembros, ¿que esta mal con esa idea?**
+
+**Si Cristo es la cabeza y nosotros somos el cuerpo, ¿que parte del cuerpo crees que eres tu en este grupo — y que pasaria si esa parte faltara?**
+
+</details>
+
+#### Ideas centrales
+
+La iglesia no es solo una institucion humana con fines religiosos. Es la continuacion de la presencia de Cristo en la historia. Ignacio de Antioquia lo dijo en el siglo II con una frase que la tradicion nunca olvido: «Donde esta Jesucristo, alli esta la Iglesia.» Crisostomo resumio la relacion de Cristo con su iglesia en una cadena de imagenes: «La desposo como esposa, la ama como a una hija, provee para ella como si fuera una sierva, la guarda como a una virgen. Como cabeza provee para ella, como raiz la hace crecer, como pastor la alimenta.»
+
+Pertenecer a la iglesia no es solo asistir a reuniones — es participar de la vida del cuerpo de Cristo. Y eso incluye lo que pasa fuera de la reunion. Pablo lo dijo con claridad: «Lleven los unos las cargas de los otros» (Galatas 6:2). Ser iglesia significa buscarnos durante la semana, escucharnos cuando algo anda mal, asistir al que esta pasando por algo dificil. No somos un grupo que se ve una vez y se olvida — somos una familia que se procura.
+
+La iglesia es un cuerpo, no un auditorio. Y en un cuerpo, cada parte tiene una funcion. Pablo lo dice sin rodeos: el ojo no puede decirle al pie «no te necesito» (1 Corintios 12:21). Parte esencial de la vida cristiana es descubrir cual es tu funcion en el cuerpo — que don te dio el Espiritu, para que te puso donde estas. No somos espectadores que venimos a que el pastor haga la iglesia por nosotros. Cuando un solo miembro — sea pastor, sacerdote, padre o lider — intenta hacer el trabajo de todos, el cuerpo se atrofia. Y cuando los demas miembros se cruzan de brazos esperando que alguien lo haga, la iglesia deja de ser cuerpo y se vuelve un show con publico.
+
+Pero pertenecer al cuerpo no significa que el cuerpo sea perfecto. Corinto tenia divisiones graves — y Pablo seguia llamandola iglesia de Dios. La iglesia visible siempre ha tenido trigo y cizana mezclados. Cristo no abandono a Corinto, y la respuesta clasica tampoco es abandonar — es permanecer y crecer juntos.
+
+<details>
+<summary><b>Errores comunes</b></summary>
+
+> [!WARNING]
+> 🏢 **«La iglesia es solo una organizacion humana — Cristo y yo no necesitamos intermediarios.»** La iglesia no es un intermediario entre Cristo y el creyente — es el cuerpo a traves del cual Cristo mismo actua. El Espiritu que mora en el creyente individual es el mismo Espiritu que forma la comunidad. No son realidades separables.
+
+> [!WARNING]
+> 🎭 **«La iglesia esta llena de hipocritas — me alejo de eso.»** La iglesia visible siempre ha tenido trigo y cizana. Pero la respuesta clasica no es abandonarla — es reformarla y mantenerse en ella. La imperfeccion de la iglesia no la invalida; la hace humana.
 
 </details>
 
