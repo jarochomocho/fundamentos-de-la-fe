@@ -74,7 +74,7 @@ La imagen es organica: pretender ser cristiano sin iglesia es como pretender que
 
 **¿La iglesia en la Biblia parece ser un edificio o mas bien un cuerpo? ¿De que esta conformado ese cuerpo? ¿Que pasaria si uno falta?**
 
-**¿Cual es la diferencia entre asistir a una iglesia y pertenecer a una iglesia?**
+**Muchos creen que la iglesia es responsabilidad del pastor — el predica, organiza, cuida, dirige, y los demas vienen a recibir. Si la iglesia es un cuerpo con muchos miembros, ¿que esta mal con esa idea? ¿Que pierde el cuerpo cuando un solo miembro intenta hacer el trabajo de todos?**
 
 **Si Cristo es la cabeza y nosotros somos el cuerpo, ¿que parte del cuerpo crees que eres tu en este grupo — y que pasaria si esa parte faltara?**
 
@@ -85,6 +85,8 @@ La imagen es organica: pretender ser cristiano sin iglesia es como pretender que
 La iglesia no es solo una institucion humana con fines religiosos. Es la continuacion de la presencia de Cristo en la historia. Ignacio de Antioquia lo dijo en el siglo II con una frase que la tradicion nunca olvido: «Donde esta Jesucristo, alli esta la Iglesia.» Crisostomo resumio la relacion de Cristo con su iglesia en una cadena de imagenes: «La desposo como esposa, la ama como a una hija, provee para ella como si fuera una sierva, la guarda como a una virgen. Como cabeza provee para ella, como raiz la hace crecer, como pastor la alimenta.»
 
 Pertenecer a la iglesia no es solo asistir a reuniones — es participar de la vida del cuerpo de Cristo. Y eso incluye lo que pasa fuera de la reunion. Pablo lo dijo con claridad: «Lleven los unos las cargas de los otros» (Galatas 6:2). Ser iglesia significa buscarnos durante la semana, escucharnos cuando algo anda mal, asistir al que esta pasando por algo dificil. No somos un grupo que se ve una vez y se olvida — somos una familia que se procura.
+
+La iglesia es un cuerpo, no un auditorio. Y en un cuerpo, cada parte tiene una funcion. Pablo lo dice sin rodeos: el ojo no puede decirle al pie «no te necesito» (1 Corintios 12:21). Parte esencial de la vida cristiana es descubrir cual es tu funcion en el cuerpo — que don te dio el Espiritu, para que te puso donde estas. No somos espectadores que venimos a que el pastor haga la iglesia por nosotros. Cuando un solo miembro — sea pastor, sacerdote, padre o lider — intenta hacer el trabajo de todos, el cuerpo se atrofia. Y cuando los demas miembros se cruzan de brazos esperando que alguien lo haga, la iglesia deja de ser cuerpo y se vuelve un show con publico.
 
 Pero pertenecer al cuerpo no significa que el cuerpo sea perfecto. Corinto tenia divisiones graves — y Pablo seguia llamandola iglesia de Dios. La iglesia visible siempre ha tenido trigo y cizana mezclados. Cristo no abandono a Corinto, y la respuesta clasica tampoco es abandonar — es permanecer y crecer juntos.
 
@@ -121,7 +123,7 @@ Pero pertenecer al cuerpo no significa que el cuerpo sea perfecto. Corinto tenia
 
 **Pablo usa la misma palabra — ekklesia — para un grupo en una casa y para la iglesia de una ciudad entera. ¿Que nos dice eso sobre lo que hace que algo sea iglesia?**
 
-**Muchos de nosotros hemos ido a una iglesia sin que se sintiera como nuestra. ¿Que crees que hace la diferencia entre ir a un lugar y pertenecer a una comunidad?**
+**Algunos cristianos — catolicos romanos o protestantes — sostienen que SU denominacion es «la verdadera iglesia», porque es la mas antigua, la mas fiel, o la mas institucional. Si Pablo llamaba ekklesia a un grupo reunido en una casa, sin jerarquia ni credenciales — ¿que tan solido es validar la iglesia por su antiguedad o por su institucion?**
 
 **★** Si la iglesia primitiva se reunia en casas sin edificios, sin programas y sin estructura profesional — y Pablo la llamaba ekklesia igual — ¿que nos impediria a nosotros ser iglesia aqui?
 
@@ -134,6 +136,8 @@ La palabra ekklesia se aplico tanto a reuniones en casas como a asambleas en ciu
 La congregacion local no pertenece a la iglesia universal como un pedazo pertenece a un pastel — es la iglesia universal expresada en un lugar concreto. «Toda la iglesia esta presente localmente, como en el caso de la iglesia de Dios en Corinto» (1 Corintios 1:2).[^2] Un grupo de creyentes reunidos en una casa, dedicados a la ensenanza apostolica, la comunion, el partir el pan y la oracion (Hechos 2:42), es iglesia — no una version menor de ella.
 
 En sus primeras decadas, la ekklesia no tenia edificios propios. Se reunia en casas (1 Corintios 16:19, Colosenses 4:15).[^3] La iglesia primitiva crecio no en templos sino en hogares — y el Espiritu obro ahi con la misma plenitud.
+
+La iglesia se encuentra en todos lados. Desde Pentecostes ha estado en palacios y en catacumbas, en basilicas y en cuartos traseros, en tribus remotas y en ciudades enteras. Nunca necesito de instituciones humanas para existir — sobrevivio siglos de persecucion sin templos, imperios que intentaron borrarla, cismas que la dividieron. Cristo prometio que las puertas del Hades no prevaleceran contra ella (Mateo 16:18), y la promesa se cumple igual en la catedral medieval que en la sala de una casa hoy. Esto no demerita a las instituciones — en ellas tambien hay iglesia, y muchas veces con fidelidad notable. Pero nos libera de la ansiedad de tener que identificar «la verdadera» entre las opciones visibles. Donde este Cristo, ahi esta. Y el esta en muchos lados a la vez — «de toda tribu, lengua, pueblo y nacion» (Apocalipsis 7:9).
 
 <details>
 <summary><b>Errores comunes</b></summary>
