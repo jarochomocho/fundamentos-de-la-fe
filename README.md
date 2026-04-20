@@ -21,8 +21,8 @@ Un recorrido por las verdades esenciales del cristianismo.
 | 00 | [¿Por que cristianismo?](lecciones/leccion-00.md) | — | [▶️](https://www.youtube.com/live/kJCeVkQszP4) |
 | 01 | [La salvacion](lecciones/leccion-01.md) | — | [▶️](https://www.youtube.com/live/3ZbTNAKHqpM) |
 | 02 | [La santidad y la regeneracion](lecciones/leccion-02.md) | — | [▶️](https://www.youtube.com/live/pWDv0bQyTqA?si=87Kwp9x-eErcai7d) |
-| 03 | [El Espiritu Santo](lecciones/leccion-03.md) | — | — |
-| 04 | [La iglesia](lecciones/leccion-04.md) | — | — |
+| 03 | [El Espiritu Santo](lecciones/leccion-03.md) | — | [▶️](https://www.youtube.com/live/lL3eynBqwiE?si=-hvL9vsO10vLD19o) |
+| 04 | [La iglesia](lecciones/leccion-04.md) | — | [▶️](https://www.youtube.com/live/FzmE99gvMzY?si=94kchqlvw03gHl6c) |
 | 05 | [La Palabra](lecciones/leccion-05.md) | — | — |
 | 06 | [La oracion](lecciones/leccion-06.md) | — | — |
 
