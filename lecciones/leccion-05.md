@@ -30,7 +30,7 @@
 
 **Si la Biblia no viniera de Dios — si fuera solo un libro de hombres como cualquier otro — ¿que cambiaria en la fe cristiana? ¿Seguiria teniendo sentido seguirla?**
 
-**Cuando lees la Biblia (o cuando la escuchas en misa o en el servicio), ¿la recibes como un texto religioso antiguo, o como algo que Dios te quiere decir hoy?**
+**Cuando lees la Biblia (o cuando la escuchas en misa o en el servicio), ¿la recibes como un texto antiguo, o como algo que Dios te quiere decir hoy?**
 
 </details>
 
@@ -74,9 +74,9 @@ El resultado es que la Biblia contiene todo lo que se requiere para conocer a Di
 
 **Jesus dijo que el Espiritu Santo «nos guiaria a toda la verdad». Y Pablo dice que «la fe viene por oir la Palabra». ¿Que relacion ves entre el Espiritu Santo y la Biblia — trabajan por separado o juntos?**
 
-**Si alguien te dice: «Yo no necesito leer la Biblia porque el Espiritu Santo me habla directamente al corazon» — ¿que problema tiene esa idea? ¿Como le responderias?**
+**Si alguien te dice: «Yo no necesito leer la Biblia porque Dios me habla directamente al corazon» — ¿que problema tiene esa idea?**
 
-**¿Alguna vez sentiste que un versiculo de la Biblia te «corto» o te hablo directamente en un momento especifico de tu vida? ¿Como fue?**
+**¿Alguna vez sentiste que un versiculo de la Biblia te «cortó» o te hablo directamente en un momento especifico de tu vida? ¿Como fue?**
 
 </details>
 
@@ -166,7 +166,7 @@ El criterio de lectura es la analogia de la fe: los textos oscuros se iluminan a
 
 **Pablo dice que Dios nos transforma «al cambiarnos la manera de pensar». ¿Que diferencia hay entre leer la Biblia solo para aprender mas cosas, y leerla para que Dios cambie como pensamos?**
 
-**Si alguien lee la Biblia toda su vida pero sigue pensando y viviendo igual que antes — ¿que crees que esta pasando? ¿Le falta algo a esa lectura?**
+**Si alguien lee la Biblia toda su vida pero sigue pensando y viviendo igual que antes — ¿que crees que esta pasando?**
 
 **¿Hay alguna parte de tu manera de pensar o de vivir que sabes que la Biblia esta tratando de cambiar — pero que a veces te cuesta soltar?**
 
