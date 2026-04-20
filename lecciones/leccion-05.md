@@ -23,6 +23,17 @@
 
 </details>
 
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
+
+**Pablo dice que la Biblia es «inspirada por Dios» — literalmente, «exhalada por Dios». En palabras sencillas, ¿que nos quiere decir eso sobre de donde viene la Biblia?**
+
+**Si la Biblia no viniera de Dios — si fuera solo un libro de hombres como cualquier otro — ¿que cambiaria en la fe cristiana? ¿Seguiria teniendo sentido seguirla?**
+
+**Cuando lees la Biblia (o cuando la escuchas en misa o en el servicio), ¿la recibes como un texto religioso antiguo, o como algo que Dios te quiere decir hoy?**
+
+</details>
+
 #### Ideas centrales
 
 La Biblia no existe porque alguien decidio escribir un libro sobre Dios. Existe porque Dios actuo en la historia — y esos actos necesitaban ser recordados con precision. Despues de la muerte de los testigos oculares, la Escritura se convirtio en el principal acceso de los creyentes a la historia de la revelacion.
@@ -55,6 +66,17 @@ El resultado es que la Biblia contiene todo lo que se requiere para conocer a Di
 > "La fe viene por oir, es decir, por oir la Buena Noticia acerca de Cristo."  — Romanos 10:17 (NTV)
 
 > "Tomen la espada del Espiritu, la cual es la palabra de Dios."  — Efesios 6:17 (NTV)
+
+</details>
+
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
+
+**Jesus dijo que el Espiritu Santo «nos guiaria a toda la verdad». Y Pablo dice que «la fe viene por oir la Palabra». ¿Que relacion ves entre el Espiritu Santo y la Biblia — trabajan por separado o juntos?**
+
+**Si alguien te dice: «Yo no necesito leer la Biblia porque el Espiritu Santo me habla directamente al corazon» — ¿que problema tiene esa idea? ¿Como le responderias?**
+
+**¿Alguna vez sentiste que un versiculo de la Biblia te «corto» o te hablo directamente en un momento especifico de tu vida? ¿Como fue?**
 
 </details>
 
@@ -93,6 +115,17 @@ La Palabra tambien funciona como «la espada del Espiritu» — corta los autoen
 
 </details>
 
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
+
+**El salmista dice que la Palabra de Dios es «una lampara para mis pies». Una lampara de mano en la oscuridad no alumbra todo el camino — solo alumbra lo suficiente para dar el siguiente paso. ¿Que nos enseña esa imagen sobre como nos guia la Biblia?**
+
+**Si la Biblia ya tiene todo lo que necesitamos para conocer a Dios y ser salvos — ¿que opinas de los grupos o maestros que dicen tener «revelaciones nuevas» o «verdades ocultas» que no estan en la Biblia?**
+
+**¿Alguna vez has pensado «la Biblia es muy complicada, yo no la puedo entender»? ¿Que le responderias a alguien que dice eso hoy, con lo que sabes?**
+
+</details>
+
 #### Ideas centrales
 
 La Biblia contiene todo lo que se necesita para la salvacion y para la vida cristiana. No es un libro incompleto que necesite suplementos. La Confesion de Westminster lo afirma con claridad: para el conocimiento salvífico de Dios no se requiere ningun conocimiento fundamentalmente nuevo o diferente del que se revela en la Escritura.
@@ -125,6 +158,17 @@ El criterio de lectura es la analogia de la fe: los textos oscuros se iluminan a
 > "Examiname, oh Dios, y conoce mi corazon; pruebame y conoce mis pensamientos. Senalame cualquier cosa en mi que te ofenda."  — Salmos 139:23-24 (NTV)
 
 > "Ustedes deben quitarse su vieja naturaleza pecaminosa y su antigua manera de actuar y renovar los pensamientos y las actitudes de su mente."  — Efesios 4:22-23 (NTV)
+
+</details>
+
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
+
+**Pablo dice que Dios nos transforma «al cambiarnos la manera de pensar». ¿Que diferencia hay entre leer la Biblia solo para aprender mas cosas, y leerla para que Dios cambie como pensamos?**
+
+**Si alguien lee la Biblia toda su vida pero sigue pensando y viviendo igual que antes — ¿que crees que esta pasando? ¿Le falta algo a esa lectura?**
+
+**¿Hay alguna parte de tu manera de pensar o de vivir que sabes que la Biblia esta tratando de cambiar — pero que a veces te cuesta soltar?**
 
 </details>
 
