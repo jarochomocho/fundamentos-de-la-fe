@@ -5,6 +5,8 @@
 > [!NOTE]
 > ¿Quien hace que lo que Cristo hizo sea real en mi vida concreta? El Espiritu Santo no es un tema adicional — es el agente que aplica la obra del Hijo al creyente. Sin el, la salvacion permanece externa. Con el, se vuelve interior, viva y transformadora.
 
+[![Ver clase en video](https://img.youtube.com/vi/lL3eynBqwiE/hqdefault.jpg)](https://www.youtube.com/live/lL3eynBqwiE?si=-hvL9vsO10vLD19o)
+
 **Versiculo para memorizar:** Romanos 8:11
 
 ---
