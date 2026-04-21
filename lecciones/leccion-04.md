@@ -5,6 +5,8 @@
 > [!NOTE]
 > La iglesia no es una organizacion voluntaria de personas que comparten intereses religiosos. Es la comunidad convocada por el Espiritu — el cuerpo a traves del cual Cristo sigue presente en la historia. No estamos aqui para ganar gente para una denominacion. Estamos aqui porque el Espiritu nos reunio — y donde el reune, hay iglesia.
 
+[![Ver clase en video](https://img.youtube.com/vi/FzmE99gvMzY/hqdefault.jpg)](https://www.youtube.com/live/FzmE99gvMzY?si=94kchqlvw03gHI6c)
+
 **Versiculo para memorizar:** Hechos 2:42
 
 ---
@@ -35,11 +37,11 @@
 
 #### Ideas centrales
 
-La iglesia no surge de la iniciativa humana ni de un acuerdo voluntario entre personas afines. Es convocada por el llamado de Dios — la palabra ekklesia significa literalmente los llamados. No es una coalicion de intereses; es un pueblo reunido por el Espiritu. Cipriano lo dijo en el siglo III: «El creyente recien nacido no puede balbucear a Dios como Abba sin ekklesia como madre.»
+La iglesia no surge de la iniciativa humana ni de un acuerdo voluntario entre personas afines. Es convocada por el llamado de Dios — la palabra ekklesia significa literalmente **los llamados**. No es una coalicion de intereses; es **un pueblo reunido por el Espiritu**. Cipriano lo dijo en el siglo III: «El creyente recien nacido no puede balbucear a Dios como Abba sin ekklesia como madre.»
 
-Nadie puede convertirse en cristiano por si solo, ni practicar su fe durante toda su vida por si solo, ni predicarse a si mismo, ni servirse solo a si mismo, ni siquiera leer las Escrituras sin confiar en la comunidad que las ha protegido, copiado y transmitido a traves del tiempo. La iglesia no es un suplemento opcional a la fe individual — es el contexto sin el cual la fe individual no puede crecer ni mantenerse.
+Nadie puede convertirse en cristiano por si solo, ni practicar su fe durante toda su vida por si solo, ni predicarse a si mismo, ni servirse solo a si mismo, ni siquiera leer las Escrituras sin confiar en la comunidad que las ha protegido, copiado y transmitido a traves del tiempo. **La iglesia no es un suplemento opcional a la fe individual — es el contexto sin el cual la fe individual no puede crecer ni mantenerse.**
 
-La imagen es organica: pretender ser cristiano sin iglesia es como pretender que el pancreas puede funcionar bien extraido del cuerpo.
+La imagen es organica: **pretender ser cristiano sin iglesia es como pretender que el pancreas puede funcionar bien extraido del cuerpo.**
 
 <details>
 <summary><b>Errores comunes</b></summary>
@@ -83,13 +85,13 @@ La imagen es organica: pretender ser cristiano sin iglesia es como pretender que
 
 #### Ideas centrales
 
-La palabra ekklesia se aplico tanto a reuniones en casas como a asambleas en ciudades enteras. Pablo saludo a «la iglesia que se reune en su casa» al hablar de Priscila y Aquila (Romanos 16:5), de Filemon y Apia (Filemon 2), y de la casa de Ninfas (Colosenses 4:15). La misma palabra — ekklesia — se uso para todas.[^1]
+La palabra ekklesia se aplico tanto a reuniones en casas como a asambleas en ciudades enteras. Pablo saludo a «la iglesia que se reune en su casa» al hablar de Priscila y Aquila (Romanos 16:5), de Filemon y Apia (Filemon 2), y de la casa de Ninfas (Colosenses 4:15). **La misma palabra — ekklesia — se uso para todas.**[^1]
 
-La congregacion local no pertenece a la iglesia universal como un pedazo pertenece a un pastel — es la iglesia universal expresada en un lugar concreto. «Toda la iglesia esta presente localmente, como en el caso de la iglesia de Dios en Corinto» (1 Corintios 1:2).[^2] Un grupo de creyentes reunidos en una casa, dedicados a la ensenanza apostolica, la comunion, el partir el pan y la oracion (Hechos 2:42), es iglesia — no una version menor de ella.
+La congregacion local no pertenece a la iglesia universal como un pedazo pertenece a un pastel — **es la iglesia universal expresada en un lugar concreto**. «Toda la iglesia esta presente localmente, como en el caso de la iglesia de Dios en Corinto» (1 Corintios 1:2).[^2] Un grupo de creyentes reunidos en una casa, dedicados a la ensenanza apostolica, la comunion, el partir el pan y la oracion (Hechos 2:42), **es iglesia — no una version menor de ella.**
 
-En sus primeras decadas, la ekklesia no tenia edificios propios. Se reunia en casas (1 Corintios 16:19, Colosenses 4:15).[^3] La iglesia primitiva crecio no en templos sino en hogares — y el Espiritu obro ahi con la misma plenitud.
+En sus primeras decadas, **la ekklesia no tenia edificios propios**. Se reunia en casas (1 Corintios 16:19, Colosenses 4:15).[^3] La iglesia primitiva crecio no en templos sino en hogares — y el Espiritu obro ahi con la misma plenitud.
 
-La iglesia se encuentra en todos lados. Desde Pentecostes ha estado en palacios y en catacumbas, en basilicas y en cuartos traseros, en tribus remotas y en ciudades enteras. Nunca necesito de instituciones humanas para existir — sobrevivio siglos de persecucion sin templos, imperios que intentaron borrarla, cismas que la dividieron. Cristo prometio que las puertas del Hades no prevaleceran contra ella (Mateo 16:18), y la promesa se cumple igual en la catedral medieval que en la sala de una casa hoy. Esto no demerita a las instituciones — en ellas tambien hay iglesia, y muchas veces con fidelidad notable. Pero nos libera de la ansiedad de tener que identificar «la verdadera» entre las opciones visibles. Donde este Cristo, ahi esta. Y el esta en muchos lados a la vez — «de toda tribu, lengua, pueblo y nacion» (Apocalipsis 7:9).
+La iglesia se encuentra en todos lados. Desde Pentecostes ha estado en palacios y en catacumbas, en basilicas y en cuartos traseros, en tribus remotas y en ciudades enteras. **Nunca necesito de instituciones humanas para existir** — sobrevivio siglos de persecucion sin templos, imperios que intentaron borrarla, cismas que la dividieron. Cristo prometio que las puertas del Hades no prevaleceran contra ella (Mateo 16:18), y la promesa se cumple igual en la catedral medieval que en la sala de una casa hoy. Esto no demerita a las instituciones — en ellas tambien hay iglesia, y muchas veces con fidelidad notable. Pero nos libera de la ansiedad de tener que identificar «la verdadera» entre las opciones visibles. Donde este Cristo, ahi esta. Y el esta en muchos lados a la vez — «de toda tribu, lengua, pueblo y nacion» (Apocalipsis 7:9).
 
 <details>
 <summary><b>Errores comunes</b></summary>
@@ -132,13 +134,13 @@ La iglesia se encuentra en todos lados. Desde Pentecostes ha estado en palacios 
 
 #### Ideas centrales
 
-La iglesia no es solo una institucion humana con fines religiosos. Es la continuacion de la presencia de Cristo en la historia. Ignacio de Antioquia lo dijo en el siglo II con una frase que la tradicion nunca olvido: «Donde esta Jesucristo, alli esta la Iglesia.» Crisostomo resumio la relacion de Cristo con su iglesia en una cadena de imagenes: «La desposo como esposa, la ama como a una hija, provee para ella como si fuera una sierva, la guarda como a una virgen. Como cabeza provee para ella, como raiz la hace crecer, como pastor la alimenta.»
+La iglesia no es solo una institucion humana con fines religiosos. **Es la continuacion de la presencia de Cristo en la historia.** Ignacio de Antioquia lo dijo en el siglo II con una frase que la tradicion nunca olvido: «Donde esta Jesucristo, alli esta la Iglesia.» Crisostomo resumio la relacion de Cristo con su iglesia en una cadena de imagenes: «La desposo como esposa, la ama como a una hija, provee para ella como si fuera una sierva, la guarda como a una virgen. Como cabeza provee para ella, como raiz la hace crecer, como pastor la alimenta.»
 
-Pertenecer a la iglesia no es solo asistir a reuniones — es participar de la vida del cuerpo de Cristo. Y eso incluye lo que pasa fuera de la reunion. Pablo lo dijo con claridad: «Lleven los unos las cargas de los otros» (Galatas 6:2). Ser iglesia significa buscarnos durante la semana, escucharnos cuando algo anda mal, asistir al que esta pasando por algo dificil. No somos un grupo que se ve una vez y se olvida — somos una familia que se procura.
+**Pertenecer a la iglesia no es solo asistir a reuniones — es participar de la vida del cuerpo de Cristo.** Y eso incluye lo que pasa fuera de la reunion. Pablo lo dijo con claridad: «Lleven los unos las cargas de los otros» (Galatas 6:2). Ser iglesia significa buscarnos durante la semana, escucharnos cuando algo anda mal, asistir al que esta pasando por algo dificil. **No somos un grupo que se ve una vez y se olvida — somos una familia que se procura.**
 
-La iglesia es un cuerpo, no un auditorio. Y en un cuerpo, cada parte tiene una funcion. Pablo lo dice sin rodeos: el ojo no puede decirle al pie «no te necesito» (1 Corintios 12:21). Parte esencial de la vida cristiana es descubrir cual es tu funcion en el cuerpo — que don te dio el Espiritu, para que te puso donde estas. No somos espectadores que venimos a que el pastor haga la iglesia por nosotros. Cuando un solo miembro — sea pastor, sacerdote, padre o lider — intenta hacer el trabajo de todos, el cuerpo se atrofia. Y cuando los demas miembros se cruzan de brazos esperando que alguien lo haga, la iglesia deja de ser cuerpo y se vuelve un show con publico.
+**La iglesia es un cuerpo, no un auditorio.** Y en un cuerpo, cada parte tiene una funcion. Pablo lo dice sin rodeos: el ojo no puede decirle al pie «no te necesito» (1 Corintios 12:21). Parte esencial de la vida cristiana es **descubrir cual es tu funcion en el cuerpo** — que don te dio el Espiritu, para que te puso donde estas. **No somos espectadores que venimos a que el pastor haga la iglesia por nosotros.** Cuando un solo miembro — sea pastor, sacerdote, padre o lider — intenta hacer el trabajo de todos, el cuerpo se atrofia. Y cuando los demas miembros se cruzan de brazos esperando que alguien lo haga, la iglesia deja de ser cuerpo y se vuelve un show con publico.
 
-Pero pertenecer al cuerpo no significa que el cuerpo sea perfecto. Corinto tenia divisiones graves — y Pablo seguia llamandola iglesia de Dios. La iglesia visible siempre ha tenido trigo y cizana mezclados. Cristo no abandono a Corinto, y la respuesta clasica tampoco es abandonar — es permanecer y crecer juntos.
+Pero pertenecer al cuerpo no significa que el cuerpo sea perfecto. Corinto tenia divisiones graves — y Pablo seguia llamandola iglesia de Dios. La iglesia visible siempre ha tenido trigo y cizana mezclados. Cristo no abandono a Corinto, **y la respuesta clasica tampoco es abandonar — es permanecer y crecer juntos.**
 
 <details>
 <summary><b>Errores comunes</b></summary>
@@ -183,17 +185,17 @@ Pero pertenecer al cuerpo no significa que el cuerpo sea perfecto. Corinto tenia
 
 #### Ideas centrales
 
-La iglesia no existe solo para reunirse. Tiene una mision con tres dimensiones inseparables: adorar, edificar, enviar.
+**La iglesia no existe solo para reunirse.** Tiene una mision con tres dimensiones inseparables: adorar, edificar, enviar.
 
-**Adoracion** (hacia arriba). La iglesia existe primero para adorar a Dios: orar, escuchar su Palabra, partir el pan, alabar. No es una actividad entre otras — es el centro de todo. Los primeros creyentes «se dedicaban a las ensenanzas de los apostoles, a la comunion fraternal, a partir el pan y a la oracion» (Hechos 2:42). Todo lo demas nace de ahi.
+**Adoracion** (hacia arriba). La iglesia existe primero para adorar a Dios: orar, escuchar su Palabra, partir el pan, alabar. **No es una actividad entre otras — es el centro de todo.** Los primeros creyentes «se dedicaban a las ensenanzas de los apostoles, a la comunion fraternal, a partir el pan y a la oracion» (Hechos 2:42). Todo lo demas nace de ahi.
 
-**Edificacion mutua** (hacia adentro). Hebreos 10:24-25 lo resume: animarnos unos a otros al amor y a las buenas obras, no dejar de congregarnos, sostenernos. La iglesia es el lugar donde cada miembro crece al servir a los demas — y donde nadie crece solo.
+**Edificacion mutua** (hacia adentro). Hebreos 10:24-25 lo resume: animarnos unos a otros al amor y a las buenas obras, no dejar de congregarnos, sostenernos. **La iglesia es el lugar donde cada miembro crece al servir a los demas — y donde nadie crece solo.**
 
-**Mision al mundo** (hacia afuera). La palabra *apostolica* significa *enviada* — del griego *apostolos*, enviado. La iglesia no es un club cerrado: recibio el mandato de hacer discipulos de todas las naciones (Mateo 28:19-20), de ser luz del mundo y sal de la tierra (Mateo 5:13-14), de ser testigos hasta lo ultimo de la tierra (Hechos 1:8). Una iglesia que no proclama afuera deja de ser iglesia — se convierte en un club.
+**Mision al mundo** (hacia afuera). La palabra *apostolica* significa *enviada* — del griego *apostolos*, enviado. La iglesia no es un club cerrado: recibio el mandato de hacer discipulos de todas las naciones (Mateo 28:19-20), de ser luz del mundo y sal de la tierra (Mateo 5:13-14), de ser testigos hasta lo ultimo de la tierra (Hechos 1:8). **Una iglesia que no proclama afuera deja de ser iglesia — se convierte en un club.**
 
-Las tres dimensiones se necesitan. Adorar sin edificar produce fe solitaria. Edificar sin enviar produce un grupo cerrado. Enviar sin adorar produce activismo vacio. Las tres juntas son la vida completa de la iglesia.
+**Las tres dimensiones se necesitan.** Adorar sin edificar produce fe solitaria. Edificar sin enviar produce un grupo cerrado. Enviar sin adorar produce activismo vacio. Las tres juntas son la vida completa de la iglesia.
 
-Y la mision no es tarea del pastor, del misionero o del sacerdote — es tarea de todos. Cuando la iglesia de Jerusalen fue perseguida, «los creyentes que se esparcieron predicaban la Buena Noticia acerca de Jesus dondequiera que iban» (Hechos 8:4). No eran apostoles — eran cristianos comunes. La mision es de cada uno.
+**La mision no es tarea del pastor, del misionero o del sacerdote — es tarea de todos.** Cuando la iglesia de Jerusalen fue perseguida, «los creyentes que se esparcieron predicaban la Buena Noticia acerca de Jesus dondequiera que iban» (Hechos 8:4). No eran apostoles — eran cristianos comunes. La mision es de cada uno.
 
 <details>
 <summary><b>Errores comunes</b></summary>
