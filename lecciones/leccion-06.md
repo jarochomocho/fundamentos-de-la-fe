@@ -19,7 +19,16 @@
 
 > "Pues el mismo sufrio cuando fue tentado, por eso puede socorrer a los que son tentados."  — Hebreos 2:18 (NTV)
 
-> "El ora por nosotros como nuestro Sacerdote; ora en nosotros como nuestra Cabeza; nosotros le oramos como nuestro Dios."  — Agustin
+</details>
+
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
+
+**Hebreos dice que podemos llegar a Dios "con toda confianza". ¿Cuándo te acercas tú a alguien así — a un amigo, a tu mamá — sin miedo a que te rechace? ¿Qué hace que esa confianza exista?**
+
+**Si nadie estuviera escuchando cuando oras — si Dios no existiera o simplemente no le importara — ¿tendría sentido seguir orando? ¿Por qué sí o por qué no?**
+
+**¿Crees de verdad que alguien te está escuchando cuando oras? ¿Cómo lo sabes, o cómo lo dudas?**
 
 </details>
 
@@ -56,6 +65,17 @@ Gregorio Nacianceno lo capturo en una de las imagenes mas reveladoras del Nuevo 
 
 </details>
 
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
+
+**El versículo habla de dos espíritus opuestos — uno de esclavitud y miedo, y otro de adopción que nos hace hijos. ¿Cuál sería la diferencia entre orar como esclavo y orar como hijo?**
+
+**Si un hijo puede llamar a su papá a cualquier hora y por cualquier cosa, sin miedo a molestarlo — ¿qué dice eso sobre cómo Dios espera que le hablemos?**
+
+**¿Hay algo de lo que te cueste hablar con Dios — como si fuera demasiado pequeño, o demasiado vergonzoso, para mencionárselo?**
+
+</details>
+
 #### Ideas centrales
 
 Jesus uso el termino Abba — una forma de dirigirse a Dios de una intimidad sin precedente en la tradicion judia. Joachim Jeremias, el estudioso del Nuevo Testamento, lo senalo: «No hay analogia alguna en toda la oracion judia para que Dios sea llamado Abba.» Jesus no solo lo uso el — lo compartio. Por la fe, los creyentes participan de esa misma relacion e intimidad con el Padre.
@@ -83,11 +103,14 @@ Cuando ese grito «¡Abba, Padre!» surge espontaneamente de lo profundo del cor
 
 > "Ademas, el Espiritu Santo nos ayuda en nuestra debilidad. Por ejemplo, nosotros no sabemos que quiere Dios que le pidamos en oracion, pero el Espiritu Santo ora por nosotros con gemidos que no pueden expresarse con palabras. Y el Padre, que conoce cada corazon, sabe lo que el Espiritu dice, porque el Espiritu intercede por nosotros, los creyentes, en armonia con la voluntad de Dios."  — Romanos 8:26-27 (NTV)
 
-<details open><summary><b>Versiculos de apoyo</b></summary>
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
 
-> "Nadie esta tan desprovisto de gracia que no pueda orar por la gracia."  — Agustin
+**Pablo dice que el Espíritu ora por nosotros cuando nosotros no sabemos cómo. ¿Qué nos dice eso — que Dios espera que lleguemos con todo resuelto antes de orar, o que podemos llegar como sea?**
 
-> "Padre, Hijo y Espiritu se unen en la intercesion por la humanidad caida: el Padre escucha, el Hijo aboga por nuestra causa y el Espiritu impulsa nuestros corazones a hablar correctamente."  — Agustin
+**Si alguien dice "yo nunca he orado porque no sé cómo" — ¿qué le dirías con este versículo en la mano?**
+
+**¿Alguna vez estuviste en una situación en que no sabías qué pedir, ni qué decir — solo sentías una carga muy pesada? ¿Qué hiciste con eso?**
 
 </details>
 
@@ -122,7 +145,16 @@ La oracion tambien forma. Gregorio de Nisa senalo que la peticion «venga tu rei
 
 > "Crea en mi, oh Dios, un corazon puro, y renueva un espiritu recto dentro de mi."  — Salmos 51:10 (NTV)
 
-> "El Padre Nuestro presupone que el pecado continuara en los creyentes."  — Segundo Concilio de Mileto
+</details>
+
+<details>
+<summary><b>Preguntas para grupos pequenos</b></summary>
+
+**Pablo dice que después de orar llega "la paz de Dios que supera todo entendimiento". ¿Esa paz llega porque Dios resolvió el problema, o puede llegar aunque el problema todavía esté?**
+
+**Si la oración formara el carácter poco a poco — como entrenar todos los días, no solo cuando hay partido — ¿qué tendrías que cambiar tú en tu rutina para que la oración fuera más así?**
+
+**¿Tiendes a orar más cuando hay problemas, o también cuando todo va bien? ¿Qué dice eso de cómo ves la oración?**
 
 </details>
 
@@ -150,6 +182,17 @@ El Segundo Concilio de Mileto fue explicito: el Padre Nuestro presupone que el p
 > **Para llevar**
 >
 > La oracion no es un deber religioso que cumplir — es la respiracion de la vida nueva. Funciona porque hay alguien que escucha: un Hijo que intercede arriba y un Espiritu que intercede adentro. Funciona aunque no tengamos las palabras correctas, aunque no sintamos nada, aunque no entendamos que pedir. Y no solo resuelve problemas — forma el corazon, orienta la voluntad y va alineando la vida del creyente con la voluntad de Dios. Agustin lo expreso en una sola frase: «Nos hiciste para ti, y nuestro corazon esta inquieto hasta que descanse en ti.»
+
+---
+
+> *"Rezo porque no puedo evitarlo. Rezo porque soy incapaz de no hacerlo. La necesidad brota de mí a todas horas, dormido o despierto. No cambia a Dios — me cambia a mí."*
+> *— C.S. Lewis*
+
+> *"La oración es el ancla de los que están en tormenta, la riqueza de los pobres, el remedio de los enfermos, el tesoro de los que nada tienen."*
+> *— Juan Crisóstomo (siglo IV)*
+
+> *"La oración no es otra cosa que un trato de amistad con Dios."*
+> *— Teresa de Ávila (siglo XVI)*
 
 ---
 
